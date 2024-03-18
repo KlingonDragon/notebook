@@ -21,8 +21,8 @@ Super long; good for watching alone over several months.
 0) The Clone Wars (TV)
 0) Episode III: Revenge of the Sith
 0) The Bad Batch
-0) Solo: A Star Wars Story (10 BBY)
-0) Obi-Wan Kenobi (9BBY)
+0) Solo: A Star Wars Story
+0) Obi-Wan Kenobi
 0) Rebels
 0) Andor
 0) Rogue One: A Star Wars Story
@@ -32,7 +32,7 @@ Super long; good for watching alone over several months.
 0) The Mandalorian (S1-2)
 0) The Book of Boba Fett
 0) The Mandalorian (S3)
-0) Ashoka
+0) Ahsoka
 
 ¹ Note: While I describe this as a full watch order, it is *my* full watch order. I don't rewatch everything
 
