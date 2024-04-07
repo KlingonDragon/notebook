@@ -1,0 +1,12 @@
+# Things YouTube seems to thinks I like
+- Brooklyn Nine-Nine
+- CSS
+- Doctor Who
+- F1
+- Global GeoPolitics
+- History
+- Maths
+- Physics
+- Python
+- Star Trek
+- Star Wars
