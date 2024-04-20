@@ -1,10 +1,12 @@
 # Things YouTube seems to thinks I like
 - Brooklyn Nine-Nine
+- Computers
 - CSS
 - Doctor Who
 - F1
 - Global GeoPolitics
 - History
+- JavaScript
 - Maths
 - Physics
 - Python
