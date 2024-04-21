@@ -1,3 +1,2 @@
 # Nautii
-
-A promising young nautilan warrior
+Promising young nautilan warrior
