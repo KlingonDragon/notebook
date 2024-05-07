@@ -1,8 +1,8 @@
 # Politics
 
 # Economy
-- Renationalise the Railways, Electricity, Gas Water, Telecoms, and Royal Mail
-- Nationalise WiFi and busses
+- Renationalise the Railways, Electricity, Gas, Water, Sewage, Telecoms, and Royal Mail
+- Nationalise WiFi, Busses and other Mass Transit, and Non-NHS Healthcare
 - Combine income tax and NI
 
 ## Defence
