@@ -4,6 +4,7 @@
 - Renationalise the Railways, Electricity, Gas, Water, Sewage, Telecoms, and Royal Mail
 - Nationalise WiFi, Busses and other Mass Transit, and Non-NHS Healthcare
 - Combine income tax and NI
+- Forbid dividends by companies in breach of enviromental or other regulations
 
 ## Defence
 - 4% of GDP 
