@@ -4,44 +4,50 @@
 Cards where the specific set/artwork doesn't matter
 
 ### To complete a National Pokédex
-- Zigzagoon
-- Linoone
-- Gulpin
-- Rampardos
-- Aurorus
-- Goodra
-- Nihilego
-- Buzzwole
-- Naganadel
-- Blacephalon
-- Hatterene
-- Spectrier
-- Lokix
-- Pawmo
-- Pawmot
-- Dolliv
-- Arboliva
-- Garganacl
-- Bombirdier
-- Orthworm
-- GlimmetCetitan
-- Kingambit
-- Baxcalibur
-- Wo-Chien
-- Iron Leaves
-- Dipplin
-- Poltchageist
-- Sinistcha
-- Okidogi
-- Munkidori
-- Fezandipiti
-- Ogerpon
-- Archaludon
-- Hydrapple
-- Iron Crown
-- Terapagos
-- Terapagos
-- Pecharunt
+- Gen III
+    - Zigzagoon
+    - Linoone
+    - Gulpin
+- Gen IV
+    - Rampardos
+- Gen VI
+    - Aurorus
+    - Goodra
+- Gen VII
+    - Nihilego
+    - Buzzwole
+    - Naganadel
+    - Blacephalon
+- Gen VIII
+    - Hatterene
+    - Spectrier
+- Gen IX
+    - Lokix
+    - Pawmo
+    - Pawmot
+    - Dolliv
+    - Arboliva
+    - Garganacl
+    - Bombirdier
+    - Orthworm
+    - GlimmetCetitan
+    - Kingambit
+    - Baxcalibur
+    - Wo-Chien
+    - Iron Leaves
+    - Dipplin
+    - Poltchageist
+    - Sinistcha
+    - Okidogi
+    - Munkidori
+    - Fezandipiti
+    - Ogerpon
+    - Archaludon
+    - Hydrapple
+    - Iron Crown
+    - Terapagos
+    - Terapagos
+    - Pecharunt
 
 ### Other reasons
 Card|Why I want it
