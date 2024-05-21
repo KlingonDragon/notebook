@@ -22,17 +22,12 @@ Cards where the specific set/artwork doesn't matter
 - Dolliv
 - Arboliva
 - Garganacl
-- Bellibolt
-- Klawf
-- Espathra
 - Bombirdier
 - Orthworm
 - GlimmetCetitan
 - Kingambit
 - Baxcalibur
 - Wo-Chien
-- Chien-Pao
-- Ting-Lu
 - Iron Leaves
 - Dipplin
 - Poltchageist
@@ -55,10 +50,8 @@ Venusaur-EX|For my MVenusaur-EX
 Slowbro-EX|For my MSlowbro-EX
 Aerodactyl-EX|For my MAerodactyl-EX
 Manectric-EX|For my MManectric-EX
-Altaria-EX|For my MAltaria-EX
 Absol-EX|For my MAbsol-EX
 Latios-EX|For my MLatios-EX
-Darkrai V|For my Darkrai VSTAR
 Mandibuzz|For my Mandibuzz BREAK
 Tornadus V|For my Tornadus VMAX
 Florges|For my Florges BREAK
