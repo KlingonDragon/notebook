@@ -30,18 +30,11 @@ Cards where the specific set/artwork doesn't matter
     - Garganacl
     - Bombirdier
     - Orthworm
-    - GlimmetCetitan
+    - Cetitan
     - Kingambit
     - Baxcalibur
     - Wo-Chien
-    - Iron Leaves
-    - Dipplin
-    - Poltchageist
     - Sinistcha
-    - Okidogi
-    - Munkidori
-    - Fezandipiti
-    - Ogerpon
     - Archaludon
     - Hydrapple
     - Iron Crown
@@ -60,7 +53,6 @@ Absol-EX|For my MAbsol-EX
 Latios-EX|For my MLatios-EX
 Mandibuzz|For my Mandibuzz BREAK
 Tornadus V|For my Tornadus VMAX
-Florges|For my Florges BREAK
 *Hisuian* Decidueye V|For my *Hisuian* Decidueye VSTAR
 Cinderace V|For my Cinderace VMAX
 Alcremie V|For my Alcremie VMAX
