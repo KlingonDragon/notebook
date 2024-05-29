@@ -7,6 +7,7 @@ Cards where the specific set/artwork doesn't matter
 - Gen III
     - Zigzagoon
     - Linoone
+    - Azurill
     - Gulpin
 - Gen IV
     - Rampardos
