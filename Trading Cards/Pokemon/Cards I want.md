@@ -15,28 +15,18 @@ Cards where the specific set/artwork doesn't matter
     - Aurorus
     - Goodra
 - Gen VII
-    - Nihilego
     - Buzzwole
     - Naganadel
     - Blacephalon
 - Gen VIII
-    - Hatterene
     - Spectrier
 - Gen IX
-    - Lokix
-    - Pawmo
-    - Pawmot
-    - Dolliv
-    - Arboliva
     - Garganacl
-    - Orthworm
     - Cetitan
     - Baxcalibur
-    - Wo-Chien
     - Sinistcha
     - Archaludon
     - Hydrapple
-    - Terapagos
     - Terapagos
     - Pecharunt
 
@@ -45,14 +35,13 @@ Card|Why I want it
 :-:|:--
 Venusaur-EX|For my MVenusaur-EX
 Slowbro-EX|For my MSlowbro-EX
+Vaporeon V|For my Vaporieon VMAX
 Aerodactyl-EX|For my MAerodactyl-EX
 Manectric-EX|For my MManectric-EX
 Absol-EX|For my MAbsol-EX
 Latios-EX|For my MLatios-EX
 Mandibuzz|For my Mandibuzz BREAK
 Tornadus V|For my Tornadus VMAX
-*Hisuian* Decidueye V|For my *Hisuian* Decidueye VSTAR
-Cinderace V|For my Cinderace VMAX
 Alcremie V|For my Alcremie VMAX
 
 

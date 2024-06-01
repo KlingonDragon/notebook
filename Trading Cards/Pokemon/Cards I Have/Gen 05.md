@@ -12,7 +12,6 @@ Quantity|Image|Set|Number
 *#0501*|**Oshawott**
 *#0502*|**Dewott**
 *#0503*|**Samurott**
-*#0503*|**Samurott**
 *#0504*|**Patrat**
 *#0505*|**Watchog**
 *#0506*|**Lillipup**
@@ -31,7 +30,6 @@ Quantity|Image|Set|Number
 *#0519*|**Pidove**
 *#0520*|**Tranquill**
 *#0521*|**Unfezant**
-*#0521*|**Unfezant**
 *#0522*|**Blitzle**
 *#0523*|**Zebstrika**
 *#0524*|**Roggenrola**
@@ -41,7 +39,6 @@ Quantity|Image|Set|Number
 *#0528*|**Swoobat**
 *#0529*|**Drilbur**
 *#0530*|**Excadrill**
-*#0531*|**Audino**
 *#0531*|**Audino**
 *#0532*|**Timburr**
 *#0533*|**Gurdurr**
@@ -61,16 +58,11 @@ Quantity|Image|Set|Number
 *#0547*|**Whimsicott**
 *#0548*|**Petilil**
 *#0549*|**Lilligant**
-*#0549*|**Lilligant**
-*#0550*|**Basculin**
-*#0550*|**Basculin**
 *#0550*|**Basculin**
 *#0551*|**Sandile**
 *#0552*|**Krokorok**
 *#0553*|**Krookodile**
 *#0554*|**Darumaka**
-*#0554*|**Darumaka**
-*#0555*|**Darmanitan**
 *#0555*|**Darmanitan**
 *#0556*|**Maractus**
 *#0557*|**Dwebble**
@@ -79,7 +71,6 @@ Quantity|Image|Set|Number
 *#0560*|**Scrafty**
 *#0561*|**Sigilyph**
 *#0562*|**Yamask**
-*#0562*|**Yamask**
 *#0563*|**Cofagrigus**
 *#0564*|**Tirtouga**
 *#0565*|**Carracosta**
@@ -87,10 +78,7 @@ Quantity|Image|Set|Number
 *#0567*|**Archeops**
 *#0568*|**Trubbish**
 *#0569*|**Garbodor**
-*#0569*|**Garbodor**
 *#0570*|**Zorua**
-*#0570*|**Zorua**
-*#0571*|**Zoroark**
 *#0571*|**Zoroark**
 *#0572*|**Minccino**
 *#0573*|**Cinccino**
@@ -106,12 +94,6 @@ Quantity|Image|Set|Number
 *#0583*|**Vanillish**
 *#0584*|**Vanilluxe**
 *#0585*|**Deerling**
-*#0585*|**Deerling**
-*#0585*|**Deerling**
-*#0585*|**Deerling**
-*#0586*|**Sawsbuck**
-*#0586*|**Sawsbuck**
-*#0586*|**Sawsbuck**
 *#0586*|**Sawsbuck**
 *#0587*|**Emolga**
 *#0588*|**Karrablast**
@@ -119,8 +101,6 @@ Quantity|Image|Set|Number
 *#0590*|**Foongus**
 *#0591*|**Amoonguss**
 *#0592*|**Frillish**
-*#0592*|**Frillish**
-*#0593*|**Jellicent**
 *#0593*|**Jellicent**
 *#0594*|**Alomomola**
 *#0595*|**Joltik**
@@ -147,7 +127,6 @@ Quantity|Image|Set|Number
 *#0616*|**Shelmet**
 *#0617*|**Accelgor**
 *#0618*|**Stunfisk**
-*#0618*|**Stunfisk**
 *#0619*|**Mienfoo**
 *#0620*|**Mienshao**
 *#0621*|**Druddigon**
@@ -157,7 +136,6 @@ Quantity|Image|Set|Number
 *#0625*|**Bisharp**
 *#0626*|**Bouffalant**
 *#0627*|**Rufflet**
-*#0628*|**Braviary**
 *#0628*|**Braviary**
 *#0629*|**Vullaby**
 *#0630*|**Mandibuzz**
@@ -172,18 +150,11 @@ Quantity|Image|Set|Number
 *#0639*|**Terrakion**
 *#0640*|**Virizion**
 *#0641*|**Tornadus**
-*#0641*|**Tornadus**
-*#0642*|**Thundurus**
 *#0642*|**Thundurus**
 *#0643*|**Reshiram**
 *#0644*|**Zekrom**
 *#0645*|**Landorus**
-*#0645*|**Landorus**
-*#0646*|**Kyurem**
-*#0646*|**Kyurem**
 *#0646*|**Kyurem**
 *#0647*|**Keldeo**
-*#0647*|**Keldeo**
-*#0648*|**Meloetta**
 *#0648*|**Meloetta**
 *#0649*|**Genesect**

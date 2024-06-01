@@ -5,7 +5,6 @@ Quantity|Image|Set|Number
 *#0722*|**Rowlet**
 *#0723*|**Dartrix**
 *#0724*|**Decidueye**
-*#0724*|**Decidueye**
 *#0725*|**Litten**
 *#0726*|**Torracat**
 *#0727*|**Incineroar**
@@ -23,16 +22,10 @@ Quantity|Image|Set|Number
 *#0739*|**Crabrawler**
 *#0740*|**Crabominable**
 *#0741*|**Oricorio**
-*#0741*|**Oricorio**
-*#0741*|**Oricorio**
-*#0741*|**Oricorio**
 *#0742*|**Cutiefly**
 *#0743*|**Ribombee**
 *#0744*|**Rockruff**
 *#0745*|**Lycanroc**
-*#0745*|**Lycanroc**
-*#0745*|**Lycanroc**
-*#0746*|**Wishiwashi**
 *#0746*|**Wishiwashi**
 *#0747*|**Mareanie**
 *#0748*|**Toxapex**
@@ -62,7 +55,6 @@ Quantity|Image|Set|Number
 *#0772*|**Type: Null**
 *#0773*|**Silvally**
 *#0774*|**Minior**
-*#0774*|**Minior**
 *#0775*|**Komala**
 *#0776*|**Turtonator**
 *#0777*|**Togedemaru**
@@ -88,9 +80,6 @@ Quantity|Image|Set|Number
 *#0797*|**Celesteela**
 *#0798*|**Kartana**
 *#0799*|**Guzzlord**
-*#0800*|**Necrozma**
-*#0800*|**Necrozma**
-*#0800*|**Necrozma**
 *#0800*|**Necrozma**
 *#0801*|**Magearna**
 *#0802*|**Marshadow**
