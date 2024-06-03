@@ -20,6 +20,7 @@ Trait|Top Doctor|Runner Up
 --:|:-:|:-:
 Wisdom|XII|XIV
 Goofy/Fun|XI|IX
+Cool|X|IX
 Friendly|XIII|XV
 Grand Presence|XII|XI
 Sexy|XV|IX
