@@ -1,4 +1,4 @@
-# Useful XKCD Images
+# Useful Itchy Feet Images
 
 ## To communicate
 Image|URL|Useful For
