@@ -3,6 +3,7 @@
 ## To communicate
 Image|URL|Useful For
 :-:|:-:|:--
+![](https://storage.googleapis.com/tinyview-d78fb.appspot.com/itchy-feet/2021/2021-02-14-bad-signs/7.jpg)|`https://storage.googleapis.com/tinyview-d78fb.appspot.com/itchy-feet/2021/2021-02-14-bad-signs/7.jpg`|We're not the same
 
 ## Just for fun
 Image|URL
