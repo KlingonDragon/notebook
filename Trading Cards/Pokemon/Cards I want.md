@@ -69,4 +69,4 @@ Image|Card Name|Set|Number|Why I want it
 ![Dipplin](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SV06/SV06_EN_170.png)|Dipplin|![Twilight Masquerade](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sv06-expansion-symbol.png)|170/167|Traded one away
 ![Teal Mask Ogerpon ex](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SV06/SV06_EN_25.png)|Teal Mask Ogerpon ex|![Twilight Masquerade](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sv06-expansion-symbol.png)|25/167|I have the other masks
 
-¹ Note: 1 is the celebrations version one is original. I want to get the partner for both.
+¹ Note: One is the celebrations version one is original. I want to get the partner for both.
