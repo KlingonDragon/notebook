@@ -1,50 +1,20 @@
 # Blue-Eyes / Tenpai Yu-Gi-Oh! Deck
 ## Combinations
 ### Blue-Eyes
-$$
-\colorbox{#321600}{$
-\text{Maiden With Eyes Of Blue}\xRightarrow{\text{Target Of Attack}}\begin{cases}
-   \text{Negate Attack} \\ \text{Change Battle Position} \\ \underbrace{\text{Blue-Eyes White Dragon}}_{Special}\begin{cases}
-   Hand \\ Deck \\ GY
-\end{cases} 
-\end{cases}
-$}$$
-
-$$\colorbox{#321600}{$
-\text{Maiden With Eyes Of Blue}\xRightarrow[\text{Not Damage Step}]{\text{Target of Card or Effect}}\underbrace{\text{Blue-Eyes White Dragon}}_{Special}\begin{cases}Hand \\ Deck \\ GY\end{cases}
-$}$$
-
-$$\colorbox{#321600}{$
-\text{Sage With Eyes Of Blue}\xRightarrow{\text{Normal Summon}}\underbrace{\text{Level 1 LIGHT Tuner}}_{Add To Hand}\begin{cases}Deck\end{cases}
-$}$$
-
-$$\colorbox{#321600}{$
-\text{Sage With Eyes Of Blue}\xRightarrow{\text{Discard}}\begin{cases}\underbrace{\text{Effect Monster You Control}}_{Send To GY} \\ \underbrace{\text{Blue-Eyes}}_{Special}\begin{cases}Deck\end{cases} 
-\end{cases}
-$}$$
-
-$$\colorbox{#321600}{$
-\text{White Stone Of Legend}\xRightarrow{\text{Sent To GY}}\underbrace{\text{Blue-Eyes White Dragon}}_{Add To Hand}\begin{cases}Deck\end{cases}
-$}$$
-
-$$\colorbox{#321600}{$
-\text{Blue-Eyes Jet Dragon}\xRightarrow[\begin{rcases}Field \\ GY \end{rcases}\text{Blue-Eyes White Dragon}]{\text{A card destroyed by battle or card effect}}\underbrace{Self}_{Special}\begin{cases}GY \\ Hand \end{cases}
-$}$$
-
-$$\colorbox{#321600}{$
-\text{Blue-Eyes Jet Dragon}\xRightarrow[\begin{rcases}Field \\ GY \end{rcases}\text{Blue-Eyes White Dragon}]{\text{Battles}}\underbrace{\text{Card Opponent Controls}}_{Return To Hand}
-$}$$
-
-$$\colorbox{#321600}{$
-\text{Blue-Eyes Abyss Dragon}\xRightarrow[\begin{rcases}Field \\ GY \end{rcases}\text{Blue-Eyes White Dragon}]{\text{Special Summon}}\underbrace{\text{Ritual Spell}/\text{Polymerization}}_{Add To Hand}\begin{cases}Deck\end{cases}
-$}$$
-
-$$\colorbox{#321600}{$
-\text{Blue-Eyes Abyss Dragon}\xRightarrow[\begin{rcases}Field \\ GY \end{rcases}\text{Blue-Eyes White Dragon}]{\text{End Phase}}\underbrace{Level \geq 8 Dragon}_{Add To Hand}\begin{cases}Deck\end{cases}
-$}$$
-
-$$\colorbox{#321600}{$
-\begin{rcases}GY \end{rcases}\text{Blue-Eyes Abyss Dragon}\xRightarrow[\begin{rcases}Field \\ GY \end{rcases}\text{Blue-Eyes White Dragon}]{}\begin{cases}\underbrace{Self}_{Banish}\begin{cases}Deck\end{cases} \\ \underbrace{All Level \geq 8 Dragons}_{Gain 1000 ATK}\end{cases}
-$}$$
+Card|When|Cost|Effect|Restrictions
+:--:|:-:|:-:|:--|:-:
+**Maiden With Eyes Of Blue**|Targeted for Attack|Negate Attack|Change Battle Pos.<hr/>SS "Blue-Eyes White Dragon" (H/D/GY)|Any once per turn
+**Maiden With Eyes Of Blue**|Target of Effect<hr/>Not Damage Step||SS "Blue-Eyes White Dragon" (H/D/GY)|Any once per turn
+**Sage With Eyes Of Blue**|NS||1 L1 LIGHT Tuner (D⇒H)
+**Sage With Eyes Of Blue**||Discard<hr/>Effect Monster ⇒ GY|SS "Blue-Eyes White Dragon" (D)|This once per turn
+**White Stone Of Legend**|⇒ GY||"Blue-Eyes White Dragon" (D⇒H)
+**Blue-Eyes jet Dragon**|Passive||Other cards can not be destroyed by opponent's card effects
+**Blue-Eyes jet Dragon**|Card destroyed by battle/effect<hr/>"Blue-Eyes White Dragon" (F/GY)||SS Self (GY/H)|This once per turn
+**Blue-Eyes jet Dragon**|"Blue-Eyes White Dragon" (F/GY)<hr/>Damage Step/This Battles||1 opponent's card (F⇒H)|This once per turn
+**Blue-Eyes Abyss Dragon**|SS<hr/>"Blue-Eyes White Dragon" (F/GY)||Ritual Spell or "Polymerization" (D⇒H)|This once per turn
+**Blue-Eyes Abyss Dragon**|"Blue-Eyes White Dragon" (F/GY)<hr/>Damage Step/This Battles||1 opponent's card (F⇒H)|This once per turn
+**Blue-Eyes Abyss Dragon**|End Phase<hr/>"Blue-Eyes White Dragon" (F/GY)||1 L8+ Dragon (D⇒H)|This once per turn
+**Blue-Eyes Abyss Dragon**|Damage Step/This Battles<hr/>"Blue-Eyes White Dragon" (F/GY)||1 opponent's card (F⇒H)|This once per turn
+**Blue-Eyes Abyss Dragon**|"Blue-Eyes White Dragon" (F/GY)|Self (GY⇒Banish)|L8+ Dragons / +1000 ATK|This once per turn
 
 ### Tenpai
