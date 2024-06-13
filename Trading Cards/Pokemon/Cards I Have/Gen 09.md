@@ -12,6 +12,7 @@ Quantity|Image|Set|Number
 2|![Floragato](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SV02/SV02_EN_14.png)|![Paldea Evolved](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sv02-expansion-symbol.png)|14/193
 *#0908*|**Meowscarada**
 1|![Meowscarada ex](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SVP/SVP_EN_78.png)|![Scarlet & Violet Promo](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/svp-expansion-symbol.png)|78/1
+1|![Meowscarada ex](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SV02/SV02_EN_271.png)|![Paldea Evolved](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sv02-expansion-symbol.png)|271/193
 *#0909*|**Fuecoco**
 2|![Fuecoco](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SVP/SVP_EN_2.png)|![Scarlet & Violet Promo](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/svp-expansion-symbol.png)|2/1
 1|![Fuecoco](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SVP/SVP_EN_79.png)|![Scarlet & Violet Promo](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/svp-expansion-symbol.png)|79/1
@@ -38,6 +39,7 @@ Quantity|Image|Set|Number
 1|![Quaxwell](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SV02/SV02_EN_207.png)|![Paldea Evolved](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sv02-expansion-symbol.png)|207/193
 *#0914*|**Quaquaval**
 1|![Quaquaval ex](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SVP/SVP_EN_84.png)|![Scarlet & Violet Promo](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/svp-expansion-symbol.png)|84/1
+1|![Quaquaval ex](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SV02/SV02_EN_235.png)|![Paldea Evolved](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sv02-expansion-symbol.png)|235/193
 *#0915*|**Lechonk**
 3|![Lechonk](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SV01/SV01_EN_154.png)|![Scarlet & Violet](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sv01-expansion-symbol.png)|154/198
 6|![Lechonk](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SV01/SV01_EN_156.png)|![Scarlet & Violet](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sv01-expansion-symbol.png)|156/198
