@@ -39,6 +39,8 @@ Aerodactyl-EX|For my MAerodactyl-EX
 Manectric-EX|For my MManectric-EX
 Absol-EX|For my MAbsol-EX
 Latios-EX|For my MLatios-EX
+Deoxys V|For my Deoxys VSTAR
+Serperior V|For my Serperior VSTAR
 Mandibuzz|For my Mandibuzz BREAK
 Tornadus V|For my Tornadus VMAX
 Alcremie V|For my Alcremie VMAX
