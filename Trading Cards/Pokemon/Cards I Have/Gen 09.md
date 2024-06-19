@@ -235,6 +235,7 @@ Quantity|Image|Set|Number
 1|![Annihilape](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SV4PT5/SV4PT5_EN_47.png)|![Paldean Fates](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sv4pt5-expansion-symbol.png)|47/91
 *#0980*|**Clodsire**
 1|![Paldean Clodsire ex](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SV4PT5/SV4PT5_EN_59.png)|![Paldean Fates](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sv4pt5-expansion-symbol.png)|59/91
+1|![Paldean Clodsire ex](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SV4PT5/SV4PT5_EN_219.png)|![Paldean Fates](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sv4pt5-expansion-symbol.png)|219/91
 *#0981*|**Farigiraf**
 2|![Farigiraf](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SV02/SV02_EN_155.png)|![Paldea Evolved](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sv02-expansion-symbol.png)|155/193
 4|![Farigiraf](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SV06/SV06_EN_84.png)|![Twilight Masquerade](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sv06-expansion-symbol.png)|84/167
@@ -306,6 +307,7 @@ Quantity|Image|Set|Number
 2|![Roaring Moon](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SV05/SV05_EN_109.png)|![Temporal Forces](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sv05-expansion-symbol.png)|109/162
 1|![Roaring Moon ex](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SV04/SV04_EN_262.png)|![Paradox Rift](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sv04-expansion-symbol.png)|262/182
 *#1006*|**Iron Valiant**
+1|![Iron Valiant ex](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SV04/SV04_EN_261.png)|![Paradox Rift](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sv04-expansion-symbol.png)|261/182
 4|![Iron Valiant](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SV05/SV05_EN_79.png)|![Temporal Forces](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sv05-expansion-symbol.png)|79/162
 2|![Iron Valiant](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SV05/SV05_EN_80.png)|![Temporal Forces](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sv05-expansion-symbol.png)|80/162
 *#1007*|**Koraidon**
