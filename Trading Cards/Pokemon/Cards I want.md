@@ -5,25 +5,14 @@ Cards where the specific set/artwork doesn't matter
 
 ### To complete a National Pokédex
 - Gen III
-    - Zigzagoon
-    - Linoone
     - Azurill
-    - Gulpin
 - Gen IV
     - Rampardos
 - Gen VI
     - Aurorus
-- Gen VII
-    - Buzzwole
-    - Naganadel
-    - Blacephalon
 - Gen VIII
     - Spectrier
 - Gen IX
-    - Garganacl
-    - Cetitan
-    - Baxcalibur
-    - Sinistcha
     - Archaludon
     - Hydrapple
     - Terapagos
@@ -36,7 +25,6 @@ Venusaur-EX|For my MVenusaur-EX
 Slowbro-EX|For my MSlowbro-EX
 Vaporeon V|For my Vaporieon VMAX
 Aerodactyl-EX|For my MAerodactyl-EX
-Manectric-EX|For my MManectric-EX
 Absol-EX|For my MAbsol-EX
 Latios-EX|For my MLatios-EX
 Deoxys V|For my Deoxys VSTAR
@@ -44,7 +32,6 @@ Serperior V|For my Serperior VSTAR
 Mandibuzz|For my Mandibuzz BREAK
 Tornadus V|For my Tornadus VMAX
 Alcremie V|For my Alcremie VMAX
-Calyrex|I have the two riders but not the standard
 
 
 ## Specific Cards
@@ -56,6 +43,7 @@ Image|Card Name|Set|Number|Why I want it
 ![Dragonite-EX](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/XY3/XY3_EN_74.png)|Dragonite-EX|![XY-Furious Fists](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/xy3-expansion-symbol.png)|74/111|I have the jumbo
 ![Mew ex](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SV4PT5/SV4PT5_EN_216.png)|Mew ex|![Paldean Fates](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sv4pt5-expansion-symbol.png)|216/91| I like Mew
 ![Scizor-EX](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/XY9/XY9_EN_76.png)|Scizor-EX|![XY-BREAKpoint](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/xy9-expansion-symbol.png)|76/122|I have the jumbo
+![Manectric-EX](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/XY4/XY4_EN_23.png)|Manectric-EX|![XY—Phantom Forces](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/xy4-expansion-symbol.png)|23/119|Mine is German
 ![MManectric-EX](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/XY4/XY4_EN_24.png)|MManectric-EX|![XY-Phantom Forces](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/xy4-expansion-symbol.png)|24/119|Mine is Korean
 &nbsp;|MCamerupt-EX||Promo|I have the jumbo
 ![Giratina V](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SWSH11/SWSH11_EN_186.png)|Giratina V|![Lost Origin](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/swsh11-expansion-symbol.png)|186/196|It looks cool
@@ -66,8 +54,5 @@ Image|Card Name|Set|Number|Why I want it
 ![Zekrom](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/BW1/BW1_EN_114.png)|Zekrom|![Black & White](https://www.pokemon.com/static-assets/content-assets/cms-en-uk/img/tcg/expansion-symbols/bw1-expansion-symbol.png)|114/114|Pairs with my Reshiram¹
 ![Gimmighoul](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SV04/SV04_EN_198.png)|Gimmighoul|![Paradox Rift](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sv04-expansion-symbol.png)|198/182|It's cool
 ![Gholdengo ex](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SV04/SV04_EN_252.png)|Gholdengo ex|![Paradox Rift](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sv04-expansion-symbol.png)|252/182|Less cool but goes with Gimmighoul
-![Iron Valiant ex](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SVP/SVP_EN_68.png)|Iron Valiant ex|![Scarlet & Violet Promo](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/svp-expansion-symbol.png)|68 Promo|I have the jumbo
-![Dipplin](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SV06/SV06_EN_170.png)|Dipplin|![Twilight Masquerade](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sv06-expansion-symbol.png)|170/167|Traded one away
-![Teal Mask Ogerpon ex](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SV06/SV06_EN_25.png)|Teal Mask Ogerpon ex|![Twilight Masquerade](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sv06-expansion-symbol.png)|25/167|I have the other masks
 
 ¹ Note: One is the celebrations version one is original. I want to get the partner for both.
