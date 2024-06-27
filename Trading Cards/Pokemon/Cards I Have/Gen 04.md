@@ -55,9 +55,28 @@ Quantity|Image|Set|Number
 1|![Empoleon LV. 42](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/DP1/DP1_EN_4.png)|![Diamond & Pearl](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/dp1-exp-symbol.png)|4/130
 1|![Empoleon](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/BW5/BW5_EN_29.png)|![Black & White—Dark Explorers](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/bw5-expansion-symbol.png)|29/108
 1|![Empoleon V](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SWSH5/SWSH5_EN_40.png)|![Battle Styles](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/swsh5-expansion-symbol.png)|40/163
+1|![Empoleon V](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SWSH5/SWSH5_EN_145.png)|![Battle Styles](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/swsh5-expansion-symbol.png)|145/163
 *#0396*|**Starly**
+2|![Starly LV. 8](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/DP1/DP1_EN_101.png)|![Diamond & Pearl](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/dp1-exp-symbol.png)|101/130
+1|![Starly LV. 7](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/DP7/DP7_EN_75.png)|![Diamond & Pearl—Stormfront](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/dp7-exp-symbol.png)|75/106
+3|![Starly](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/BW9/BW9_EN_95.png)|![Black & White—Plasma Freeze](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/bw9-expansion-symbol.png)|95/116
+2|![Starly](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/XY8/XY8_EN_125.png)|![XY–BREAKthrough](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/xy8-expansion-symbol.png)|125/162
+2|![Starly](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SM4/SM4_EN_81.png)|![Crimson Invasion](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sm4-expansion-symbol.png)|81/111
+1|![Starly](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SWSH3/SWSH3_EN_145.png)|![Darkness Ablaze](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/swsh3-expansion-symbol.png)|145/189
+5|![Starly](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SWSH9/SWSH9_EN_117.png)|![Brilliant Stars](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/swsh9-expansion-symbol.png)|117/172
+3|![Starly](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SWSH12PT5/SWSH12PT5_EN_110.png)|![Crown Zenith](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/swsh12pt5-expansion-symbol.png)|110/159
+1|![Starly](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SV01/SV01_EN_221.png)|![Scarlet & Violet](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sv01-expansion-symbol.png)|221/198
 *#0397*|**Staravia**
+1|![Staravia LV. 16](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/PL3/PL3_EN_85.png)|![Platinum—Supreme Victors](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/pl3-exp-symbol.png)|85/153
+2|![Staravia](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/BW9/BW9_EN_96.png)|![Black & White—Plasma Freeze](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/bw9-expansion-symbol.png)|96/116
+1|![Staravia](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/XY8/XY8_EN_126.png)|![XY–BREAKthrough](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/xy8-expansion-symbol.png)|126/162
+3|![Staravia](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SM4/SM4_EN_82.png)|![Crimson Invasion](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sm4-expansion-symbol.png)|82/111
+5|![Staravia](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SWSH3/SWSH3_EN_146.png)|![Darkness Ablaze](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/swsh3-expansion-symbol.png)|146/189
+3|![Staravia](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SWSH9/SWSH9_EN_118.png)|![Brilliant Stars](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/swsh9-expansion-symbol.png)|118/172
 *#0398*|**Staraptor**
+1|![Staraptor](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SWSH3/SWSH3_EN_147.png)|![Darkness Ablaze](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/swsh3-expansion-symbol.png)|147/189
+1|![Staraptor](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SWSH9/SWSH9_EN_119.png)|![Brilliant Stars](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/swsh9-expansion-symbol.png)|119/172
+1|![Staraptor](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SV01/SV01_EN_150.png)|![Scarlet & Violet](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sv01-expansion-symbol.png)|150/198
 *#0399*|**Bidoof**
 *#0400*|**Bibarel**
 *#0401*|**Kricketot**
