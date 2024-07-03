@@ -6,6 +6,7 @@ A brief summary of the issues about which I most care and what I would do.
 - Nationalise WiFi, Busses and other Mass Transit, and Non-NHS Healthcare
 - Combine income tax and NI
 - Forbid dividends by companies in breach of enviromental or other regulations
+- Legalise cannabs use but regulate it strongly with similar restrictions to tobacco or alcohol
 
 ## Defence
 - 4% of GDP 
@@ -16,10 +17,10 @@ A brief summary of the issues about which I most care and what I would do.
     - Mandatory for unemployed 18-21 year olds not in higher education
     - Any unemployed person of any age may apply
 
-
 ## Government & Democracy
 - More power to the devolved governments
 - Create a devolved English government
+- Reform the Lords Spiritual to include other faiths based on census data
 
 ## Home Affairs
 - Return to 'bobby on the beat' community policing
