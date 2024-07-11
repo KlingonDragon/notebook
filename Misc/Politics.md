@@ -24,6 +24,7 @@ A brief summary of the issues about which I most care and what I would do.
 
 ## Home Affairs
 - Return to 'bobby on the beat' community policing
+- Decriminalise brothels to provide a clean and safe space for prostitutes to work
 
 ## Foreign Affairs
 - Develop the commonwealth into a greater free trade, common defence, and common travel area. 
