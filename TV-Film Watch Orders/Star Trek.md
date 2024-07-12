@@ -60,12 +60,13 @@ Most¹ of Star Trek, in order².
 - Star Trek: Nemesis
 - Star Trek: Lower Decks
 - Star Trek: Prodigy
+- Star Trek: Short Treks | S2E6: "Children of Mars"
 - Star Trek (2009)³
 - Star Trek Into Darkness
 - Star Trek Beyond
-- Star Trek: Short Treks | S2E6: "Children of Mars"
 - Star Trek: Picard
 - Star Trek: Discovery | S3-5
+- Star Trek: Short Treks | S1E2: "Calypso"
 
 
 
