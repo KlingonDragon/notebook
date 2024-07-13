@@ -857,6 +857,7 @@ Quantity|Image|Set|Number
 1|![Latias](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SWSH8/SWSH8_EN_193.png)|![Fusion Strike](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/swsh8-expansion-symbol.png)|193/264
 1|![Latias](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SWSH12PT5GG/SWSH12PT5GG_EN_GG20.png)|![Crown Zenith Galarian Gallery](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/swsh12pt5gg-expansion-symbol.png)|GG20 Illustration Rare
 3|![Latias](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SV05/SV05_EN_67.png)|![Temporal Forces](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sv05-expansion-symbol.png)|67/162
+1|![Latias-EX](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/BW9/BW9_EN_85.png)|![Black & White—Plasma Freeze](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/bw9-expansion-symbol.png)|85/116
 1|![Latias & Latios-GX](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SM9/SM9_EN_170.png)|![ Team Up](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sm9-expansion-symbol.png)|170/181
 *#0381*|**Latios**
 1|![Latios](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SMP/SMP_EN_SM136.png)|![Sun & Moon Promo](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/smp-expansion-symbol.png)|SM136
@@ -877,6 +878,8 @@ Quantity|Image|Set|Number
 *#0384*|**Rayquaza**
 1|![Rayquaza](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SWSH4/SWSH4_EN_138.png)|![Vivid Voltage](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/swsh4-expansion-symbol.png)|138/185
 1|Rayquaza|![XY—Promo](https://www.pokemon.com/static-assets/content-assets/cms-en-uk/img/tcg/expansion-symbols/black-star-promo.png)|XY141
+1|![Rayquaza & Deoxys LEGEND](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/HGSS3/HGSS3_EN_89.png)|![HS—Undaunted](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/hgss3-expansion-symbol.png)|89/91
+1|![Rayquaza & Deoxys LEGEND](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/HGSS3/HGSS3_EN_90.png)|![HS—Undaunted](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/hgss3-expansion-symbol.png)|90/91
 1|![Rayquaza-EX](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/BWP/BWP_EN_BW47.png)|![BW—Promo](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/black-star-promo.png)|BW47
 4|![Rayquaza-EX](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/BW6/BW6_EN_85.png)|![Black & White—Dragons Exalted](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/bw6-expansion-symbol.png)|85/124
 1|![Rayquaza-EX](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/XY6/XY6_EN_60.png)|![XY—Roaring Skies](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/xy6-expansion-symbol.png)|60/108
