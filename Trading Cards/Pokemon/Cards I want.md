@@ -40,6 +40,7 @@ Alcremie V|For my Alcremie VMAX
 
 Image|Card Name|Set|Number|Why I want it
 :-:|:-:|:-:|:-:|:--
+![Pikachu V](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SWSH4/SWSH4_EN_43.png)|Pikachu V|![Vivid Voltage](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/swsh4-expansion-symbol.png)|43/185|I have the jumbo
 &nbsp;|Arcanine BREAK||Promo|I have the jumbo
 ![Dragonite-EX](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/XY3/XY3_EN_74.png)|Dragonite-EX|![XY-Furious Fists](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/xy3-expansion-symbol.png)|74/111|I have the jumbo
 ![Mew ex](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SV4PT5/SV4PT5_EN_216.png)|Mew ex|![Paldean Fates](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sv4pt5-expansion-symbol.png)|216/91| I like Mew
