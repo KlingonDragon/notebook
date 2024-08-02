@@ -11,6 +11,8 @@ Cards where the specific set/artwork doesn't matter
 - Gen VI
     - Aurorus
 - Gen VIII
+    - Arctozolt
+    - Dracovish
     - Spectrier
 - Gen IX
     - Archaludon
