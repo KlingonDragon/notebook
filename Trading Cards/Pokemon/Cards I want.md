@@ -33,6 +33,7 @@ Deoxys V|For my Deoxys VSTAR
 Serperior V|For my Serperior VSTAR
 Mandibuzz|For my Mandibuzz BREAK
 Tornadus V|For my Tornadus VMAX
+Lycanroc V|For my Lycanroc VMAX
 Alcremie V|For my Alcremie VMAX
 
 
