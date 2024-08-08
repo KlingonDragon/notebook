@@ -18,7 +18,6 @@ Cards where the specific set/artwork doesn't matter
     - Archaludon
     - Hydrapple
     - Terapagos
-    - Pecharunt
 
 ### Other reasons
 Card|Why I want it
@@ -55,5 +54,4 @@ Image|Card Name|Set|Number|Why I want it
 &nbsp;|Zoroark and Legendary Pokémon||Promo|I can't find my old one
 ![Zekrom](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/BW1/BW1_EN_114.png)|Zekrom|![Black & White](https://www.pokemon.com/static-assets/content-assets/cms-en-uk/img/tcg/expansion-symbols/bw1-expansion-symbol.png)|114/114|Pairs with my Reshiram¹
 ![Mimikyu ex](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SVP/SVP_EN_4.png)|Mimikyu ex|![Scarlet & Violet Promo](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/svp-expansion-symbol.png)|004 Promo|I have the jumbo
-![Gimmighoul](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SV04/SV04_EN_198.png)|Gimmighoul|![Paradox Rift](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sv04-expansion-symbol.png)|198/182|It's cool
 ![Gholdengo ex](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SV04/SV04_EN_252.png)|Gholdengo ex|![Paradox Rift](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sv04-expansion-symbol.png)|252/182|Less cool but goes with Gimmighoul
