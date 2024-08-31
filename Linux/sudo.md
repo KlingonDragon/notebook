@@ -12,3 +12,8 @@ reboot
 ```sh
 echo "ALL ALL=NOPASSWD: /sbin/shutdown" | sudo tee /etc/sudoers.d/shutdown > /dev/null
 ```
+
+## Allow `apt update`
+```sh
+echo "ALL ALL=NOPASSWD: /usr/bin/apt update" | sudo tee /etc/sudoers.d/apt-update > /dev/null
+```
