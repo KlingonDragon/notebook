@@ -37,6 +37,7 @@ Quantity|Image|Set|Number
 1|![Blaziken](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SM75/SM75_EN_6.png)|![Dragon Majesty](https://www.pokemon.com/static-assets/content-assets/cms-en-uk/img/tcg/expansion-symbols/sm75-expansion-symbol.png)|6/70
 1|![Blaziken](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SWSH3/SWSH3_EN_24.png)|![Darkness Ablaze](https://www.pokemon.com/static-assets/content-assets/cms-en-uk/img/tcg/expansion-symbols/swsh3-expansion-symbol.png)|024/189
 1|![Blaziken V](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SWSH6/SWSH6_EN_20.png)|![Chilling Reign](https://www.pokemon.com/static-assets/content-assets/cms-en-uk/img/tcg/expansion-symbols/swsh6-expansion-symbol.png)|020/198
+1|![Blaziken V](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SWSH12TG/SWSH12TG_EN_TG14.png)|![Silver Tempest: Trainer Gallery](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/swsh12-expansion-symbol.png)|TG14/TG30
 1|![Blaziken VMAX](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SWSH6/SWSH6_EN_21.png)|![Chilling Reign](https://www.pokemon.com/static-assets/content-assets/cms-en-uk/img/tcg/expansion-symbols/swsh6-expansion-symbol.png)|021/198
 *#0258*|**Mudkip**
 1|![Mudkip](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/EX1/EX1_EN_60.png)|![Ruby & Sapphire](https://www.pokemon.com/static-assets/content-assets/cms-en-uk/img/tcg/expansion-symbols/ex-01symbol.png)|60/109
