@@ -365,6 +365,7 @@ Quantity|Image|Set|Number
 3|![Okidogi](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SV06/SV06_EN_111.png)|![Twilight Masquerade](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sv06-expansion-symbol.png)|111/167
 *#1015*|**Munkidori**
 3|![Munkidori](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SV06/SV06_EN_95.png)|![Twilight Masquerade](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sv06-expansion-symbol.png)|95/167
+1|![Munkidori](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SV6PT5/SV6PT5_EN_72.png)|![Shrouded Fable](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sv6pt5-expansion-symbol.png)|72/64
 *#1016*|**Fezandipiti**
 3|![Fezandipiti](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SV06/SV06_EN_96.png)|![Twilight Masquerade](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sv06-expansion-symbol.png)|96/167
 *#1017*|**Ogerpon**

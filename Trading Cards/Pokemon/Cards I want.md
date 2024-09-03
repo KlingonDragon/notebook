@@ -26,7 +26,6 @@ Venusaur-EX|For my MVenusaur-EX
 Venusaur V|For my Venusaur VMAX
 Slowbro-EX|For my MSlowbro-EX
 Vaporeon V|For my Vaporieon VMAX
-Aerodactyl-EX|For my MAerodactyl-EX
 Unown V|For my Unown VSTAR
 Absol-EX|For my MAbsol-EX
 Latios-EX|For my MLatios-EX
