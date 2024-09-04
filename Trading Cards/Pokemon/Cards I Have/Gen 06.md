@@ -1,75 +1,75 @@
 # Pokemon Cards I Have
 ## Gen VI
-Quantity|Image|Set|Number
-:-:|:-:|:-:|:-:
-*#0651*|**Quilladin**
-*#0652*|**Chesnaught**
-*#0653*|**Fennekin**
-*#0654*|**Braixen**
-*#0655*|**Delphox**
-*#0656*|**Froakie**
-*#0657*|**Frogadier**
-*#0658*|**Greninja**
-*#0659*|**Bunnelby**
-*#0660*|**Diggersby**
-*#0661*|**Fletchling**
-*#0662*|**Fletchinder**
-*#0663*|**Talonflame**
-*#0664*|**Scatterbug**
-*#0665*|**Spewpa**
-*#0666*|**Vivillon**
-*#0667*|**Litleo**
-*#0668*|**Pyroar**
-*#0669*|**Flabébé**
-*#0670*|**Floette**
-*#0671*|**Florges**
-*#0672*|**Skiddo**
-*#0673*|**Gogoat**
-*#0674*|**Pancham**
-*#0675*|**Pangoro**
-*#0676*|**Furfrou**
-*#0677*|**Espurr**
-*#0678*|**Meowstic**
-*#0679*|**Honedge**
-*#0680*|**Doublade**
-*#0681*|**Aegislash**
-*#0682*|**Spritzee**
-*#0683*|**Aromatisse**
-*#0684*|**Swirlix**
-*#0685*|**Slurpuff**
-*#0686*|**Inkay**
-*#0687*|**Malamar**
-*#0688*|**Binacle**
-*#0689*|**Barbaracle**
-*#0690*|**Skrelp**
-*#0691*|**Dragalge**
-*#0692*|**Clauncher**
-*#0693*|**Clawitzer**
-*#0694*|**Helioptile**
-*#0695*|**Heliolisk**
-*#0696*|**Tyrunt**
-*#0697*|**Tyrantrum**
-*#0698*|**Amaura**
-*#0699*|**Aurorus**
-*#0700*|**Sylveon**
-*#0701*|**Hawlucha**
-*#0702*|**Dedenne**
-*#0703*|**Carbink**
-*#0704*|**Goomy**
-*#0705*|**Sliggoo**
-*#0706*|**Goodra**
-*#0707*|**Klefki**
-*#0708*|**Phantump**
-*#0709*|**Trevenant**
-*#0710*|**Pumpkaboo**
-*#0711*|**Gourgeist**
-*#0712*|**Bergmite**
-*#0713*|**Avalugg**
-*#0714*|**Noibat**
-*#0715*|**Noivern**
-*#0716*|**Xerneas**
-*#0717*|**Yveltal**
-*#0718*|**Zygarde**
-*#0719*|**Diancie**
-*#0720*|**Hoopa**
-*#0721*|**Volcanion**
+Image|Set
+:-:|:-:
+*#0651* **Quilladin**
+*#0652* **Chesnaught**
+*#0653* **Fennekin**
+*#0654* **Braixen**
+*#0655* **Delphox**
+*#0656* **Froakie**
+*#0657* **Frogadier**
+*#0658* **Greninja**
+*#0659* **Bunnelby**
+*#0660* **Diggersby**
+*#0661* **Fletchling**
+*#0662* **Fletchinder**
+*#0663* **Talonflame**
+*#0664* **Scatterbug**
+*#0665* **Spewpa**
+*#0666* **Vivillon**
+*#0667* **Litleo**
+*#0668* **Pyroar**
+*#0669* **Flabébé**
+*#0670* **Floette**
+*#0671* **Florges**
+*#0672* **Skiddo**
+*#0673* **Gogoat**
+*#0674* **Pancham**
+*#0675* **Pangoro**
+*#0676* **Furfrou**
+*#0677* **Espurr**
+*#0678* **Meowstic**
+*#0679* **Honedge**
+*#0680* **Doublade**
+*#0681* **Aegislash**
+*#0682* **Spritzee**
+*#0683* **Aromatisse**
+*#0684* **Swirlix**
+*#0685* **Slurpuff**
+*#0686* **Inkay**
+*#0687* **Malamar**
+*#0688* **Binacle**
+*#0689* **Barbaracle**
+*#0690* **Skrelp**
+*#0691* **Dragalge**
+*#0692* **Clauncher**
+*#0693* **Clawitzer**
+*#0694* **Helioptile**
+*#0695* **Heliolisk**
+*#0696* **Tyrunt**
+*#0697* **Tyrantrum**
+*#0698* **Amaura**
+*#0699* **Aurorus**
+*#0700* **Sylveon**
+*#0701* **Hawlucha**
+*#0702* **Dedenne**
+*#0703* **Carbink**
+*#0704* **Goomy**
+*#0705* **Sliggoo**
+*#0706* **Goodra**
+*#0707* **Klefki**
+*#0708* **Phantump**
+*#0709* **Trevenant**
+*#0710* **Pumpkaboo**
+*#0711* **Gourgeist**
+*#0712* **Bergmite**
+*#0713* **Avalugg**
+*#0714* **Noibat**
+*#0715* **Noivern**
+*#0716* **Xerneas**
+*#0717* **Yveltal**
+*#0718* **Zygarde**
+*#0719* **Diancie**
+*#0720* **Hoopa**
+*#0721* **Volcanion**

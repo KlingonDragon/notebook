@@ -12,8 +12,6 @@ Cards where the specific set/artwork doesn't matter
     - Aurorus
 - Gen VIII
     - Arctozolt
-    - Dracovish
-    - Spectrier
 - Gen IX
     - Archaludon
     - Hydrapple
@@ -23,24 +21,17 @@ Cards where the specific set/artwork doesn't matter
 Card|Why I want it
 :-:|:--
 Venusaur-EX|For my MVenusaur-EX
-Venusaur V|For my Venusaur VMAX
 Slowbro-EX|For my MSlowbro-EX
 Vaporeon V|For my Vaporieon VMAX
-Unown V|For my Unown VSTAR
 Absol-EX|For my MAbsol-EX
 Latios-EX|For my MLatios-EX
-Deoxys V|For my Deoxys VSTAR
 Serperior V|For my Serperior VSTAR
-Mandibuzz|For my Mandibuzz BREAK
-Tornadus V|For my Tornadus VMAX
-Lycanroc V|For my Lycanroc VMAX
 
 
 ## Specific Cards
 
 Image|Card Name|Set|Number|Why I want it
 :-:|:-:|:-:|:-:|:--
-![Pikachu V](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SWSH4/SWSH4_EN_43.png)|Pikachu V|![Vivid Voltage](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/swsh4-expansion-symbol.png)|43/185|I have the jumbo
 &nbsp;|Arcanine BREAK||Promo|I have the jumbo
 ![Dragonite-EX](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/XY3/XY3_EN_74.png)|Dragonite-EX|![XY-Furious Fists](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/xy3-expansion-symbol.png)|74/111|I have the jumbo
 ![Mew ex](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SV4PT5/SV4PT5_EN_216.png)|Mew ex|![Paldean Fates](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sv4pt5-expansion-symbol.png)|216/91| I like Mew
@@ -52,5 +43,4 @@ Image|Card Name|Set|Number|Why I want it
 ![Oshawott](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/BWP/BWP_EN_BW03.png)|Oshawott|![BW-Promo](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/black-star-promo.png)|BW03 Promo|I have the 25th anniversary jumbo
 &nbsp;|Zoroark and Legendary Pokémon||Promo|I can't find my old one
 ![Zekrom](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/BW1/BW1_EN_114.png)|Zekrom|![Black & White](https://www.pokemon.com/static-assets/content-assets/cms-en-uk/img/tcg/expansion-symbols/bw1-expansion-symbol.png)|114/114|Pairs with my Reshiram¹
-![Mimikyu ex](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SVP/SVP_EN_4.png)|Mimikyu ex|![Scarlet & Violet Promo](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/svp-expansion-symbol.png)|004 Promo|I have the jumbo
 ![Gholdengo ex](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SV04/SV04_EN_252.png)|Gholdengo ex|![Paradox Rift](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sv04-expansion-symbol.png)|252/182|Less cool but goes with Gimmighoul
