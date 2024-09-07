@@ -21,7 +21,6 @@ Cards where the specific set/artwork doesn't matter
 ### Other reasons
 Card|Why I want it
 :-:|:--
-Venusaur-EX|For my MVenusaur-EX
 Slowbro-EX|For my MSlowbro-EX
 Vaporeon V|For my Vaporieon VMAX
 Absol-EX|For my MAbsol-EX
