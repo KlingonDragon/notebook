@@ -6,6 +6,7 @@ Image|Set
 ![Sprigatito](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SVP/SVP_EN_1.png)|![Scarlet & Violet Promo](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/svp-expansion-symbol.png) 1
 ![Sprigatito](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SVP/SVP_EN_76.png)|![Scarlet & Violet Promo](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/svp-expansion-symbol.png) 76
 ![Sprigatito](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SV01/SV01_EN_13.png)|![Scarlet & Violet](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sv01-expansion-symbol.png) 13/198
+![Sprigatito](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SV02/SV02_EN_12.png)|![Paldea Evolved](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sv02-expansion-symbol.png) 12/193
 **Floragato**|*#0907*
 ![Floragato](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SVP/SVP_EN_77.png)|![Scarlet & Violet Promo](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/svp-expansion-symbol.png) 77
 ![Floragato](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SV01/SV01_EN_14.png)|![Scarlet & Violet](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sv01-expansion-symbol.png) 14/198
@@ -352,6 +353,7 @@ Cetitan|M23|005/015
 **Walking Wake**|*#1009*
 ![Walking Wake](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SV06/SV06_EN_63.png)|![Twilight Masquerade](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sv06-expansion-symbol.png) 63/167
 ![Walking Wake ex](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SV05/SV05_EN_50.png)|![Temporal Forces](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sv05-expansion-symbol.png) 50/162
+![Walking Wake ex](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SV05/SV05_EN_189.png)|![Temporal Forces](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sv05-expansion-symbol.png) 189/162
 **Iron Leaves**|*#1010*
 ![Iron Leaves](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SV06/SV06_EN_19.png)|![Twilight Masquerade](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sv06-expansion-symbol.png) 19/167
 **Dipplin**|*#1011*
@@ -362,6 +364,7 @@ Cetitan|M23|005/015
 ![Poltchageist](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SV06/SV06_EN_20.png)|![Twilight Masquerade](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sv06-expansion-symbol.png) 20/167
 ![Poltchageist](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SV06/SV06_EN_21.png)|![Twilight Masquerade](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sv06-expansion-symbol.png) 21/167
 **Sinistcha**|*#1013*
+![Sinistcha](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SV06/SV06_EN_22.png)|![Twilight Masquerade](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sv06-expansion-symbol.png) 22/167
 ![Sinistcha ex](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SV06/SV06_EN_189.png)|![Twilight Masquerade](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sv06-expansion-symbol.png) 189/167
 **Okidogi**|*#1014*
 ![Okidogi](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SV06/SV06_EN_111.png)|![Twilight Masquerade](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sv06-expansion-symbol.png) 111/167
