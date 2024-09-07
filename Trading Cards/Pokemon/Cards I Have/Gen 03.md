@@ -2,7 +2,7 @@
 ## Gen III
 Image|Set
 :-:|:-:
-*#0252* **Treecko**
+**Treecko**|*#0252*
 ![Treecko](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/EX3/EX3_EN_80.png)|![Dragon](https://www.pokemon.com/static-assets/content-assets/cms-en-uk/img/tcg/expansion-symbols/ex-03symbol.png) 80/97
 ![Treecko](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/EX9/EX9_EN_70.png)|![Emerald](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/ex-09symbol.png) 70/106
 ![Treecko](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/EX14/EX14_EN_67.png)|![Crystal Guardians](https://www.pokemon.com/static-assets/content-assets/cms-en-uk/img/tcg/expansion-symbols/ex-14symbol.png) 67/100
@@ -11,14 +11,14 @@ Image|Set
 ![Treecko](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/BW9/BW9_EN_6.png)|![BW-Plasma Freeze](https://www.pokemon.com/static-assets/content-assets/cms-en-uk/img/tcg/expansion-symbols/bw9-expansion-symbol.png) 6/116
 ![Treecko](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/XY5/XY5_EN_6.png)|![XY—Primal Clash](https://www.pokemon.com/static-assets/content-assets/cms-en-uk/img/tcg/expansion-symbols/xy5-expansion-symbol.png) 6/160
 ![Treecko](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SM7/SM7_EN_8.png)|![Celestial Storm](https://www.pokemon.com/static-assets/content-assets/cms-en-uk/img/tcg/expansion-symbols/sm7-expansion-symbol.png) 8/168
-*#0253* **Grovyle**
+**Grovyle**|*#0253*
 ![Grovyle](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/EX9/EX9_EN_28.png)|![Emerald](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/ex-09symbol.png) 28/106
 ![Grovyle](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/XY5/XY5_EN_7.png)|![XY—Primal Clash](https://www.pokemon.com/static-assets/content-assets/cms-en-uk/img/tcg/expansion-symbols/xy5-expansion-symbol.png) 7/160
 ![Grovyle](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SM8/SM8_EN_21.png)|![Lost Thunder](https://www.pokemon.com/static-assets/content-assets/cms-en-uk/img/tcg/expansion-symbols/sm8-expansion-symbol.png) 21/214
-*#0254* **Sceptile**
+**Sceptile**|*#0254*
 ![Sceptile](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/EX9/EX9_EN_10.png)|![Emerald](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/ex-09symbol.png) 10/106
 Jungko|![Celestial Storm](https://www.pokemon.com/static-assets/content-assets/cms-en-uk/img/tcg/expansion-symbols/sm7-expansion-symbol.png) 10a/168
-*#0255* **Torchic**
+**Torchic**|*#0255*
 ![Torchic](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/EX1/EX1_EN_74.png)|![Ruby & Sapphire](https://www.pokemon.com/static-assets/content-assets/cms-en-uk/img/tcg/expansion-symbols/ex-01symbol.png) 74/109
 ![Torchic](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/EX9/EX9_EN_69.png)|![Emerald](https://www.pokemon.com/static-assets/content-assets/cms-en-uk/img/tcg/expansion-symbols/ex-09symbol.png) 69/106
 ![Torchic](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/EX16/EX16_EN_67.png)|![Power Keepers](https://www.pokemon.com/static-assets/content-assets/cms-en-uk/img/tcg/expansion-symbols/ex-16symbol.png) 67/108
@@ -26,20 +26,20 @@ Jungko|![Celestial Storm](https://www.pokemon.com/static-assets/content-assets/c
 ![Torchic](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/XY5/XY5_EN_25.png)|![XY—Primal Clash](https://www.pokemon.com/static-assets/content-assets/cms-en-uk/img/tcg/expansion-symbols/xy5-expansion-symbol.png) 25/160
 ![Torchic](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/XY5/XY5_EN_26.png)|![XY—Primal Clash](https://www.pokemon.com/static-assets/content-assets/cms-en-uk/img/tcg/expansion-symbols/xy5-expansion-symbol.png) 26/160
 ![Torchic](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SWSH3/SWSH3_EN_22.png)|![Darkness Ablaze](https://www.pokemon.com/static-assets/content-assets/cms-en-uk/img/tcg/expansion-symbols/swsh3-expansion-symbol.png) 022/189
-*#0256* **Combusken**
+**Combusken**|*#0256*
 ![Combusken](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/EX16/EX16_EN_29.png)|![Power Keepers](https://www.pokemon.com/static-assets/content-assets/cms-en-uk/img/tcg/expansion-symbols/ex-16symbol.png) 29/108
 ![Combusken](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/XY5/XY5_EN_27.png)|![XY—Primal Clash](https://www.pokemon.com/static-assets/content-assets/cms-en-uk/img/tcg/expansion-symbols/xy5-expansion-symbol.png) 27/160
 ![Combusken](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SM7/SM7_EN_27.png)|![Celestial Storm](https://www.pokemon.com/static-assets/content-assets/cms-en-uk/img/tcg/expansion-symbols/sm7-expansion-symbol.png) 27/168
 ![Combusken](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SM75/SM75_EN_5.png)|![Dragon Majesty](https://www.pokemon.com/static-assets/content-assets/cms-en-uk/img/tcg/expansion-symbols/sm75-expansion-symbol.png) 5/70
 ![Combusken](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SWSH3/SWSH3_EN_23.png)|![Darkness Ablaze](https://www.pokemon.com/static-assets/content-assets/cms-en-uk/img/tcg/expansion-symbols/swsh3-expansion-symbol.png) 023/189
-*#0257* **Blaziken**
+**Blaziken**|*#0257*
 ![Blaziken](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/EX1/EX1_EN_3.png)|![Ruby & Sapphire](https://www.pokemon.com/static-assets/content-assets/cms-en-uk/img/tcg/expansion-symbols/ex-01symbol.png) 3/109
 ![Blaziken](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SM75/SM75_EN_6.png)|![Dragon Majesty](https://www.pokemon.com/static-assets/content-assets/cms-en-uk/img/tcg/expansion-symbols/sm75-expansion-symbol.png) 6/70
 ![Blaziken](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SWSH3/SWSH3_EN_24.png)|![Darkness Ablaze](https://www.pokemon.com/static-assets/content-assets/cms-en-uk/img/tcg/expansion-symbols/swsh3-expansion-symbol.png) 024/189
 ![Blaziken V](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SWSH6/SWSH6_EN_20.png)|![Chilling Reign](https://www.pokemon.com/static-assets/content-assets/cms-en-uk/img/tcg/expansion-symbols/swsh6-expansion-symbol.png) 020/198
 ![Blaziken V](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SWSH12TG/SWSH12TG_EN_TG14.png)|![Silver Tempest: Trainer Gallery](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/swsh12-expansion-symbol.png) TG14/TG30
 ![Blaziken VMAX](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SWSH6/SWSH6_EN_21.png)|![Chilling Reign](https://www.pokemon.com/static-assets/content-assets/cms-en-uk/img/tcg/expansion-symbols/swsh6-expansion-symbol.png) 021/198
-*#0258* **Mudkip**
+**Mudkip**|*#0258*
 ![Mudkip](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/EX1/EX1_EN_60.png)|![Ruby & Sapphire](https://www.pokemon.com/static-assets/content-assets/cms-en-uk/img/tcg/expansion-symbols/ex-01symbol.png) 60/109
 ![Mudkip](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/EX9/EX9_EN_56.png)|![Emerald](https://www.pokemon.com/static-assets/content-assets/cms-en-uk/img/tcg/expansion-symbols/ex-09symbol.png) 56/106
 ![Mudkip](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/EX14/EX14_EN_57.png)|![Crystal Guardians](https://www.pokemon.com/static-assets/content-assets/cms-en-uk/img/tcg/expansion-symbols/ex-14symbol.png) 57/100
@@ -48,13 +48,13 @@ Jungko|![Celestial Storm](https://www.pokemon.com/static-assets/content-assets/c
 ![Mudkip](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SM7/SM7_EN_32.png)|![Celestial Storm](https://www.pokemon.com/static-assets/content-assets/cms-en-uk/img/tcg/expansion-symbols/sm7-expansion-symbol.png) 32/168
 ![Mudkip](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SM7/SM7_EN_33.png)|![Celestial Storm](https://www.pokemon.com/static-assets/content-assets/cms-en-uk/img/tcg/expansion-symbols/sm7-expansion-symbol.png) 33/168
 ![Mudkip](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SWSH8/SWSH8_EN_62.png)|![Fusion Strike](https://www.pokemon.com/static-assets/content-assets/cms-en-uk/img/tcg/expansion-symbols/swsh8-expansion-symbol.png) 62/264
-*#0259* **Marshtomp**
+**Marshtomp**|*#0259*
 ![Marshtomp](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/EX9/EX9_EN_36.png)|![Emerald](https://www.pokemon.com/static-assets/content-assets/cms-en-uk/img/tcg/expansion-symbols/ex-09symbol.png) 36/106
 ![Marshtomp](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/XY5/XY5_EN_34.png)|![XY—Primal Clash](https://www.pokemon.com/static-assets/content-assets/cms-en-uk/img/tcg/expansion-symbols/xy5-expansion-symbol.png) 34/160
-*#0260* **Swampert**
+**Swampert**|*#0260*
 ![Swampert](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/XY5/XY5_EN_35.png)|![XY—Primal Clash](https://www.pokemon.com/static-assets/content-assets/cms-en-uk/img/tcg/expansion-symbols/xy5-expansion-symbol.png) 35/160
 ![Swampert](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/XY5/XY5_EN_36.png)|![XY—Primal Clash](https://www.pokemon.com/static-assets/content-assets/cms-en-uk/img/tcg/expansion-symbols/xy5-expansion-symbol.png) 36/160
-*#0261* **Poochyena**
+**Poochyena**|*#0261*
 ![Poochyena](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/EX1/EX1_EN_63.png)|![Ruby & Sapphire](https://www.pokemon.com/static-assets/content-assets/cms-en-uk/img/tcg/expansion-symbols/ex-01symbol.png) 63/109
 ![Team Magma's Poochyena](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/EX4/EX4_EN_65.png)|![Team Magma vs. Team Aqua](https://www.pokemon.com/static-assets/content-assets/cms-en-uk/img/tcg/expansion-symbols/ex-04symbol.png) 65/95
 ![Poochyena](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/EX13/EX13_EN_80.png)|![Holon Phantoms](https://www.pokemon.com/static-assets/content-assets/cms-en-uk/img/tcg/expansion-symbols/ex-13symbol.png) 80/111
@@ -65,24 +65,24 @@ Jungko|![Celestial Storm](https://www.pokemon.com/static-assets/content-assets/c
 ![Poochyena](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SWSH12PT5GG/SWSH12PT5GG_EN_GG33.png)|![Crown Zenith Galarian Gallery](https://www.pokemon.com/static-assets/content-assets/cms-en-uk/img/tcg/expansion-symbols/swsh12pt5gg-expansion-symbol.png) GG33/GG70
 ![Poochyena](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SV05/SV05_EN_105.png)|![Temporal Forces](https://www.pokemon.com/static-assets/content-assets/cms-en-uk/img/tcg/expansion-symbols/sv05-expansion-symbol.png) 105/162
 ![Poochyena](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SV06/SV06_EN_113.png)|![Twilight Masquerade](https://www.pokemon.com/static-assets/content-assets/cms-en-uk/img/tcg/expansion-symbols/sv06-expansion-symbol.png) 113/167
-*#0262* **Mightyena**
+**Mightyena**|*#0262*
 ![Mightyena](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/XY0/XY0_EN_17.png)|![Kalos Starter Set](https://www.pokemon.com/static-assets/content-assets/cms-en-uk/img/tcg/expansion-symbols/xy0-expansion-symbol.png) 17/39
 ![Mightyena](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SWSH4/SWSH4_EN_104.png)|![Vivid Voltage](https://www.pokemon.com/static-assets/content-assets/cms-en-uk/img/tcg/expansion-symbols/swsh4-expansion-symbol.png) 104/185
 ![Mightyena](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SWSH10/SWSH10_EN_96.png)|![Astral Radiance](https://www.pokemon.com/static-assets/content-assets/cms-en-uk/img/tcg/expansion-symbols/swsh10-expansion-symbol.png) 096/189
 ![Mightyena](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SWSH10/SWSH10_EN_TG09.png)|![Astral Radiance Trainer Gallery](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/swsh10-expansion-symbol.png) TG09 Trainer Gallery Holo Rare
 ![Mightyena](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SV05/SV05_EN_106.png)|![Temporal Forces](https://www.pokemon.com/static-assets/content-assets/cms-en-uk/img/tcg/expansion-symbols/sv05-expansion-symbol.png) 106/162
-*#0263* **Zigzagoon**
+**Zigzagoon**|*#0263*
 ![Galarian Zigzagoon](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SWSH1/SWSH1_EN_117.png)|![Sword & Shield](https://www.pokemon.com/static-assets/content-assets/cms-en-uk/img/tcg/expansion-symbols/swsh1-expansion-symbol.png) 117/202
 ![Galarian Zigzagoon](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SWSH35/SWSH35_EN_35.png)|![Champion's Path](https://www.pokemon.com/static-assets/content-assets/cms-en-uk/img/tcg/expansion-symbols/swsh35-expansion-symbol.png) 035/73
 ![Galarian Zigzagoon](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SWSH8/SWSH8_EN_159.png)|![Fusion Strike](https://www.pokemon.com/static-assets/content-assets/cms-en-uk/img/tcg/expansion-symbols/swsh8-expansion-symbol.png) 159/264
 ![Zigzagoon](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SV03/SV03_EN_167.png)|![Obsidian Flames](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sv03-expansion-symbol.png) 167/227
-*#0264* **Linoone**
+**Linoone**|*#0264*
 ![Linoone](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/XY5/XY5_EN_112.png)|![XY—Primal Clash](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/xy5-expansion-symbol.png) 112/160
 ![Galarian Linoone](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SWSH1/SWSH1_EN_118.png)|![Sword & Shield](https://www.pokemon.com/static-assets/content-assets/cms-en-uk/img/tcg/expansion-symbols/swsh1-expansion-symbol.png) 118/202
 ![Galarian Linoone](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SWSH35/SWSH35_EN_36.png)|![Champion's Path](https://www.pokemon.com/static-assets/content-assets/cms-en-uk/img/tcg/expansion-symbols/swsh35-expansion-symbol.png) 036/73
 ![Galarian Linoone](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SWSH45/SWSH45_EN_SV079.png)|![Shining Fates: Shiny Vault](https://www.pokemon.com/static-assets/content-assets/cms-en-uk/img/tcg/expansion-symbols/swsh45sv-expansion-symbol.png) SV079/SV122
 ![Linoone](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SV03/SV03_EN_168.png)|![Obsidian Flames](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sv03-expansion-symbol.png) 168/227
-*#0265* **Wurmple**
+**Wurmple**|*#0265*
 ![Wurmple](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/EX8/EX8_EN_82.png)|![Deoxys](https://www.pokemon.com/static-assets/content-assets/cms-en-uk/img/tcg/expansion-symbols/ex-08symbol.png) 82/107
 ![Wurmple LV. 7](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/DP1/DP1_EN_104.png)|![Diamond & Pearl](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/dp1-exp-symbol.png) 104/130
 ![Wurmple LV. 5](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/PL1/PL1_EN_103.png)|![Platinum](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/pl1-expansion-symbol.png) 103/133
@@ -90,34 +90,34 @@ Jungko|![Celestial Storm](https://www.pokemon.com/static-assets/content-assets/c
 ![Wurmple](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/XY6/XY6_EN_3.png)|![XY—Roaring Skies](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/xy6-expansion-symbol.png) 3/108
 ![Wurmple](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SM8/SM8_EN_24.png)|![Lost Thunder](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sm8-expansion-symbol.png) 24/214
 ![Wurmple](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SWSH11/SWSH11_EN_6.png)|![Lost Origin](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/swsh11-expansion-symbol.png) 6/196
-*#0266* **Silcoon**
+**Silcoon**|*#0266*
 ![Silcoon LV. 8](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/DP1/DP1_EN_63.png)|![Diamond & Pearl](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/dp1-exp-symbol.png) 63/130
 ![Silcoon LV. 10](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/PL1/PL1_EN_63.png)|![Platinum](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/pl1-expansion-symbol.png) 63/133
 ![Silcoon](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/BW6/BW6_EN_7.png)|![Black & White—Dragons Exalted](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/bw6-expansion-symbol.png) 7/124
 ![Silcoon](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SWSH11/SWSH11_EN_7.png)|![Lost Origin](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/swsh11-expansion-symbol.png) 7/196
-*#0267* **Beautifly**
+**Beautifly**|*#0267*
 ![Beautifly](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/BW6/BW6_EN_8.png)|![Black & White—Dragons Exalted](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/bw6-expansion-symbol.png) 8/124
-*#0268* **Cascoon**
+**Cascoon**|*#0268*
 ![Cascoon LV. 8](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/DP1/DP1_EN_44.png)|![Diamond & Pearl](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/dp1-exp-symbol.png) 44/130
 ![Cascoon](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/BW6/BW6_EN_9.png)|![Black & White—Dragons Exalted](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/bw6-expansion-symbol.png) 9/124
 ![Cascoon](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SM8/SM8_EN_27.png)|![Lost Thunder](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sm8-expansion-symbol.png) 27/214
 ![Cascoon](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SWSH11/SWSH11_EN_9.png)|![Lost Origin](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/swsh11-expansion-symbol.png) 9/196
-*#0269* **Dustox**
+**Dustox**|*#0269*
 ![Dustox LV. 34](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/DP1/DP1_EN_25.png)|![Diamond & Pearl](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/dp1-exp-symbol.png) 25/130
 ![Dustox](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/XY6/XY6_EN_8.png)|![XY—Roaring Skies](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/xy6-expansion-symbol.png) 8/108
-*#0270* **Lotad**
+**Lotad**|*#0270*
 ![Lotad](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/BW8/BW8_EN_29.png)|![Black & White—Plasma Storm](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/bw8-expansion-symbol.png) 29/135
 ![Lotad](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/XY5/XY5_EN_10.png)|![XY—Primal Clash](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/xy5-expansion-symbol.png) 10/160
 ![Lotad](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SM7/SM7_EN_36.png)|![Celestial Storm](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sm7-expansion-symbol.png) 36/168
 ![Lotad](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SWSH2/SWSH2_EN_7.png)|![Rebel Clash](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/swsh2-expansion-symbol.png) 7/192
 ![Lotad](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SWSH2/SWSH2_EN_7.png)|![Rebel Clash](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/swsh2-expansion-symbol.png) 7/192
-*#0271* **Lombre**
+**Lombre**|*#0271*
 ![Lombre](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SWSH2/SWSH2_EN_8.png)|![Rebel Clash](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/swsh2-expansion-symbol.png) 8/192
 ![Lombre](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SWSH7/SWSH7_EN_33.png)|![Evolving Skies](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/swsh7-expansion-symbol.png) 33/203
-*#0272* **Ludicolo**
+**Ludicolo**|*#0272*
 ![Ludicolo](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SWSH2/SWSH2_EN_9.png)|![Rebel Clash](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/swsh2-expansion-symbol.png) 9/192
 ![Ludicolo](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/DET/DET_EN_2.png)|![Detective Pikachu](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/det-expansion-symbol.png) 2/18
-*#0273* **Seedot**
+**Seedot**|*#0273*
 ![Seedot](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/EX5/EX5_EN_71.png)|![EX Hidden Legends](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/ex-05symbol.png) 71/101
 ![Seedot LV. 9](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/DP1/DP1_EN_97.png)|![Diamond & Pearl](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/dp1-exp-symbol.png) 97/130
 ![Seedot](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/BW4/BW4_EN_2.png)|![Black & White—Next Destinies](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/bw4-expansion-symbol.png) 2/99
@@ -130,7 +130,7 @@ Jungko|![Celestial Storm](https://www.pokemon.com/static-assets/content-assets/c
 ![Seedot](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SM7/SM7_EN_11.png)|![Celestial Storm](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sm7-expansion-symbol.png) 11/168
 ![Seedot](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SWSH7/SWSH7_EN_5.png)|![Evolving Skies](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/swsh7-expansion-symbol.png) 5/203
 ![Seedot](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SV05/SV05_EN_3.png)|![Temporal Forces](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sv05-expansion-symbol.png) 3/162
-*#0274* **Nuzleaf**
+**Nuzleaf**|*#0274*
 ![Nuzleaf](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/BW4/BW4_EN_71.png)|![Black & White—Next Destinies](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/bw4-expansion-symbol.png) 71/99
 ![Nuzleaf](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/XY2/XY2_EN_6.png)|![XY—Flashfire](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/xy2-expansion-symbol.png) 6/106
 ![Nuzleaf](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/XY9/XY9_EN_72.png)|![XY—BREAKpoint](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/xy9-expansion-symbol.png) 72/122
@@ -138,34 +138,34 @@ Jungko|![Celestial Storm](https://www.pokemon.com/static-assets/content-assets/c
 ![Nuzleaf](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SWSH4/SWSH4_EN_11.png)|![Vivid Voltage](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/swsh4-expansion-symbol.png) 11/185
 ![Nuzleaf](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SWSH7/SWSH7_EN_96.png)|![Evolving Skies](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/swsh7-expansion-symbol.png) 96/203
 ![Nuzleaf](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SV05/SV05_EN_4.png)|![Temporal Forces](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sv05-expansion-symbol.png) 4/162
-*#0275* **Shiftry**
+**Shiftry**|*#0275*
 ![Shiftry](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/XY9/XY9_EN_73.png)|![XY—BREAKpoint](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/xy9-expansion-symbol.png) 73/122
 ![Shiftry](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/XY11/XY11_EN_11.png)|![XY—Steam Siege](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/xy11-expansion-symbol.png) 11/114
 ![Shiftry](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SWSH4/SWSH4_EN_12.png)|![Vivid Voltage](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/swsh4-expansion-symbol.png) 12/185
 ![Shiftry](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SWSH11/SWSH11_EN_13.png)|![Lost Origin](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/swsh11-expansion-symbol.png) 13/196
 ![Shiftry](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SV05/SV05_EN_5.png)|![Temporal Forces](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sv05-expansion-symbol.png) 5/162
-*#0276* **Taillow**
+**Taillow**|*#0276*
 ![Taillow](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/EX11/EX11_EN_86.png)|![EX Delta Species](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/ex-11symbol.png) 86/114
 ![Taillow δ](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/EX15/EX15_EN_66.png)|![EX Dragon Frontiers](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/ex-15symbol.png) 66/101
 ![Taillow](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/XY1/XY1_EN_102.png)|![XY](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/xy1-expansion-symbol.png) 102/146
 ![Taillow](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/XY6/XY6_EN_70.png)|![XY—Roaring Skies](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/xy6-expansion-symbol.png) 70/108
 ![Taillow](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SM2/SM2_EN_103.png)|![SM—Guardians Rising](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sm2-expansion-symbol.png) 103/145
 ![Taillow](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SWSH4/SWSH4_EN_133.png)|![Vivid Voltage](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/swsh4-expansion-symbol.png) 133/185
-*#0277* **Swellow**
+**Swellow**|*#0277*
 ![Swellow](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/EX8/EX8_EN_49.png)|![EX Deoxys](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/ex-08symbol.png) 49/106
 ![Swellow](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/XY6/XY6_EN_71.png)|![XY—Roaring Skies](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/xy6-expansion-symbol.png) 71/108
 ![Swellow](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SM2/SM2_EN_104.png)|![SM—Guardians Rising](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sm2-expansion-symbol.png) 104/145
 ![Swellow](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SWSH4/SWSH4_EN_134.png)|![Vivid Voltage](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/swsh4-expansion-symbol.png) 134/185
-*#0278* **Wingull**
+**Wingull**|*#0278*
 ![Wingull](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/XY6/XY6_EN_18.png)|![XY—Roaring Skies](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/xy6-expansion-symbol.png) 18/108
 ![Wingull](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SM1/SM1_EN_37.png)|![Sun & Moon](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sm1-expansion-symbol.png) 37/149
 ![Wingull](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SM7/SM7_EN_111.png)|![Celestial Storm](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sm7-expansion-symbol.png) 111/168
 ![Wingull](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SWSH2/SWSH2_EN_41.png)|![Rebel Clash](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/swsh2-expansion-symbol.png) 41/192
 ![Wingull](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SV02/SV02_EN_158.png)|![Paldea Evolved](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sv02-expansion-symbol.png) 158/193
-*#0279* **Pelipper**
+**Pelipper**|*#0279*
 ![Pelipper](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SM1/SM1_EN_38.png)|![Sun & Moon](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sm1-expansion-symbol.png) 38/149
 ![Pelipper](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SWSH2/SWSH2_EN_42.png)|![Rebel Clash](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/swsh2-expansion-symbol.png) 42/192
-*#0280* **Ralts**
+**Ralts**|*#0280*
 ![Ralts](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/EX2/EX2_EN_74.png)|![EX Sandstorm](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/ex-02symbol.png) 74/100
 ![Ralts LV. 13](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/DP3/DP3_EN_102.png)|![Diamond & Pearl—Secret Wonders](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/dp3-expansion-symbol.png) 102/132
 ![Ralts LV. 13](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/POP7/POP_7_15.png)|![POP Series 7](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/pop-7-exp-logo.png)|15/17
@@ -182,7 +182,7 @@ Jungko|![Celestial Storm](https://www.pokemon.com/static-assets/content-assets/c
 ![Ralts](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SWSH10/SWSH10_EN_60.png)|![Astral Radiance](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/swsh10-expansion-symbol.png) 60/189
 ![Ralts](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SWSH12/SWSH12_EN_67.png)|![Silver Tempest](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/swsh12-expansion-symbol.png) 67/195
 ![Ralts](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SV4PT5/SV4PT5_EN_27.png)|![Paldean Fates](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sv4pt5-expansion-symbol.png) 27/91
-*#0281* **Kirlia**
+**Kirlia**|*#0281*
 ![Kirlia δ](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/EX15/EX15_EN_33.png)|![EX Dragon Frontiers](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/ex-15symbol.png) 33/101
 ![Kirlia](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/EX16/EX16_EN_31.png)|![EX Power Keepers](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/ex-16symbol.png) 31/108
 ![Kirlia LV. 24](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/PL1/PL1_EN_51.png)|![Platinum](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/pl1-expansion-symbol.png) 51/133
@@ -195,7 +195,7 @@ Jungko|![Celestial Storm](https://www.pokemon.com/static-assets/content-assets/c
 ![Kirlia](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SWSH12/SWSH12_EN_68.png)|![Silver Tempest](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/swsh12-expansion-symbol.png) 68/195
 ![Kirlia](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SV01/SV01_EN_212.png)|![Scarlet & Violet](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sv01-expansion-symbol.png) 212/198
 ![Kirlia](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SV4PT5/SV4PT5_EN_28.png)|![Paldean Fates](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sv4pt5-expansion-symbol.png) 28/91
-*#0282* **Gardevoir**
+**Gardevoir**|*#0282*
 ![Gardevoir](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/EX1/EX1_EN_7.png)|![EX Ruby & Sapphire](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/ex-01symbol.png) 7/109
 ![Gardevoir](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/EX9/EX9_EN_4.png)|![EX Emerald](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/ex-09symbol.png) 4/106
 ![Gardevoir](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SWSH10/SWSH10_EN_TG05.png)|![Astral Radiance Trainer Gallery](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/swsh10-expansion-symbol.png) TG05/TG30
@@ -219,16 +219,16 @@ Jungko|![Celestial Storm](https://www.pokemon.com/static-assets/content-assets/c
 ![Gardevoir ex](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SV01/SV01_EN_245.png)|![Scarlet & Violet](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sv01-expansion-symbol.png) 245/198
 ![Gardevoir ex](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SV4PT5/SV4PT5_EN_29.png)|![Paldean Fates](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sv4pt5-expansion-symbol.png) 29/91
 ![Gardevoir ex](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SV4PT5/SV4PT5_EN_217.png)|![Paldean Fates](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sv4pt5-expansion-symbol.png) 217/91
-*#0283* **Surskit**
+**Surskit**|*#0283*
 ![Surskit LV. 14](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/DP2/DP2_EN_104.png)|![Diamond & Pearl—Mysterious Treasures](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/dp2-exp-symbol.png) 104/124
 ![Surskit](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/BW10/BW10_EN_1.png)|![Black & White—Plasma Blast](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/bw10-expansion-symbol.png) 1/101
 ![Surskit](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/XY5/XY5_EN_13.png)|![XY—Primal Clash](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/xy5-expansion-symbol.png) 13/160
 ![Surskit](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SM1/SM1_EN_7.png)|![Sun & Moon](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sm1-expansion-symbol.png) 7/149
 ![Surskit](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SWSH2/SWSH2_EN_10.png)|![Rebel Clash](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/swsh2-expansion-symbol.png) 10/192
-*#0284* **Masquerain**
+**Masquerain**|*#0284*
 ![Masquerain](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/XY5/XY5_EN_14.png)|![XY—Primal Clash](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/xy5-expansion-symbol.png) 14/160
 ![Masquerain](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SWSH2/SWSH2_EN_11.png)|![Rebel Clash](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/swsh2-expansion-symbol.png) 11/192
-*#0285* **Shroomish**
+**Shroomish**|*#0285*
 ![Shroomish LV. 10](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/DP3/DP3_EN_108.png)|![Diamond & Pearl—Secret Wonders](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/dp3-expansion-symbol.png) 108/132
 ![Shroomish](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/XY5/XY5_EN_15.png)|![XY—Primal Clash](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/xy5-expansion-symbol.png) 15/160
 ![Shroomish](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/G1/G1_EN_RC2.png)|![Generations](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/g1-expansion-symbol.png) RC2 Common
@@ -236,18 +236,18 @@ Jungko|![Celestial Storm](https://www.pokemon.com/static-assets/content-assets/c
 ![Shroomish](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SM11/SM11_EN_5.png)|![Unified Minds](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sm11-expansion-symbol.png) 5/236
 ![Shroomish](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SWSH9/SWSH9_EN_3.png)|![Brilliant Stars](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/swsh9-expansion-symbol.png) 3/172
 ![Shroomish](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SV05/SV05_EN_6.png)|![Temporal Forces](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sv05-expansion-symbol.png) 6/162
-*#0286* **Breloom**
+**Breloom**|*#0286*
 ![Breloom](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/EX9/EX9_EN_22.png)|![EX Emerald](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/ex-09symbol.png) 22/106
 ![Breloom](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/XY3/XY3_EN_50.png)|![XY—Furious Fists](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/xy3-expansion-symbol.png) 50/111
 ![Breloom](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SM35/SM35_EN_5.png)|![Shining Legends](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sm35-expansion-symbol.png) 5/73
 ![Breloom](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SM11/SM11_EN_108.png)|![Unified Minds](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sm11-expansion-symbol.png) 108/236
 ![Breloom](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SV05/SV05_EN_7.png)|![Temporal Forces](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sv05-expansion-symbol.png) 7/162
-*#0287* **Slakoth**
+**Slakoth**|*#0287*
 ![Slakoth LV. 7](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/DP2/DP2_EN_99.png)|![Diamond & Pearl—Mysterious Treasures](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/dp2-exp-symbol.png) 99/124
 ![Slakoth](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/BW6/BW6_EN_101.png)|![Black & White—Dragons Exalted](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/bw6-expansion-symbol.png) 101/124
 ![Slakoth](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SM11/SM11_EN_167.png)|![Unified Minds](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sm11-expansion-symbol.png) 167/236
 ![Slakoth](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SWSH7/SWSH7_EN_129.png)|![Evolving Skies](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/swsh7-expansion-symbol.png) 129/203
-*#0288* **Vigoroth**
+**Vigoroth**|*#0288*
 ![Vigoroth](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/EX8/EX8_EN_50.png)|![EX Deoxys](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/ex-08symbol.png) 50/106
 ![Vigoroth](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/EX16/EX16_EN_41.png)|![EX Power Keepers](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/ex-16symbol.png) 41/108
 ![Vigoroth LV. 24](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/DP2/DP2_EN_68.png)|![Diamond & Pearl—Mysterious Treasures](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/dp2-exp-symbol.png) 68/124
@@ -255,29 +255,29 @@ Jungko|![Celestial Storm](https://www.pokemon.com/static-assets/content-assets/c
 ![Vigoroth](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SM7/SM7_EN_114.png)|![Celestial Storm](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sm7-expansion-symbol.png) 114/168
 ![Vigoroth](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SM11/SM11_EN_169.png)|![Unified Minds](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sm11-expansion-symbol.png) 169/236
 ![Vigoroth](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SWSH7/SWSH7_EN_130.png)|![Evolving Skies](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/swsh7-expansion-symbol.png) 130/203
-*#0289* **Slaking**
+**Slaking**|*#0289*
 ![Slaking](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SM7/SM7_EN_115.png)|![Celestial Storm](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sm7-expansion-symbol.png) 115/168
 ![Slaking](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SM11/SM11_EN_170.png)|![Unified Minds](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sm11-expansion-symbol.png) 170/236
-*#0290* **Nincada**
+**Nincada**|*#0290*
 ![Nincada](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/EX3/EX3_EN_66.png)|![EX Dragon](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/ex-03symbol.png) 66/97
 ![Nincada](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/EX3/EX3_EN_68.png)|![EX Dragon](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/ex-03symbol.png) 68/97
 ![Nincada LV. 8](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/PL3/PL3_EN_117.png)|![Platinum—Supreme Victors](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/pl3-exp-symbol.png) 117/153
 ![Nincada](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/XY6/XY6_EN_9.png)|![XY—Roaring Skies](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/xy6-expansion-symbol.png) 9/108
 ![Nincada](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SWSH4/SWSH4_EN_13.png)|![Vivid Voltage](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/swsh4-expansion-symbol.png) 13/185
-*#0291* **Ninjask**
+**Ninjask**|*#0291*
 ![Ninjask](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/BW6/BW6_EN_11.png)|![Black & White—Dragons Exalted](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/bw6-expansion-symbol.png) 11/124
 ![Ninjask](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SWSH4/SWSH4_EN_14.png)|![Vivid Voltage](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/swsh4-expansion-symbol.png) 14/185
-*#0292* **Shedinja**
+**Shedinja**|*#0292*
 ![Shedinja](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/BW6/BW6_EN_48.png)|![Black & White—Dragons Exalted](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/bw6-expansion-symbol.png) 48/124
 ![Shedinja](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SWSH4/SWSH4_EN_66.png)|![Vivid Voltage](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/swsh4-expansion-symbol.png) 66/185
-*#0293* **Whismur**
+**Whismur**|*#0293*
 ![Whismur](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/EX5/EX5_EN_82.png)|![EX Hidden Legends](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/ex-05symbol.png) 82/101
 ![Whismur](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/EX14/EX14_EN_69.png)|![EX Crystal Guardians](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/ex-14symbol.png) 69/100
 ![Whismur LV. 8](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/DP4/DP4_EN_94.png)|![Diamond & Pearl—Great Encounters](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/dp4-expansion-symbol.png) 94/106
 ![Whismur](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/XY10/XY10_EN_80.png)|![XY—Fates Collide](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/xy10-expansion-symbol.png) 80/124
 ![Whismur](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SM7/SM7_EN_117.png)|![Celestial Storm](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sm7-expansion-symbol.png) 117/168
 ![Whismur](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SWSH4/SWSH4_EN_135.png)|![Vivid Voltage](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/swsh4-expansion-symbol.png) 135/185
-*#0294* **Loudred**
+**Loudred**|*#0294*
 ![Loudred LV. 31](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/DP4/DP4_EN_44.png)|![Diamond & Pearl—Great Encounters](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/dp4-expansion-symbol.png) 44/106
 ![Loudred](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/XY4/XY4_EN_84.png)|![XY—Phantom Forces](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/xy4-expansion-symbol.png) 84/119
 ![Loudred](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/XY10/XY10_EN_81.png)|![XY—Fates Collide](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/xy10-expansion-symbol.png) 81/124
@@ -285,11 +285,11 @@ Jungko|![Celestial Storm](https://www.pokemon.com/static-assets/content-assets/c
 ![Loudred](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SWSH4/SWSH4_EN_136.png)|![Vivid Voltage](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/swsh4-expansion-symbol.png) 136/185
 ![Loudred](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SV04/SV04_EN_149.png)|![Paradox Rift](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sv04-expansion-symbol.png) 149/182
 ![Loudred](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SV04/SV04_EN_212.png)|![Paradox Rift](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sv04-expansion-symbol.png) 212/182
-*#0295* **Exploud**
+**Exploud**|*#0295*
 ![Exploud](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SM7/SM7_EN_119.png)|![Celestial Storm](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sm7-expansion-symbol.png) 119/168
 ![Exploud](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SWSH4/SWSH4_EN_137.png)|![Vivid Voltage](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/swsh4-expansion-symbol.png) 137/185
 ![Exploud](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SV04/SV04_EN_150.png)|![Paradox Rift](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sv04-expansion-symbol.png) 150/182
-*#0296* **Makuhita**
+**Makuhita**|*#0296*
 ![Makuhita](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/EX8/EX8_EN_65.png)|![EX Deoxys](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/ex-08symbol.png) 65/106
 ![Makuhita LV. 15](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/DP4/DP4_EN_78.png)|![Diamond & Pearl—Great Encounters](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/dp4-expansion-symbol.png) 78/106
 ![Makuhita](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/BW9/BW9_EN_62.png)|![Black & White—Plasma Freeze](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/bw9-expansion-symbol.png) 62/116
@@ -297,14 +297,14 @@ Jungko|![Celestial Storm](https://www.pokemon.com/static-assets/content-assets/c
 ![Makuhita](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SM1/SM1_EN_67.png)|![Sun & Moon](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sm1-expansion-symbol.png) 67/149
 ![Makuhita](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SWSH11/SWSH11_EN_97.png)|![Lost Origin](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/swsh11-expansion-symbol.png) 97/196
 ![Makuhita](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SV02/SV02_EN_112.png)|![Paldea Evolved](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sv02-expansion-symbol.png) 112/193
-*#0297* **Hariyama**
+**Hariyama**|*#0297*
 ![Hariyama](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/EX9/EX9_EN_31.png)|![EX Emerald](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/ex-09symbol.png) 31/106
 ![Hariyama](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SM1/SM1_EN_68.png)|![Sun & Moon](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sm1-expansion-symbol.png) 68/149
 ![Hariyama](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SWSH8/SWSH8_EN_143.png)|![Fusion Strike](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/swsh8-expansion-symbol.png) 143/264
 ![Hariyama](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SWSH11/SWSH11_EN_98.png)|![Lost Origin](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/swsh11-expansion-symbol.png) 98/196
 ![Hariyama](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SV02/SV02_EN_113.png)|![Paldea Evolved](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sv02-expansion-symbol.png) 113/193
-*#0298* **Azurill**
-*#0299* **Nosepass**
+**Azurill**|*#0298*
+**Nosepass**|*#0299*
 ![Nosepass](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/XY5/XY5_EN_78.png)|![XY—Primal Clash](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/xy5-expansion-symbol.png) 78/160
 ![Nosepass](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/XY11/XY11_EN_54.png)|![XY—Steam Siege](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/xy11-expansion-symbol.png) 54/114
 ![Nosepass](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SM2/SM2_EN_69.png)|![SM—Guardians Rising](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sm2-expansion-symbol.png) 69/145
@@ -312,7 +312,7 @@ Jungko|![Celestial Storm](https://www.pokemon.com/static-assets/content-assets/c
 ![Nosepass](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SWSH2/SWSH2_EN_96.png)|![Rebel Clash](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/swsh2-expansion-symbol.png) 96/192
 ![Nosepass](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SWSH9/SWSH9_EN_73.png)|![Brilliant Stars](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/swsh9-expansion-symbol.png) 73/172
 ![Nosepass](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SV06/SV06_EN_101.png)|![Twilight Masquerade](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sv06-expansion-symbol.png) 101/167
-*#0300* **Skitty**
+**Skitty**|*#0300*
 ![Skitty](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/EX1/EX1_EN_71.png)|![EX Ruby & Sapphire](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/ex-01symbol.png) 71/109
 ![Skitty](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/EX12/EX12_EN_64.png)|![EX Legend Maker](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/ex-12symbol.png) 64/93
 ![Skitty](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/BW7/BW7_EN_113.png)|![Black & White—Boundaries Crossed](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/bw7-expansion-symbol.png) 113/149
@@ -322,12 +322,12 @@ Jungko|![Celestial Storm](https://www.pokemon.com/static-assets/content-assets/c
 ![Skitty](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SWSH3/SWSH3_EN_141.png)|![Darkness Ablaze](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/swsh3-expansion-symbol.png) 141/189
 ![Skitty](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SWSH8/SWSH8_EN_210.png)|![Fusion Strike](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/swsh8-expansion-symbol.png) 210/264
 ![Skitty](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SV05/SV05_EN_130.png)|![Temporal Forces](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sv05-expansion-symbol.png) 130/162
-*#0301* **Delcatty**
+**Delcatty**|*#0301*
 ![Delcatty](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/EX2/EX2_EN_34.png)|![EX Sandstorm](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/ex-02symbol.png) 34/100
 ![Delcatty](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/BW7/BW7_EN_114.png)|![Black & White—Boundaries Crossed](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/bw7-expansion-symbol.png) 114/149
 ![Delcatty](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/XY5/XY5_EN_114.png)|![XY—Primal Clash](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/xy5-expansion-symbol.png) 114/160
 ![Delcatty](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SV05/SV05_EN_131.png)|![Temporal Forces](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sv05-expansion-symbol.png) 131/162
-*#0302* **Sableye**
+**Sableye**|*#0302*
 ![Sableye](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/EX16/EX16_EN_22.png)|![EX Power Keepers](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/ex-16symbol.png) 22/108
 ![Sableye LV. 26](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/DP3/DP3_EN_63.png)|![Diamond & Pearl—Secret Wonders](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/dp3-expansion-symbol.png) 63/132
 ![Sableye](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/HGSS3/HGSS3_EN_35.png)|![HS—Undaunted](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/hgss3-expansion-symbol.png) 35/91
@@ -342,7 +342,7 @@ Jungko|![Celestial Storm](https://www.pokemon.com/static-assets/content-assets/c
 ![Sableye](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SV05/SV05_EN_107.png)|![Temporal Forces](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sv05-expansion-symbol.png) 107/162
 ![Sableye V](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SWSH1/SWSH1_EN_120.png)|![Sword & Shield](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/swsh1-expansion-symbol.png) 120/202
 ![Sableye V](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SWSH1/SWSH1_EN_194.png)|![Sword & Shield](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/swsh1-expansion-symbol.png) 194/202
-*#0303* **Mawile**
+**Mawile**|*#0303*
 ![Mawile LV. 32](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/DP4/DP4_EN_24.png)|![Diamond & Pearl—Great Encounters](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/dp4-expansion-symbol.png) 24/106
 ![Mawile](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/HGSS3/HGSS3_EN_56.png)|![HS—Undaunted](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/hgss3-expansion-symbol.png) 56/91
 ![Mawile](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/COL1/COL1_EN_64.png)|![Call of Legends](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/col1-expansion-symbol.png) 64/95
@@ -356,7 +356,7 @@ Jungko|![Celestial Storm](https://www.pokemon.com/static-assets/content-assets/c
 ![Mawile](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SV05/SV05_EN_112.png)|![Temporal Forces](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sv05-expansion-symbol.png) 112/162
 ![Mawile V](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SWSH12/SWSH12_EN_178.png)|![Silver Tempest](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/swsh12-expansion-symbol.png) 178/195
 ![Mawile VSTAR](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SWSH12/SWSH12_EN_71.png)|![Silver Tempest](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/swsh12-expansion-symbol.png) 71/195
-*#0304* **Aron**
+**Aron**|*#0304*
 ![Aron](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/EX12/EX12_EN_48.png)|![EX Legend Maker](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/ex-12symbol.png) 48/93
 ![Aron](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/EX14/EX14_EN_44.png)|![EX Crystal Guardians](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/ex-14symbol.png) 44/100
 ![Aron](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/HGSS3/HGSS3_EN_42.png)|![HS—Undaunted](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/hgss3-expansion-symbol.png) 42/91
@@ -366,7 +366,7 @@ Jungko|![Celestial Storm](https://www.pokemon.com/static-assets/content-assets/c
 ![Aron](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SWSH6/SWSH6_EN_109.png)|![Chilling Reign](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/swsh6-expansion-symbol.png) 109/198
 ![Aron](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SWSH12PT5/SWSH12PT5_EN_87.png)|![Crown Zenith](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/swsh12pt5-expansion-symbol.png) 87/159
 ![Aron](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SV06/SV06_EN_120.png)|![Twilight Masquerade](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sv06-expansion-symbol.png) 120/167
-*#0305* **Lairon**
+**Lairon**|*#0305*
 ![Lairon](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/HGSS3/HGSS3_EN_29.png)|![HS—Undaunted](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/hgss3-expansion-symbol.png) 29/91
 ![Lairon](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SM4/SM4_EN_66.png)|![Crimson Invasion](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sm4-expansion-symbol.png) 66/111
 ![Lairon](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SM10/SM10_EN_124.png)|![Unbroken Bonds](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sm10-expansion-symbol.png) 124/234
@@ -374,12 +374,12 @@ Jungko|![Celestial Storm](https://www.pokemon.com/static-assets/content-assets/c
 ![Lairon](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SWSH6/SWSH6_EN_110.png)|![Chilling Reign](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/swsh6-expansion-symbol.png) 110/198
 ![Lairon](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SWSH12PT5/SWSH12PT5_EN_88.png)|![Crown Zenith](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/swsh12pt5-expansion-symbol.png) 88/159
 ![Lairon](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SV06/SV06_EN_184.png)|![Twilight Masquerade](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sv06-expansion-symbol.png) 184/167
-*#0306* **Aggron**
+**Aggron**|*#0306*
 ![Aggron](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SM4/SM4_EN_67.png)|![Crimson Invasion](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sm4-expansion-symbol.png) 67/111
 ![Aggron](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SWSH3/SWSH3_EN_123.png)|![Darkness Ablaze](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/swsh3-expansion-symbol.png) 123/189
 ![Aggron](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SWSH6/SWSH6_EN_111.png)|![Chilling Reign](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/swsh6-expansion-symbol.png) 111/198
 ![Aggron](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SV06/SV06_EN_122.png)|![Twilight Masquerade](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sv06-expansion-symbol.png) 122/167
-*#0307* **Meditite**
+**Meditite**|*#0307*
 ![Meditite](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/EX16/EX16_EN_55.png)|![EX Power Keepers](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/ex-16symbol.png) 55/108
 ![Meditite LV. 19](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/DP1/DP1_EN_89.png)|![Diamond & Pearl](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/dp1-exp-symbol.png) 89/130
 ![Meditite](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/XY5/XY5_EN_79.png)|![XY—Primal Clash](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/xy5-expansion-symbol.png) 79/160
@@ -389,13 +389,13 @@ Jungko|![Celestial Storm](https://www.pokemon.com/static-assets/content-assets/c
 ![Meditite](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SWSH11/SWSH11_EN_99.png)|![Lost Origin](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/swsh11-expansion-symbol.png) 99/196
 ![Meditite](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SWSH12/SWSH12_EN_72.png)|![Silver Tempest](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/swsh12-expansion-symbol.png) 72/195
 ![Meditite](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SV05/SV05_EN_82.png)|![Temporal Forces](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sv05-expansion-symbol.png) 82/162
-*#0308* **Medicham**
+**Medicham**|*#0308*
 ![Medicham LV. 42](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/DP1/DP1_EN_32.png)|![Diamond & Pearl](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/dp1-exp-symbol.png) 32/130
 ![Medicham](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SM7/SM7_EN_77.png)|![Celestial Storm](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sm7-expansion-symbol.png) 77/168
 ![Medicham](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SWSH2/SWSH2_EN_98.png)|![Rebel Clash](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/swsh2-expansion-symbol.png) 98/192
 ![Medicham](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SWSH11/SWSH11_EN_100.png)|![Lost Origin](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/swsh11-expansion-symbol.png) 100/196
 ![Medicham](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SV05/SV05_EN_83.png)|![Temporal Forces](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sv05-expansion-symbol.png) 83/162
-*#0309* **Electrike**
+**Electrike**|*#0309*
 ![Electrike](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/EX1/EX1_EN_52.png)|![EX Ruby & Sapphire](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/ex-01symbol.png) 52/109
 ![Electrike](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/EX8/EX8_EN_60.png)|![EX Deoxys](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/ex-08symbol.png) 60/106
 ![Electrike LV. 18](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/DP5/DP5_EN_64.png)|![Diamond & Pearl—Majestic Dawn](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/dp5-exp-symbol.png) 64/100
@@ -408,7 +408,7 @@ Jungko|![Celestial Storm](https://www.pokemon.com/static-assets/content-assets/c
 ![Electrike](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SWSH3/SWSH3_EN_58.png)|![Darkness Ablaze](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/swsh3-expansion-symbol.png) 58/189
 ![Electrike](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SWSH4/SWSH4_EN_51.png)|![Vivid Voltage](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/swsh4-expansion-symbol.png) 51/185
 ![Electrike](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SWSH11/SWSH11_EN_54.png)|![Lost Origin](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/swsh11-expansion-symbol.png) 54/196
-*#0310* **Manectric**
+**Manectric**|*#0310*
 ![Team Aqua’s Manectric](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/EX4/EX4_EN_29.png)|![EX Team Magma vs. Team Aqua](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/ex-04symbol.png) 29/95
 ![Manectric LV. 34](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/DP5/DP5_EN_40.png)|![Diamond & Pearl—Majestic Dawn](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/dp5-exp-symbol.png) 40/100
 ![Manectric](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/XY6/XY6_EN_25.png)|![XY—Roaring Skies](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/xy6-expansion-symbol.png) 25/108
@@ -418,35 +418,35 @@ Jungko|![Celestial Storm](https://www.pokemon.com/static-assets/content-assets/c
 ![Manectric-EX](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/XY4/XY4_EN_23.png)|![XY—Phantom Forces](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/xy4-expansion-symbol.png) 23/119
 ![M Manectric-EX](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/XY4/XY4_EN_24.png)|![XY—Phantom Forces](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/xy4-expansion-symbol.png) 24/119
 ![M Manectric-EX](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/XY4/XY4_EN_120.png)|![XY—Phantom Forces](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/xy4-expansion-symbol.png) 120/119
-*#0311* **Plusle**
+**Plusle**|*#0311*
 ![Plusle](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/BW5/BW5_EN_39.png)|![Black & White—Dark Explorers](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/bw5-expansion-symbol.png) 39/108
 ![Plusle](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SM35/SM35_EN_33.png)|![Shining Legends](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sm35-expansion-symbol.png) 33/73
 ![Plusle](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SWSH8/SWSH8_EN_89.png)|![Fusion Strike](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/swsh8-expansion-symbol.png) 89/264
-*#0312* **Minun**
+**Minun**|*#0312*
 ![Minun](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/XY3/XY3_EN_32.png)|![XY—Furious Fists](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/xy3-expansion-symbol.png) 32/111
 ![Minun](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SM35/SM35_EN_34.png)|![Shining Legends](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sm35-expansion-symbol.png) 34/73
 ![Minun](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SWSH8/SWSH8_EN_90.png)|![Fusion Strike](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/swsh8-expansion-symbol.png) 90/264
 ![Minun](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SV04/SV04_EN_61.png)|![Paradox Rift](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sv04-expansion-symbol.png) 61/182
-*#0313* **Volbeat**
+**Volbeat**|*#0313*
 ![Volbeat](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/XY5/XY5_EN_17.png)|![XY—Primal Clash](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/xy5-expansion-symbol.png) 17/160
 ![Volbeat](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SV06/SV06_EN_9.png)|![Twilight Masquerade](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sv06-expansion-symbol.png) 9/167
-*#0314* **Illumise**
+**Illumise**|*#0314*
 ![Illumise](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/HGSS4/HGSS4_EN_64.png)|![HS—Triumphant](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/hgss4-expansion-symbol.png) 64/103
 ![Illumise](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/XY1/XY1_EN_9.png)|![XY](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/xy1-expansion-symbol.png) 9/146
 ![Illumise](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/XY5/XY5_EN_18.png)|![XY—Primal Clash](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/xy5-expansion-symbol.png) 18/160
 ![Illumise](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SV06/SV06_EN_10.png)|![Twilight Masquerade](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sv06-expansion-symbol.png) 10/167
-*#0315* **Roselia**
+**Roselia**|*#0315*
 ![Roselia LV. 27](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/DP7/DP7_EN_72.png)|![Diamond & Pearl—Stormfront](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/dp7-exp-symbol.png) 72/106
 ![Roselia](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/XY2/XY2_EN_8.png)|![XY—Flashfire](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/xy2-expansion-symbol.png) 8/106
 ![Roselia](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SWSH1/SWSH1_EN_2.png)|![Sword & Shield](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/swsh1-expansion-symbol.png) 2/202
 ![Roselia](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SWSH1/SWSH1_EN_3.png)|![Sword & Shield](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/swsh1-expansion-symbol.png) 3/202
 ![Roselia](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SWSH11/SWSH11_EN_14.png)|![Lost Origin](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/swsh11-expansion-symbol.png) 14/196
 ![Roselia](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SV05/SV05_EN_8.png)|![Temporal Forces](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sv05-expansion-symbol.png) 8/162
-*#0316* **Gulpin**
+**Gulpin**|*#0316*
 ![Gulpin](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SM7/SM7_EN_57.png)|![Celestial Storm](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sm7-expansion-symbol.png) 57/168
-*#0317* **Swalot**
+**Swalot**|*#0317*
 ![Swalot](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/EX5/EX5_EN_50.png)|![EX Hidden Legends](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/ex-05symbol.png) 50/101
-*#0318* **Carvanha**
+**Carvanha**|*#0318*
 ![Carvanha](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/EX16/EX16_EN_47.png)|![EX Power Keepers](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/ex-16symbol.png) 47/108
 ![Carvanha LV. 18](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/DP3/DP3_EN_81.png)|![Diamond & Pearl—Secret Wonders](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/dp3-expansion-symbol.png) 81/132
 ![Carvanha](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SM1/SM1_EN_81.png)|![Sun & Moon](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sm1-expansion-symbol.png) 81/149
@@ -456,7 +456,7 @@ Jungko|![Celestial Storm](https://www.pokemon.com/static-assets/content-assets/c
 ![Carvanha](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SWSH7/SWSH7_EN_35.png)|![Evolving Skies](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/swsh7-expansion-symbol.png) 35/203
 ![Carvanha](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SV03/SV03_EN_46.png)|![Obsidian Flames](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sv03-expansion-symbol.png) 46/227
 ![Carvanha](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SV05/SV05_EN_42.png)|![Temporal Forces](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sv05-expansion-symbol.png) 42/162
-*#0319* **Sharpedo**
+**Sharpedo**|*#0319*
 ![Team Aqua’s Sharpedo](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/EX4/EX4_EN_18.png)|![EX Team Magma vs. Team Aqua](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/ex-04symbol.png) 18/95
 ![Sharpedo](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SM1/SM1_EN_82.png)|![Sun & Moon](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sm1-expansion-symbol.png) 82/149
 ![Sharpedo](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SM2/SM2_EN_28.png)|![SM—Guardians Rising](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sm2-expansion-symbol.png) 28/145
@@ -464,16 +464,16 @@ Jungko|![Celestial Storm](https://www.pokemon.com/static-assets/content-assets/c
 ![Sharpedo](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SWSH7/SWSH7_EN_36.png)|![Evolving Skies](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/swsh7-expansion-symbol.png) 36/203
 ![Sharpedo](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SWSH8/SWSH8_EN_163.png)|![Fusion Strike](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/swsh8-expansion-symbol.png) 163/264
 ![Sharpedo](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SV05/SV05_EN_43.png)|![Temporal Forces](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sv05-expansion-symbol.png) 43/162
-*#0320* **Wailmer**
+**Wailmer**|*#0320*
 ![Wailmer](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SM2/SM2_EN_29.png)|![SM—Guardians Rising](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sm2-expansion-symbol.png) 29/145
 ![Wailmer](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SM12/SM12_EN_45.png)|![Cosmic Eclipse](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sm12-expansion-symbol.png) 45/236
 ![Wailmer](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SWSH4/SWSH4_EN_31.png)|![Vivid Voltage](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/swsh4-expansion-symbol.png) 31/185
 ![Wailmer](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SWSH12/SWSH12_EN_37.png)|![Silver Tempest](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/swsh12-expansion-symbol.png) 37/195
 ![Wailmer](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SWSH12PT5/SWSH12PT5_EN_31.png)|![Crown Zenith](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/swsh12pt5-expansion-symbol.png) 31/159
-*#0321* **Wailord**
+**Wailord**|*#0321*
 ![Wailord](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SWSH12PT5/SWSH12PT5_EN_32.png)|![Crown Zenith](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/swsh12pt5-expansion-symbol.png) 32/159
 ![Wailord-EX](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/XY5/XY5_EN_147.png)|![XY—Primal Clash](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/xy5-expansion-symbol.png) 147/160
-*#0322* **Numel**
+**Numel**|*#0322*
 ![Numel](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/EX3/EX3_EN_70.png)|![EX Dragon](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/ex-03symbol.png) 70/97
 ![Numel](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/BW7/BW7_EN_21.png)|![Black & White—Boundaries Crossed](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/bw7-expansion-symbol.png) 21/149
 ![Numel](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/XY9/XY9_EN_12.png)|![XY—BREAKpoint](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/xy9-expansion-symbol.png) 12/122
@@ -481,14 +481,14 @@ Jungko|![Celestial Storm](https://www.pokemon.com/static-assets/content-assets/c
 ![Numel](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SM11/SM11_EN_23.png)|![Unified Minds](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sm11-expansion-symbol.png) 23/236
 ![Numel](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SV03/SV03_EN_31.png)|![Obsidian Flames](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sv03-expansion-symbol.png) 31/227
 ![Numel](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SV4PT5/SV4PT5_EN_11.png)|![Paldean Fates](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sv4pt5-expansion-symbol.png) 11/91
-*#0323* **Camerupt**
+**Camerupt**|*#0323*
 ![Team Magma’s Camerupt](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/EX4/EX4_EN_19.png)|![EX Team Magma vs. Team Aqua](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/ex-04symbol.png) 19/95
 ![Camerupt](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/BW7/BW7_EN_22.png)|![Black & White—Boundaries Crossed](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/bw7-expansion-symbol.png) 22/149
 ![Camerupt](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SM4/SM4_EN_14.png)|![Crimson Invasion](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sm4-expansion-symbol.png) 14/111
 ![Camerupt](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SM11/SM11_EN_24.png)|![Unified Minds](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sm11-expansion-symbol.png) 24/236
 ![Camerupt](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/PGO/PGO_EN_14.png)|![Pokémon TCG: Pokémon GO](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/pgo-expansion-symbol.png) 14/78
 ![Camerupt](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SV4PT5/SV4PT5_EN_12.png)|![Paldean Fates](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sv4pt5-expansion-symbol.png) 12/91
-*#0324* **Torkoal**
+**Torkoal**|*#0324*
 ![Torkoal](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SM1/SM1_EN_23.png)|![Sun & Moon](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sm1-expansion-symbol.png) 23/149
 ![Torkoal](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SM35/SM35_EN_11.png)|![Shining Legends](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sm35-expansion-symbol.png) 11/73
 ![Torkoal](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SM7/SM7_EN_29.png)|![Celestial Storm](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sm7-expansion-symbol.png) 29/168
@@ -496,7 +496,7 @@ Jungko|![Celestial Storm](https://www.pokemon.com/static-assets/content-assets/c
 ![Torkoal](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SWSH9/SWSH9_EN_23.png)|![Brilliant Stars](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/swsh9-expansion-symbol.png) 23/172
 ![Torkoal](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SWSH11/SWSH11_EN_23.png)|![Lost Origin](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/swsh11-expansion-symbol.png) 23/196
 ![Torkoal](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SV06/SV06_EN_30.png)|![Twilight Masquerade](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sv06-expansion-symbol.png) 30/167
-*#0325* **Spoink**
+**Spoink**|*#0325*
 ![Spoink](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/EX3/EX3_EN_73.png)|![EX Dragon](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/ex-03symbol.png) 73/97
 ![Spoink](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/EX3/EX3_EN_74.png)|![EX Dragon](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/ex-03symbol.png) 74/97
 ![Spoink](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/BW7/BW7_EN_59.png)|![Black & White—Boundaries Crossed](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/bw7-expansion-symbol.png) 59/149
@@ -505,50 +505,50 @@ Jungko|![Celestial Storm](https://www.pokemon.com/static-assets/content-assets/c
 ![Spoink](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SM4/SM4_EN_41.png)|![Crimson Invasion](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sm4-expansion-symbol.png) 41/111
 ![Spoink](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SM7/SM7_EN_59.png)|![Celestial Storm](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sm7-expansion-symbol.png) 59/168
 ![Spoink](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SWSH5/SWSH5_EN_55.png)|![Battle Styles](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/swsh5-expansion-symbol.png) 55/163
-*#0326* **Grumpig**
+**Grumpig**|*#0326*
 ![Grumpig](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/XY10/XY10_EN_31.png)|![XY—Fates Collide](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/xy10-expansion-symbol.png) 31/124
 ![Grumpig](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SM4/SM4_EN_42.png)|![Crimson Invasion](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sm4-expansion-symbol.png) 42/111
 ![Grumpig](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SWSH5/SWSH5_EN_56.png)|![Battle Styles](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/swsh5-expansion-symbol.png) 56/163
-*#0327* **Spinda**
+**Spinda**|*#0327*
 ![Spinda LV. 25](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/POP7/POP_7_17.png)|![POP Series 7](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/pop-7-exp-logo.png)|17/17
 ![Spinda](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/XY5/XY5_EN_115.png)|![XY—Primal Clash](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/xy5-expansion-symbol.png) 115/160
 ![Spinda](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SM1/SM1_EN_102.png)|![Sun & Moon](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sm1-expansion-symbol.png) 102/149
 ![Spinda](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SWSH12/SWSH12_EN_141.png)|![Silver Tempest](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/swsh12-expansion-symbol.png) 141/195
 ![Spinda](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SV04/SV04_EN_151.png)|![Paradox Rift](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sv04-expansion-symbol.png) 151/182
-*#0328* **Trapinch**
+**Trapinch**|*#0328*
 ![Trapinch δ](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/EX13/EX13_EN_84.png)|![EX Holon Phantoms](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/ex-13symbol.png) 84/111
 ![Trapinch LV. 14](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/PL2/PL2_EN_84.png)|![Platinum—Rising Rivals](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/pl2-expansion-symbol.png) 84/120
 ![Trapinch](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SWSH3/SWSH3_EN_89.png)|![Darkness Ablaze](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/swsh3-expansion-symbol.png) 89/189
 ![Trapinch](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SWSH45/SWSH45_EN_40.png)|![Shining Fates](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/swsh45-expansion-symbol.png) 40/72
 ![Trapinch](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SWSH9/SWSH9_EN_74.png)|![Brilliant Stars](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/swsh9-expansion-symbol.png) 74/172
-*#0329* **Vibrava**
+**Vibrava**|*#0329*
 ![Vibrava δ](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/EX15/EX15_EN_24.png)|![EX Dragon Frontiers](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/ex-15symbol.png) 24/101
 ![Vibrava LV. 36](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/PL2/PL2_EN_53.png)|![Platinum—Rising Rivals](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/pl2-expansion-symbol.png) 53/120
 ![Vibrava](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/BW7/BW7_EN_98.png)|![Black & White—Boundaries Crossed](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/bw7-expansion-symbol.png) 98/149
 ![Vibrava](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/XY5/XY5_EN_109.png)|![XY—Primal Clash](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/xy5-expansion-symbol.png) 109/160
 ![Vibrava](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SWSH3/SWSH3_EN_90.png)|![Darkness Ablaze](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/swsh3-expansion-symbol.png) 90/189
 ![Vibrava](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SWSH9/SWSH9_EN_75.png)|![Brilliant Stars](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/swsh9-expansion-symbol.png) 75/172
-*#0330* **Flygon**
+**Flygon**|*#0330*
 ![Flygon](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/XY5/XY5_EN_110.png)|![XY—Primal Clash](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/xy5-expansion-symbol.png) 110/160
 ![Flygon](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SM75/SM75_EN_39.png)|![Dragon Majesty](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sm75-expansion-symbol.png) 39/70
 ![Flygon](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SWSH9/SWSH9_EN_76.png)|![Brilliant Stars](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/swsh9-expansion-symbol.png) 76/172
 ![Flygon-GX](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SM12/SM12_EN_110.png)|![Cosmic Eclipse](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sm12-expansion-symbol.png) 110/236
 ![Flygon V](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SWSH9/SWSH9_EN_106.png)|![Brilliant Stars](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/swsh9-expansion-symbol.png) 106/172
 ![Flygon V](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SWSH9/SWSH9_EN_164.png)|![Brilliant Stars](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/swsh9-expansion-symbol.png) 164/172
-*#0331* **Cacnea**
+**Cacnea**|*#0331*
 ![Cacnea LV. 16](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/PL1/PL1_EN_67.png)|![Platinum](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/pl1-expansion-symbol.png) 67/133
 ![Cacnea](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/BW9/BW9_EN_9.png)|![Black & White—Plasma Freeze](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/bw9-expansion-symbol.png) 9/116
 ![Cacnea](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SM4/SM4_EN_5.png)|![Crimson Invasion](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sm4-expansion-symbol.png) 5/111
 ![Cacnea](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SM7/SM7_EN_19.png)|![Celestial Storm](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sm7-expansion-symbol.png) 19/168
 ![Cacnea](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SWSH45/SWSH45_EN_4.png)|![Shining Fates](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/swsh45-expansion-symbol.png) 4/72
 ![Cacnea](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SWSH5/SWSH5_EN_4.png)|![Battle Styles](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/swsh5-expansion-symbol.png) 4/163
-*#0332* **Cacturne**
+**Cacturne**|*#0332*
 ![Cacturne](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/XY8/XY8_EN_88.png)|![XY–BREAKthrough](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/xy8-expansion-symbol.png) 88/162
 ![Cacturne](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SM4/SM4_EN_6.png)|![Crimson Invasion](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sm4-expansion-symbol.png) 6/111
 ![Cacturne](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SM7/SM7_EN_20.png)|![Celestial Storm](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sm7-expansion-symbol.png) 20/168
 ![Cacturne](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SWSH5/SWSH5_EN_5.png)|![Battle Styles](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/swsh5-expansion-symbol.png) 5/163
 ![Cacturne](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SV01/SV01_EN_6.png)|![Scarlet & Violet](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sv01-expansion-symbol.png) 6/198
-*#0333* **Swablu**
+**Swablu**|*#0333*
 ![Swablu](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/EX3/EX3_EN_75.png)|![EX Dragon](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/ex-03symbol.png) 75/97
 ![Swablu](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/EX8/EX8_EN_79.png)|![EX Deoxys](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/ex-08symbol.png) 79/106
 ![Swablu LV. 11](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/PL1/PL1_EN_97.png)|![Platinum](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/pl1-expansion-symbol.png) 97/133
@@ -564,7 +564,7 @@ Jungko|![Celestial Storm](https://www.pokemon.com/static-assets/content-assets/c
 ![Swablu](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SWSH7/SWSH7_EN_132.png)|![Evolving Skies](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/swsh7-expansion-symbol.png) 132/203
 ![Swablu](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SWSH12/SWSH12_EN_142.png)|![Silver Tempest](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/swsh12-expansion-symbol.png) 142/195
 ![Swablu](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SWSH12PT5GG/SWSH12PT5GG_EN_GG27.png)|![Crown Zenith Galarian Gallery](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/swsh12pt5gg-expansion-symbol.png) GG27/GG70
-*#0334* **Altaria**
+**Altaria**|*#0334*
 ![Altaria  LV. 59](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/PL3/PL3_EN_49.png)|![Platinum—Supreme Victors](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/pl3-exp-symbol.png) 49/153
 ![Altaria](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/XY6/XY6_EN_53.png)|![XY—Roaring Skies](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/xy6-expansion-symbol.png) 53/108
 ![Altaria](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/G1/G1_EN_RC24.png)|![Generations](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/g1-expansion-symbol.png) RC24 Uncommon
@@ -575,46 +575,46 @@ Jungko|![Celestial Storm](https://www.pokemon.com/static-assets/content-assets/c
 ![Altaria](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SWSH12PT5GG/SWSH12PT5GG_EN_GG19.png)|![Crown Zenith Galarian Gallery](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/swsh12pt5gg-expansion-symbol.png) GG19/GG70
 ![Altaria-EX](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/XY10/XY10_EN_83.png)|![XY—Fates Collide](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/xy10-expansion-symbol.png) 83/124
 ![M Altaria-EX](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/XY10/XY10_EN_121.png)|![XY—Fates Collide](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/xy10-expansion-symbol.png) 121/124
-*#0335* **Zangoose**
+**Zangoose**|*#0335*
 ![Zangoose δ](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/POP5/POP_5_Card_15.png)|![POP Series 5](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/pop-5-exp-logo.png)|15/17
 ![Zangoose LV. 29](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/PL1/PL1_EN_66.png)|![Platinum](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/pl1-expansion-symbol.png) 66/133
 ![Zangoose](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/COL1/COL1_EN_39.png)|![Call of Legends](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/col1-expansion-symbol.png) 39/95
 ![Zangoose](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SWSH6/SWSH6_EN_120.png)|![Chilling Reign](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/swsh6-expansion-symbol.png) 120/198
 ![Zangoose](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SV01/SV01_EN_146.png)|![Scarlet & Violet](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sv01-expansion-symbol.png) 146/198
 ![Zangoose](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SV01/SV01_EN_147.png)|![Scarlet & Violet](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sv01-expansion-symbol.png) 147/198
-*#0336* **Seviper**
+**Seviper**|*#0336*
 ![Seviper LV. 26](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/DP4/DP4_EN_52.png)|![Diamond & Pearl—Great Encounters](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/dp4-expansion-symbol.png) 52/106
 ![Seviper LV. 30](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/PL1/PL1_EN_61.png)|![Platinum](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/pl1-expansion-symbol.png) 61/133
 ![Seviper](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/COL1/COL1_EN_51.png)|![Call of Legends](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/col1-expansion-symbol.png) 51/95
 ![Seviper](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SM3/SM3_EN_50.png)|![Burning Shadows](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sm3-expansion-symbol.png) 50/147
 ![Seviper](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SWSH11/SWSH11_EN_116.png)|![Lost Origin](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/swsh11-expansion-symbol.png) 116/196
 ![Seviper](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SV02/SV02_EN_137.png)|![Paldea Evolved](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sv02-expansion-symbol.png) 137/193
-*#0337* **Lunatone**
+**Lunatone**|*#0337*
 ![Lunatone](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SM3/SM3_EN_68.png)|![Burning Shadows](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sm3-expansion-symbol.png) 68/147
 ![Lunatone](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SWSH3/SWSH3_EN_72.png)|![Darkness Ablaze](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/swsh3-expansion-symbol.png) 72/189
 ![Lunatone](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/PGO/PGO_EN_34.png)|![Pokémon TCG: Pokémon GO](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/pgo-expansion-symbol.png) 34/78
 ![Lunatone](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SWSH12PT5/SWSH12PT5_EN_62.png)|![Crown Zenith](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/swsh12pt5-expansion-symbol.png) 62/159
 ![Lunatone](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SV03/SV03_EN_92.png)|![Obsidian Flames](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sv03-expansion-symbol.png) 92/227
-*#0338* **Solrock**
+**Solrock**|*#0338*
 ![Solrock LV. 41](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/PL3/PL3_EN_45.png)|![Platinum—Supreme Victors](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/pl3-exp-symbol.png) 45/153
 ![Solrock](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SM3/SM3_EN_69.png)|![Burning Shadows](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sm3-expansion-symbol.png) 69/147
 ![Solrock](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SM7/SM7_EN_62.png)|![Celestial Storm](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sm7-expansion-symbol.png) 62/168
 ![Solrock](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SWSH3/SWSH3_EN_92.png)|![Darkness Ablaze](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/swsh3-expansion-symbol.png) 92/189
 ![Solrock](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SWSH12PT5/SWSH12PT5_EN_69.png)|![Crown Zenith](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/swsh12pt5-expansion-symbol.png) 69/159
 ![Solrock](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SWSH12PT5GG/SWSH12PT5GG_EN_GG15.png)|![Crown Zenith Galarian Gallery](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/swsh12pt5gg-expansion-symbol.png) GG15/GG70
-*#0339* **Barboach**
+**Barboach**|*#0339*
 ![Barboach](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/EX3/EX3_EN_51.png)|![EX Dragon](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/ex-03symbol.png) 51/97
 ![Barboach](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/XY5/XY5_EN_39.png)|![XY—Primal Clash](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/xy5-expansion-symbol.png) 39/160
 ![Barboach](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SM2/SM2_EN_70.png)|![SM—Guardians Rising](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sm2-expansion-symbol.png) 70/145
 ![Barboach](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SWSH2/SWSH2_EN_99.png)|![Rebel Clash](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/swsh2-expansion-symbol.png) 99/192
 ![Barboach](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SWSH10/SWSH10_EN_35.png)|![Astral Radiance](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/swsh10-expansion-symbol.png) 35/189
 ![Barboach](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SV4PT5/SV4PT5_EN_50.png)|![Paldean Fates](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sv4pt5-expansion-symbol.png) 50/91
-*#0340* **Whiscash**
+**Whiscash**|*#0340*
 ![Whiscash](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/XY5/XY5_EN_40.png)|![XY—Primal Clash](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/xy5-expansion-symbol.png) 40/160
 ![Whiscash](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/XY5/XY5_EN_41.png)|![XY—Primal Clash](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/xy5-expansion-symbol.png) 41/160
 ![Whiscash](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SWSH2/SWSH2_EN_100.png)|![Rebel Clash](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/swsh2-expansion-symbol.png) 100/192
 ![Whiscash](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SWSH10/SWSH10_EN_36.png)|![Astral Radiance](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/swsh10-expansion-symbol.png) 36/189
-*#0341* **Corphish**
+**Corphish**|*#0341*
 ![Corphish](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/EX3/EX3_EN_53.png)|![EX Dragon](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/ex-03symbol.png) 53/97
 ![Corphish](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/XY5/XY5_EN_42.png)|![XY—Primal Clash](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/xy5-expansion-symbol.png) 42/160
 ![Corphish](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SM4/SM4_EN_24.png)|![Crimson Invasion](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sm4-expansion-symbol.png) 24/111
@@ -622,11 +622,11 @@ Jungko|![Celestial Storm](https://www.pokemon.com/static-assets/content-assets/c
 ![Corphish](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SWSH9/SWSH9_EN_32.png)|![Brilliant Stars](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/swsh9-expansion-symbol.png) 32/172
 ![Corphish](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SWSH12PT5/SWSH12PT5_EN_33.png)|![Crown Zenith](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/swsh12pt5-expansion-symbol.png) 33/159
 ![Corphish](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SV06/SV06_EN_47.png)|![Twilight Masquerade](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sv06-expansion-symbol.png) 47/167
-*#0342* **Crawdaunt**
+**Crawdaunt**|*#0342*
 ![Crawdaunt](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SWSH5/SWSH5_EN_39.png)|![Battle Styles](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/swsh5-expansion-symbol.png) 39/163
 ![Crawdaunt](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SWSH9/SWSH9_EN_33.png)|![Brilliant Stars](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/swsh9-expansion-symbol.png) 33/172
 ![Crawdaunt](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SV06/SV06_EN_48.png)|![Twilight Masquerade](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sv06-expansion-symbol.png) 48/167
-*#0343* **Baltoy**
+**Baltoy**|*#0343*
 ![Team Magma’s Baltoy](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/EX4/EX4_EN_61.png)|![EX Team Magma vs. Team Aqua](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/ex-04symbol.png) 61/95
 ![Baltoy](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/BW6/BW6_EN_63.png)|![Black & White—Dragons Exalted](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/bw6-expansion-symbol.png) 63/124
 ![Baltoy](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/XY7/XY7_EN_31.png)|![XY—Ancient Origins](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/xy7-expansion-symbol.png) 31/98
@@ -637,26 +637,26 @@ Jungko|![Celestial Storm](https://www.pokemon.com/static-assets/content-assets/c
 ![Baltoy](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SWSH9/SWSH9_EN_58.png)|![Brilliant Stars](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/swsh9-expansion-symbol.png) 58/172
 ![Baltoy](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SWSH12PT5/SWSH12PT5_EN_70.png)|![Crown Zenith](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/swsh12pt5-expansion-symbol.png) 70/159
 ![Baltoy](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SV03/SV03_EN_94.png)|![Obsidian Flames](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sv03-expansion-symbol.png) 94/227
-*#0344* **Claydol**
+**Claydol**|*#0344*
 ![Team Magma’s Claydol](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/EX4/EX4_EN_33.png)|![EX Team Magma vs. Team Aqua](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/ex-04symbol.png) 33/95
 ![Claydol](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SWSH1/SWSH1_EN_103.png)|![Sword & Shield](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/swsh1-expansion-symbol.png) 103/202
 ![Claydol](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SWSH5/SWSH5_EN_58.png)|![Battle Styles](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/swsh5-expansion-symbol.png) 58/163
 ![Claydol](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SWSH9/SWSH9_EN_59.png)|![Brilliant Stars](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/swsh9-expansion-symbol.png) 59/172
 ![Claydol](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SWSH12/SWSH12_EN_94.png)|![Silver Tempest](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/swsh12-expansion-symbol.png) 94/195
 ![Claydol](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SV03/SV03_EN_95.png)|![Obsidian Flames](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sv03-expansion-symbol.png) 95/227
-*#0345* **Lileep**
+**Lileep**|*#0345*
 ![Lileep δ](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/EX13/EX13_EN_68.png)|![EX Holon Phantoms](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/ex-13symbol.png) 68/111
 ![Lileep](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SM12/SM12_EN_10.png)|![Cosmic Eclipse](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sm12-expansion-symbol.png) 10/236
-*#0346* **Cradily**
+**Cradily**|*#0346*
 ![Cradily](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SM12/SM12_EN_11.png)|![Cosmic Eclipse](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sm12-expansion-symbol.png) 11/236
-*#0347* **Anorith**
+**Anorith**|*#0347*
 ![Anorith](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/EX16/EX16_EN_26.png)|![EX Power Keepers](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/ex-16symbol.png) 26/108
 ![Anorith](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/XY11/XY11_EN_56.png)|![XY—Steam Siege](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/xy11-expansion-symbol.png) 56/114
 ![Anorith](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SWSH12/SWSH12_EN_95.png)|![Silver Tempest](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/swsh12-expansion-symbol.png) 95/195
-*#0348* **Armaldo**
+**Armaldo**|*#0348*
 ![Armaldo](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/XY11/XY11_EN_57.png)|![XY—Steam Siege](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/xy11-expansion-symbol.png) 57/114
 ![Armaldo](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SWSH12/SWSH12_EN_96.png)|![Silver Tempest](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/swsh12-expansion-symbol.png) 96/195
-*#0349* **Feebas**
+**Feebas**|*#0349*
 ![Feebas](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/EX9/EX9_EN_50.png)|![EX Emerald](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/ex-09symbol.png) 50/106
 ![Feebas](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/BW6/BW6_EN_27.png)|![Black & White—Dragons Exalted](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/bw6-expansion-symbol.png) 27/124
 ![Feebas](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/XY5/XY5_EN_43.png)|![XY—Primal Clash](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/xy5-expansion-symbol.png) 43/160
@@ -666,7 +666,7 @@ Jungko|![Celestial Storm](https://www.pokemon.com/static-assets/content-assets/c
 ![Feebas](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SWSH7/SWSH7_EN_37.png)|![Evolving Skies](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/swsh7-expansion-symbol.png) 37/203
 ![Feebas](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SWSH12/SWSH12_EN_39.png)|![Silver Tempest](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/swsh12-expansion-symbol.png) 39/195
 ![Feebas](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SV06/SV06_EN_49.png)|![Twilight Masquerade](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sv06-expansion-symbol.png) 49/167
-*#0350* **Milotic**
+**Milotic**|*#0350*
 ![Milotic](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/BW6/BW6_EN_28.png)|![Black & White—Dragons Exalted](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/bw6-expansion-symbol.png) 28/124
 ![Milotic](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/XY5/XY5_EN_44.png)|![XY—Primal Clash](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/xy5-expansion-symbol.png) 44/160
 ![Milotic](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SM75/SM75_EN_29.png)|![Dragon Majesty](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sm75-expansion-symbol.png) 29/70
@@ -674,7 +674,7 @@ Jungko|![Celestial Storm](https://www.pokemon.com/static-assets/content-assets/c
 ![Milotic](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SV04/SV04_EN_36.png)|![Paradox Rift](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sv04-expansion-symbol.png) 36/182
 ![Milotic](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SV06/SV06_EN_50.png)|![Twilight Masquerade](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sv06-expansion-symbol.png) 50/167
 ![Milotic V](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SWSH2/SWSH2_EN_43.png)|![Rebel Clash](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/swsh2-expansion-symbol.png) 43/192
-*#0351* **Castform**
+**Castform**|*#0351*
 ![Castform](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/EX11/EX11_EN_34.png)|![EX Delta Species](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/ex-11symbol.png) 34/114
 ![Castform](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SM2/SM2_EN_105.png)|![SM—Guardians Rising](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sm2-expansion-symbol.png) 105/145
 ![Castform Sunny Form](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SWSH6/SWSH6_EN_22.png)|![Chilling Reign](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/swsh6-expansion-symbol.png) 22/198
@@ -683,13 +683,13 @@ Jungko|![Celestial Storm](https://www.pokemon.com/static-assets/content-assets/c
 ![Castform](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SWSH6/SWSH6_EN_121.png)|![Chilling Reign](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/swsh6-expansion-symbol.png) 121/198
 ![Castform](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SWSH9/SWSH9_EN_116.png)|![Brilliant Stars](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/swsh9-expansion-symbol.png) 116/172
 ![Castform](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SWSH11/SWSH11_EN_TG11.png)|![Lost Origin Trainer Gallery](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/swsh11-expansion-symbol.png) TG11/TG30
-*#0352* **Kecleon**
+**Kecleon**|*#0352*
 ![Kecleon](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/EX12/EX12_EN_37.png)|![EX Legend Maker](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/ex-12symbol.png) 37/93
 ![Kecleon LV. 28](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/DP3/DP3_EN_52.png)|![Diamond & Pearl—Secret Wonders](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/dp3-expansion-symbol.png) 52/132
 ![Kecleon LV. 34](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/PL2/PL2_EN_67.png)|![Platinum—Rising Rivals](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/pl2-expansion-symbol.png) 67/120
 ![Kecleon](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SM8/SM8_EN_162.png)|![Lost Thunder](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sm8-expansion-symbol.png) 162/214
 ![Kecleon](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SWSH6/SWSH6_EN_122.png)|![Chilling Reign](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/swsh6-expansion-symbol.png) 122/198
-*#0353* **Shuppet**
+**Shuppet**|*#0353*
 ![Shuppet](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/EX16/EX16_EN_61.png)|![EX Power Keepers](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/ex-16symbol.png) 61/108
 ![Shuppet LV. 13](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/DP3/DP3_EN_110.png)|![Diamond & Pearl—Secret Wonders](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/dp3-expansion-symbol.png) 110/132
 ![Shuppet](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/XY6/XY6_EN_30.png)|![XY—Roaring Skies](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/xy6-expansion-symbol.png) 30/108
@@ -698,13 +698,13 @@ Jungko|![Celestial Storm](https://www.pokemon.com/static-assets/content-assets/c
 ![Shuppet](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SWSH4/SWSH4_EN_67.png)|![Vivid Voltage](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/swsh4-expansion-symbol.png) 67/185
 ![Shuppet](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SWSH6/SWSH6_EN_62.png)|![Chilling Reign](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/swsh6-expansion-symbol.png) 62/198
 ![Shuppet](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SWSH11/SWSH11_EN_72.png)|![Lost Origin](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/swsh11-expansion-symbol.png) 72/196
-*#0354* **Banette**
+**Banette**|*#0354*
 ![Banette](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SM7/SM7_EN_65.png)|![Celestial Storm](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sm7-expansion-symbol.png) 65/168
 ![Banette](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SWSH4/SWSH4_EN_68.png)|![Vivid Voltage](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/swsh4-expansion-symbol.png) 68/185
 ![Banette](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SWSH6/SWSH6_EN_63.png)|![Chilling Reign](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/swsh6-expansion-symbol.png) 63/198
 ![Banette](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SWSH11/SWSH11_EN_73.png)|![Lost Origin](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/swsh11-expansion-symbol.png) 73/196
 ![Banette ex](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SV01/SV01_EN_229.png)|![Scarlet & Violet](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sv01-expansion-symbol.png) 229/198
-*#0355* **Duskull**
+**Duskull**|*#0355*
 ![Duskull LV. 11](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/DP3/DP3_EN_86.png)|![Diamond & Pearl—Secret Wonders](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/dp3-expansion-symbol.png) 86/132
 ![Duskull LV. 10](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/DP7/DP7_EN_60.png)|![Diamond & Pearl—Stormfront](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/dp7-exp-symbol.png) 60/106
 ![Duskull](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/XY2/XY2_EN_38.png)|![XY—Flashfire](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/xy2-expansion-symbol.png) 38/106
@@ -715,20 +715,20 @@ Jungko|![Celestial Storm](https://www.pokemon.com/static-assets/content-assets/c
 ![Duskull](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SWSH12PT5GG/SWSH12PT5GG_EN_GG28.png)|![Crown Zenith Galarian Gallery](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/swsh12pt5gg-expansion-symbol.png) GG28/GG70
 ![Duskull](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SV6PT5/SV6PT5_EN_18.png)|![Shrouded Fable](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sv6pt5-expansion-symbol.png) 18/64
 ![Duskull](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SV6PT5/SV6PT5_EN_68.png)|![Shrouded Fable](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sv6pt5-expansion-symbol.png) 68/64
-*#0356* **Dusclops**
+**Dusclops**|*#0356*
 ![Dusclops LV. 38](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/DP1/DP1_EN_47.png)|![Diamond & Pearl](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/dp1-exp-symbol.png) 47/130
 ![Dusclops](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SM3/SM3_EN_52.png)|![Burning Shadows](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sm3-expansion-symbol.png) 52/147
 ![Dusclops](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SWSH4/SWSH4_EN_70.png)|![Vivid Voltage](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/swsh4-expansion-symbol.png) 70/185
 ![Dusclops](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SWSH9/SWSH9_EN_61.png)|![Brilliant Stars](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/swsh9-expansion-symbol.png) 61/172
 ![Dusclops](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SWSH12PT5/SWSH12PT5_EN_63.png)|![Crown Zenith](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/swsh12pt5-expansion-symbol.png) 63/159
 ![Dusclops](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SV6PT5/SV6PT5_EN_19.png)|![Shrouded Fable](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sv6pt5-expansion-symbol.png) 19/64
-*#0357* **Tropius**
+**Tropius**|*#0357*
 ![Tropius](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/HGSS2/HGSS2_EN_66.png)|![HS—Unleashed](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/hgss2-expansion-symbol.png) 66/96
 ![Tropius](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/XY6/XY6_EN_12.png)|![XY—Roaring Skies](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/xy6-expansion-symbol.png) 12/108
 ![Tropius](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SWSH45/SWSH45_EN_5.png)|![Shining Fates](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/swsh45-expansion-symbol.png) 5/72
 ![Tropius](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SWSH9/SWSH9_EN_5.png)|![Brilliant Stars](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/swsh9-expansion-symbol.png) 5/172
 ![Tropius](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SV02/SV02_EN_195.png)|![Paldea Evolved](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sv02-expansion-symbol.png) 195/193
-*#0358* **Chimecho**
+**Chimecho**|*#0358*
 ![Chimecho](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SM4/SM4_EN_43.png)|![Crimson Invasion](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sm4-expansion-symbol.png) 43/111
 ![Chimecho](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SWSH4/SWSH4_EN_72.png)|![Vivid Voltage](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/swsh4-expansion-symbol.png) 72/185
 ![Chimecho](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SWSH5/SWSH5_EN_59.png)|![Battle Styles](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/swsh5-expansion-symbol.png) 59/163
@@ -737,7 +737,7 @@ Jungko|![Celestial Storm](https://www.pokemon.com/static-assets/content-assets/c
 ![Chimecho](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SV4PT5/SV4PT5_EN_30.png)|![Paldean Fates](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sv4pt5-expansion-symbol.png) 30/91
 ![Chimecho](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SV06/SV06_EN_85.png)|![Twilight Masquerade](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sv06-expansion-symbol.png) 85/167
 ![Chimecho](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SV06/SV06_EN_179.png)|![Twilight Masquerade](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sv06-expansion-symbol.png) 179/167
-*#0359* **Absol**
+**Absol**|*#0359*
 ![Absol](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/HGSS4/HGSS4_EN_91.png)|![HS—Triumphant](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/hgss4-expansion-symbol.png) 91/103
 ![Absol](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SM12/SM12_EN_133.png)|![Cosmic Eclipse](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sm12-expansion-symbol.png) 133/236
 ![Absol](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SWSH35/SWSH35_EN_38.png)|![Champion’s Path](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/swsh35-expansion-symbol.png) 38/73
@@ -746,9 +746,9 @@ Jungko|![Celestial Storm](https://www.pokemon.com/static-assets/content-assets/c
 ![Absol](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SV6PT5/SV6PT5_EN_30.png)|![Shrouded Fable](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sv6pt5-expansion-symbol.png) 30/64
 ![M Absol-EX](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/XYP/XYP_EN_XY63.png)|![XY—Promo](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/black-star-promo.png)|XY63
 ![Absol ex](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SV03/SV03_EN_214.png)|![Obsidian Flames](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sv03-expansion-symbol.png) 214/227
-*#0360* **Wynaut**
+**Wynaut**|*#0360*
 ![Wynaut](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SM11/SM11_EN_77.png)|![Unified Minds](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sm11-expansion-symbol.png) 77/236
-*#0361* **Snorunt**
+**Snorunt**|*#0361*
 ![Snorunt LV. 14](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/DP2/DP2_EN_100.png)|![Diamond & Pearl—Mysterious Treasures](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/dp2-exp-symbol.png) 100/124
 ![Snorunt](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/BW10/BW10_EN_21.png)|![Black & White—Plasma Blast](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/bw10-expansion-symbol.png) 21/101
 ![Snorunt](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/G1/G1_EN_RC7.png)|![Generations](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/g1-expansion-symbol.png) RC7/RC32
@@ -761,36 +761,36 @@ Jungko|![Celestial Storm](https://www.pokemon.com/static-assets/content-assets/c
 ![Snorunt](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SWSH12PT5/SWSH12PT5_EN_34.png)|![Crown Zenith](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/swsh12pt5-expansion-symbol.png) 34/159
 ![Snorunt](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SV04/SV04_EN_37.png)|![Paradox Rift](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sv04-expansion-symbol.png) 37/182
 ![Snorunt](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SV06/SV06_EN_51.png)|![Twilight Masquerade](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sv06-expansion-symbol.png) 51/167
-*#0362* **Glalie**
+**Glalie**|*#0362*
 ![Glalie LV. 43](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/DP2/DP2_EN_25.png)|![Diamond & Pearl—Mysterious Treasures](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/dp2-exp-symbol.png) 25/124
 ![Glalie](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/BW10/BW10_EN_22.png)|![Black & White—Plasma Blast](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/bw10-expansion-symbol.png) 22/101
 ![Glalie](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SM2/SM2_EN_32.png)|![SM—Guardians Rising](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sm2-expansion-symbol.png) 32/145
 ![Glalie](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SM12/SM12_EN_48.png)|![Cosmic Eclipse](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sm12-expansion-symbol.png) 48/236
 ![Glalie](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SWSH12/SWSH12_EN_42.png)|![Silver Tempest](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/swsh12-expansion-symbol.png) 42/195
 ![Glalie](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SV06/SV06_EN_52.png)|![Twilight Masquerade](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sv06-expansion-symbol.png) 52/167
-*#0363* **Spheal**
+**Spheal**|*#0363*
 ![Spheal](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/EX5/EX5_EN_74.png)|![EX Hidden Legends](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/ex-05symbol.png) 74/101
 ![Spheal](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/BW6/BW6_EN_29.png)|![Black & White—Dragons Exalted](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/bw6-expansion-symbol.png) 29/124
 ![Spheal](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/XY5/XY5_EN_45.png)|![XY—Primal Clash](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/xy5-expansion-symbol.png) 45/160
 ![Spheal](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SM12/SM12_EN_49.png)|![Cosmic Eclipse](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sm12-expansion-symbol.png) 49/236
 ![Spheal](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SM12/SM12_EN_50.png)|![Cosmic Eclipse](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sm12-expansion-symbol.png) 50/236
 ![Spheal](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SWSH6/SWSH6_EN_37.png)|![Chilling Reign](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/swsh6-expansion-symbol.png) 37/198
-*#0364* **Sealeo**
+**Sealeo**|*#0364*
 ![Sealeo](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/BW6/BW6_EN_30.png)|![Black & White—Dragons Exalted](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/bw6-expansion-symbol.png) 30/124
 ![Sealeo](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SM12/SM12_EN_51.png)|![Cosmic Eclipse](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sm12-expansion-symbol.png) 51/236
 ![Sealeo](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SWSH6/SWSH6_EN_38.png)|![Chilling Reign](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/swsh6-expansion-symbol.png) 38/198
-*#0365* **Walrein**
+**Walrein**|*#0365*
 ![Walrein](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/BW6/BW6_EN_31.png)|![Black & White—Dragons Exalted](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/bw6-expansion-symbol.png) 31/124
 ![Walrein](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/XY5/XY5_EN_48.png)|![XY—Primal Clash](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/xy5-expansion-symbol.png) 48/160
 ![Walrein](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SWSH6/SWSH6_EN_39.png)|![Chilling Reign](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/swsh6-expansion-symbol.png) 39/198
-*#0366* **Clamperl**
+**Clamperl**|*#0366*
 ![Clamperl](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/EX12/EX12_EN_51.png)|![EX Legend Maker](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/ex-12symbol.png) 51/93
 ![Clamperl](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SM7/SM7_EN_41.png)|![Celestial Storm](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sm7-expansion-symbol.png) 41/168
-*#0367* **Huntail**
+**Huntail**|*#0367*
 ![Huntail](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SM7/SM7_EN_42.png)|![Celestial Storm](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sm7-expansion-symbol.png) 42/168
-*#0368* **Gorebyss**
+**Gorebyss**|*#0368*
 ![Gorebyss](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/XY5/XY5_EN_52.png)|![XY—Primal Clash](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/xy5-expansion-symbol.png) 52/160
-*#0369* **Relicanth**
+**Relicanth**|*#0369*
 ![Relicanth](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/EX13/EX13_EN_30.png)|![EX Holon Phantoms](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/ex-13symbol.png) 30/111
 ![Relicanth](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/COL1/COL1_EN_69.png)|![Call of Legends](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/col1-expansion-symbol.png) 69/95
 ![Relicanth](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/BW10/BW10_EN_24.png)|![Black & White—Plasma Blast](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/bw10-expansion-symbol.png) 24/101
@@ -800,12 +800,12 @@ Jungko|![Celestial Storm](https://www.pokemon.com/static-assets/content-assets/c
 ![Relicanth](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SWSH11/SWSH11_EN_101.png)|![Lost Origin](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/swsh11-expansion-symbol.png) 101/196
 ![Relicanth](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SWSH12/SWSH12_EN_44.png)|![Silver Tempest](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/swsh12-expansion-symbol.png) 44/195
 ![Relicanth](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SV05/SV05_EN_84.png)|![Temporal Forces](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sv05-expansion-symbol.png) 84/162
-*#0370* **Luvdisc**
+**Luvdisc**|*#0370*
 ![Luvdisc](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SWSH7/SWSH7_EN_39.png)|![Evolving Skies](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/swsh7-expansion-symbol.png) 39/203
 ![Luvdisc](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SWSH11/SWSH11_EN_38.png)|![Lost Origin](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/swsh11-expansion-symbol.png) 38/196
 ![Luvdisc](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SWSH12PT5/SWSH12PT5_EN_35.png)|![Crown Zenith](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/swsh12pt5-expansion-symbol.png) 35/159
 ![Luvdisc](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SV02/SV02_EN_47.png)|![Paldea Evolved](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sv02-expansion-symbol.png) 47/193
-*#0371* **Bagon**
+**Bagon**|*#0371*
 ![Bagon](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/EX3/EX3_EN_49.png)|![EX Dragon](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/ex-03symbol.png) 49/97
 ![Bagon](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/EX3/EX3_EN_50.png)|![EX Dragon](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/ex-03symbol.png) 50/97
 ![Bagon](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/EX16/EX16_EN_43.png)|![EX Power Keepers](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/ex-16symbol.png) 43/108
@@ -816,7 +816,7 @@ Jungko|![Celestial Storm](https://www.pokemon.com/static-assets/content-assets/c
 ![Bagon](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/XY6/XY6_EN_55.png)|![XY—Roaring Skies](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/xy6-expansion-symbol.png) 55/108
 ![Bagon](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SM7/SM7_EN_104.png)|![Celestial Storm](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sm7-expansion-symbol.png) 104/168
 ![Bagon](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SM75/SM75_EN_42.png)|![Dragon Majesty](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sm75-expansion-symbol.png) 42/70
-*#0372* **Shelgon**
+**Shelgon**|*#0372*
 ![Shelgon](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/EX3/EX3_EN_41.png)|![EX Dragon](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/ex-03symbol.png) 41/97
 ![Shelgon](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/EX16/EX16_EN_39.png)|![EX Power Keepers](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/ex-16symbol.png) 39/108
 ![Shelgon LV. 35](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/DP7/DP7_EN_50.png)|![Diamond & Pearl—Stormfront](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/dp7-exp-symbol.png) 50/106
@@ -824,13 +824,13 @@ Jungko|![Celestial Storm](https://www.pokemon.com/static-assets/content-assets/c
 ![Shelgon](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/XY6/XY6_EN_56.png)|![XY—Roaring Skies](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/xy6-expansion-symbol.png) 56/108
 ![Shelgon](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SWSH7/SWSH7_EN_108.png)|![Evolving Skies](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/swsh7-expansion-symbol.png) 108/203
 ![Shelgon](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SM75/SM75_EN_43.png)|![Dragon Majesty](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sm75-expansion-symbol.png) 43/70
-*#0373* **Salamence**
+**Salamence**|*#0373*
 ![Salamence](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/EX3/EX3_EN_19.png)|![EX Dragon](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/ex-03symbol.png) 19/97
 ![Salamence](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/XYP/XYP_EN_XY59.png)|![XY—Promo](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/black-star-promo.png)|XY59
 ![Salamence V](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SWSH3/SWSH3_EN_143.png)|![Darkness Ablaze](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/swsh3-expansion-symbol.png) 143/189
 ![Salamence V](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SWSH3/SWSH3_EN_185.png)|![Darkness Ablaze](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/swsh3-expansion-symbol.png) 185/189
 ![Salamence VMAX](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SWSH3/SWSH3_EN_144.png)|![Darkness Ablaze](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/swsh3-expansion-symbol.png) 144/189
-*#0374* **Beldum**
+**Beldum**|*#0374*
 ![Beldum](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/BW9/BW9_EN_50.png)|![Black & White—Plasma Freeze](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/bw9-expansion-symbol.png) 50/116
 ![Beldum](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SMA/SMA_EN_SV30.png)|![Yellow A Alternate](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sma-expansion-symbol.png) SV30/SV94
 ![Beldum](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SM2/SM2_EN_83.png)|![SM—Guardians Rising](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sm2-expansion-symbol.png) 83/145
@@ -839,7 +839,7 @@ Jungko|![Celestial Storm](https://www.pokemon.com/static-assets/content-assets/c
 ![Beldum](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SWSH4/SWSH4_EN_116.png)|![Vivid Voltage](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/swsh4-expansion-symbol.png) 116/185
 ![Beldum](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SWSH12/SWSH12_EN_117.png)|![Silver Tempest](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/swsh12-expansion-symbol.png) 117/195
 ![Beldum](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SV05/SV05_EN_113.png)|![Temporal Forces](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sv05-expansion-symbol.png) 113/162
-*#0375* **Metang**
+**Metang**|*#0375*
 ![Metang](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/EX8/EX8_EN_40.png)|![EX Deoxys](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/ex-08symbol.png) 40/106
 ![Metang LV. 22](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/DP6/DP6_EN_65.png)|![Diamond & Pearl—Legends Awakened](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/dp6-exp-symbol.png) 65/146
 ![Metang](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/HGSS3/HGSS3_EN_30.png)|![HS—Undaunted](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/hgss3-expansion-symbol.png) 30/91
@@ -850,45 +850,45 @@ Jungko|![Celestial Storm](https://www.pokemon.com/static-assets/content-assets/c
 ![Metang](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SWSH4/SWSH4_EN_117.png)|![Vivid Voltage](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/swsh4-expansion-symbol.png) 117/185
 ![Metang](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SWSH12PT5/SWSH12PT5_EN_90.png)|![Crown Zenith](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/swsh12pt5-expansion-symbol.png) 90/159
 ![Metang](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SV05/SV05_EN_114.png)|![Temporal Forces](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sv05-expansion-symbol.png) 114/162
-*#0376* **Metagross**
+**Metagross**|*#0376*
 ![Metagross](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SM7/SM7_EN_95.png)|![Celestial Storm](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sm7-expansion-symbol.png) 95/168
 ![Metagross](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SWSH4/SWSH4_EN_118.png)|![Vivid Voltage](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/swsh4-expansion-symbol.png) 118/185
 ![Metagross](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SV05/SV05_EN_115.png)|![Temporal Forces](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sv05-expansion-symbol.png) 115/162
-*#0377* **Regirock**
+**Regirock**|*#0377*
 ![Regirock](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/XY7/XY7_EN_40.png)|![XY—Ancient Origins](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/xy7-expansion-symbol.png) 40/98
 ![Regirock](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SM4/SM4_EN_53.png)|![Crimson Invasion](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sm4-expansion-symbol.png) 53/111
 ![Regirock](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SM7/SM7_EN_80.png)|![Celestial Storm](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sm7-expansion-symbol.png) 80/168
-*#0378* **Regice**
+**Regice**|*#0378*
 ![Regice](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/XY7/XY7_EN_24.png)|![XY—Ancient Origins](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/xy7-expansion-symbol.png) 24/98
 ![Regice](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SM4/SM4_EN_28.png)|![Crimson Invasion](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sm4-expansion-symbol.png) 28/111
 ![Regice](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SWSH10/SWSH10_EN_37.png)|![Astral Radiance](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/swsh10-expansion-symbol.png) 37/189
-*#0379* **Registeel**
+**Registeel**|*#0379*
 ![Registeel](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SM4/SM4_EN_68.png)|![Crimson Invasion](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sm4-expansion-symbol.png) 68/111
 ![Registeel](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SWSH10/SWSH10_EN_108.png)|![Astral Radiance](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/swsh10-expansion-symbol.png) 108/189
-*#0380* **Latias**
+**Latias**|*#0380*
 ![Latias](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SMP/SMP_EN_SM135.png)|![Sun & Moon Promo](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/smp-expansion-symbol.png) SM135
 ![Latias](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SWSH8/SWSH8_EN_193.png)|![Fusion Strike](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/swsh8-expansion-symbol.png) 193/264
 ![Latias](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SWSH12PT5GG/SWSH12PT5GG_EN_GG20.png)|![Crown Zenith Galarian Gallery](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/swsh12pt5gg-expansion-symbol.png) GG20 Illustration Rare
 ![Latias](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SV05/SV05_EN_67.png)|![Temporal Forces](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sv05-expansion-symbol.png) 67/162
 ![Latias-EX](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/BW9/BW9_EN_85.png)|![Black & White—Plasma Freeze](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/bw9-expansion-symbol.png) 85/116
 ![Latias & Latios-GX](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SM9/SM9_EN_170.png)|![ Team Up](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sm9-expansion-symbol.png) 170/181
-*#0381* **Latios**
+**Latios**|*#0381*
 ![Latios](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SMP/SMP_EN_SM136.png)|![Sun & Moon Promo](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/smp-expansion-symbol.png) SM136
 ![Latios](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SM35/SM35_EN_41.png)|![Shining Legends](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sm35-expansion-symbol.png) 41/73
 ![M Latios-EX](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/XY6/XY6_EN_59.png)|![XY—Roaring Skies](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/xy6-expansion-symbol.png) 59/108
-*#0382* **Kyogre**
+**Kyogre**|*#0382*
 ![Kyogre](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/XYP/XYP_EN_XY51.png)|![XY—Promo](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/black-star-promo.png)|XY51
 ![Kyogre](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SWSH45/SWSH45_EN_21.png)|![Shining Fates](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/swsh45-expansion-symbol.png) 21/72
 ![Kyogre](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SWSH12PT5/SWSH12PT5_EN_36.png)|![Crown Zenith](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/swsh12pt5-expansion-symbol.png) 36/159
 ![Kyogre-EX](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/BW5/BW5_EN_26.png)|![Black & White—Dark Explorers](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/bw5-expansion-symbol.png) 26/108
 ![Primal Kyogre-EX](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/XY5/XY5_EN_149.png)|![XY—Primal Clash](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/xy5-expansion-symbol.png) 149/160
 ![Kyogre](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/CEL/CEL_EN_3.png)|![Celebrations](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/25th-expansion-symbol.png) 3/25
-*#0383* **Groudon**
+**Groudon**|*#0383*
 ![Team Magma’s Groudon](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/EX4/EX4_EN_9.png)|![EX Team Magma vs. Team Aqua](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/ex-04symbol.png) 9/95
 ![Groudon](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/EX9/EX9_EN_14.png)|![EX Emerald](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/ex-09symbol.png) 14/106
 ![Groudon](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/XYP/XYP_EN_XY52.png)|![XY—Promo](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/black-star-promo.png)|XY52 Promo
 ![Groudon](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/XY5/XY5_EN_84.png)|![XY—Primal Clash](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/xy5-expansion-symbol.png) 84/160
-*#0384* **Rayquaza**
+**Rayquaza**|*#0384*
 ![Rayquaza](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SWSH4/SWSH4_EN_138.png)|![Vivid Voltage](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/swsh4-expansion-symbol.png) 138/185
 Rayquaza|![XY—Promo](https://www.pokemon.com/static-assets/content-assets/cms-en-uk/img/tcg/expansion-symbols/black-star-promo.png)|XY141
 ![Rayquaza & Deoxys LEGEND](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/HGSS3/HGSS3_EN_89.png)|![HS—Undaunted](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/hgss3-expansion-symbol.png) 89/91
@@ -902,7 +902,7 @@ Rayquaza|![XY—Promo](https://www.pokemon.com/static-assets/content-assets/cms-
 ![Rayquaza VMAX](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SWSH7/SWSH7_EN_111.png)|![Evolving Skies](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/swsh7-expansion-symbol.png) 111/203
 ![Rayquaza VMAX](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SWSH12PT5/SWSH12PT5_EN_101.png)|![Crown Zenith](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/swsh12pt5-expansion-symbol.png) 101/159
 ![Rayquaza VMAX](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SWSH12TG/SWSH12TG_EN_TG29.png)|![Silver Tempest: Trainer Gallery](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/swsh12-expansion-symbol.png) TG29/TG30
-*#0385* **Jirachi**
+**Jirachi**|*#0385*
 ![Jirachi](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/G1/G1_EN_RC13.png)|![Generations](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/g1-expansion-symbol.png) RC13 Uncommon
 Jirachi|![XY—Promo](https://www.pokemon.com/static-assets/content-assets/cms-en-uk/img/tcg/expansion-symbols/black-star-promo.png)|XY195
 ![Jirachi](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SM9/SM9_EN_99.png)|![ Team Up](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sm9-expansion-symbol.png) 99/181
@@ -910,7 +910,7 @@ Jirachi|![XY—Promo](https://www.pokemon.com/static-assets/content-assets/cms-e
 ![Radiant Jirachi](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SWSH12/SWSH12_EN_120.png)|![Silver Tempest](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/swsh12-expansion-symbol.png) 120/195
 ![Jirachi](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SV04/SV04_EN_126.png)|![Paradox Rift](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sv04-expansion-symbol.png) 126/182
 ![Jirachi ex](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/EX14/EX14_EN_94.png)|![EX Crystal Guardians](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/ex-14symbol.png) 94/100
-*#0386* **Deoxys**
+**Deoxys**|*#0386*
 ![Deoxys [Normal Forme]](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/EX8/EX8_EN_16.png)|![EX Deoxys](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/ex-08symbol.png) 16/106
 ![Deoxys](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/COL1/COL1_EN_2.png)|![Call of Legends](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/col1-expansion-symbol.png) 2/95
 ![Deoxys](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SM7/SM7_EN_68.png)|![Celestial Storm](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sm7-expansion-symbol.png) 68/168

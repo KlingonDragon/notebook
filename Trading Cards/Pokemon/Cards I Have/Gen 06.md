@@ -2,74 +2,74 @@
 ## Gen VI
 Image|Set
 :-:|:-:
-*#0651* **Quilladin**
-*#0652* **Chesnaught**
-*#0653* **Fennekin**
-*#0654* **Braixen**
-*#0655* **Delphox**
-*#0656* **Froakie**
-*#0657* **Frogadier**
-*#0658* **Greninja**
-*#0659* **Bunnelby**
-*#0660* **Diggersby**
-*#0661* **Fletchling**
-*#0662* **Fletchinder**
-*#0663* **Talonflame**
-*#0664* **Scatterbug**
-*#0665* **Spewpa**
-*#0666* **Vivillon**
-*#0667* **Litleo**
-*#0668* **Pyroar**
-*#0669* **Flabébé**
-*#0670* **Floette**
-*#0671* **Florges**
-*#0672* **Skiddo**
-*#0673* **Gogoat**
-*#0674* **Pancham**
-*#0675* **Pangoro**
-*#0676* **Furfrou**
-*#0677* **Espurr**
-*#0678* **Meowstic**
-*#0679* **Honedge**
-*#0680* **Doublade**
-*#0681* **Aegislash**
-*#0682* **Spritzee**
-*#0683* **Aromatisse**
-*#0684* **Swirlix**
-*#0685* **Slurpuff**
-*#0686* **Inkay**
-*#0687* **Malamar**
-*#0688* **Binacle**
-*#0689* **Barbaracle**
-*#0690* **Skrelp**
-*#0691* **Dragalge**
-*#0692* **Clauncher**
-*#0693* **Clawitzer**
-*#0694* **Helioptile**
-*#0695* **Heliolisk**
-*#0696* **Tyrunt**
-*#0697* **Tyrantrum**
-*#0698* **Amaura**
-*#0699* **Aurorus**
-*#0700* **Sylveon**
-*#0701* **Hawlucha**
-*#0702* **Dedenne**
-*#0703* **Carbink**
-*#0704* **Goomy**
-*#0705* **Sliggoo**
-*#0706* **Goodra**
-*#0707* **Klefki**
-*#0708* **Phantump**
-*#0709* **Trevenant**
-*#0710* **Pumpkaboo**
-*#0711* **Gourgeist**
-*#0712* **Bergmite**
-*#0713* **Avalugg**
-*#0714* **Noibat**
-*#0715* **Noivern**
-*#0716* **Xerneas**
-*#0717* **Yveltal**
-*#0718* **Zygarde**
-*#0719* **Diancie**
-*#0720* **Hoopa**
-*#0721* **Volcanion**
+**Quilladin**|*#0651*
+**Chesnaught**|*#0652*
+**Fennekin**|*#0653*
+**Braixen**|*#0654*
+**Delphox**|*#0655*
+**Froakie**|*#0656*
+**Frogadier**|*#0657*
+**Greninja**|*#0658*
+**Bunnelby**|*#0659*
+**Diggersby**|*#0660*
+**Fletchling**|*#0661*
+**Fletchinder**|*#0662*
+**Talonflame**|*#0663*
+**Scatterbug**|*#0664*
+**Spewpa**|*#0665*
+**Vivillon**|*#0666*
+**Litleo**|*#0667*
+**Pyroar**|*#0668*
+**Flabébé**|*#0669*
+**Floette**|*#0670*
+**Florges**|*#0671*
+**Skiddo**|*#0672*
+**Gogoat**|*#0673*
+**Pancham**|*#0674*
+**Pangoro**|*#0675*
+**Furfrou**|*#0676*
+**Espurr**|*#0677*
+**Meowstic**|*#0678*
+**Honedge**|*#0679*
+**Doublade**|*#0680*
+**Aegislash**|*#0681*
+**Spritzee**|*#0682*
+**Aromatisse**|*#0683*
+**Swirlix**|*#0684*
+**Slurpuff**|*#0685*
+**Inkay**|*#0686*
+**Malamar**|*#0687*
+**Binacle**|*#0688*
+**Barbaracle**|*#0689*
+**Skrelp**|*#0690*
+**Dragalge**|*#0691*
+**Clauncher**|*#0692*
+**Clawitzer**|*#0693*
+**Helioptile**|*#0694*
+**Heliolisk**|*#0695*
+**Tyrunt**|*#0696*
+**Tyrantrum**|*#0697*
+**Amaura**|*#0698*
+**Aurorus**|*#0699*
+**Sylveon**|*#0700*
+**Hawlucha**|*#0701*
+**Dedenne**|*#0702*
+**Carbink**|*#0703*
+**Goomy**|*#0704*
+**Sliggoo**|*#0705*
+**Goodra**|*#0706*
+**Klefki**|*#0707*
+**Phantump**|*#0708*
+**Trevenant**|*#0709*
+**Pumpkaboo**|*#0710*
+**Gourgeist**|*#0711*
+**Bergmite**|*#0712*
+**Avalugg**|*#0713*
+**Noibat**|*#0714*
+**Noivern**|*#0715*
+**Xerneas**|*#0716*
+**Yveltal**|*#0717*
+**Zygarde**|*#0718*
+**Diancie**|*#0719*
+**Hoopa**|*#0720*
+**Volcanion**|*#0721*

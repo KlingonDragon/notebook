@@ -2,103 +2,103 @@
 ## Gen I
 Image|Set
 :-:|:-:
-*#0152* **Chikorita**
-*#0153* **Bayleef**
-*#0154* **Meganium**
-*#0155* **Cyndaquil**
-*#0156* **Quilava**
-*#0157* **Typhlosion**
-*#0158* **Totodile**
-*#0159* **Croconaw**
-*#0160* **Feraligatr**
-*#0161* **Sentret**
-*#0162* **Furret**
-*#0163* **Hoothoot**
-*#0164* **Noctowl**
-*#0165* **Ledyba**
-*#0166* **Ledian**
-*#0167* **Spinarak**
-*#0168* **Ariados**
-*#0169* **Crobat**
-*#0170* **Chinchou**
-*#0171* **Lanturn**
-*#0172* **Pichu**
-*#0173* **Cleffa**
-*#0174* **Igglybuff**
-*#0175* **Togepi**
-*#0176* **Togetic**
-*#0177* **Natu**
-*#0178* **Xatu**
-*#0179* **Mareep**
-*#0180* **Flaaffy**
-*#0181* **Ampharos**
-*#0182* **Bellossom**
-*#0183* **Marill**
-*#0184* **Azumarill**
-*#0185* **Sudowoodo**
-*#0186* **Politoed**
-*#0187* **Hoppip**
-*#0188* **Skiploom**
-*#0189* **Jumpluff**
-*#0190* **Aipom**
-*#0191* **Sunkern**
-*#0192* **Sunflora**
-*#0193* **Yanma**
-*#0194* **Wooper**
-*#0195* **Quagsire**
-*#0196* **Espeon**
-*#0197* **Umbreon**
-*#0198* **Murkrow**
-*#0199* **Slowking**
-*#0200* **Misdreavus**
-*#0201* **Unown**
-*#0202* **Wobbuffet**
-*#0203* **Girafarig**
-*#0204* **Pineco**
-*#0205* **Forretress**
-*#0206* **Dunsparce**
-*#0207* **Gligar**
-*#0208* **Steelix**
-*#0209* **Snubbull**
-*#0210* **Granbull**
-*#0211* **Qwilfish**
-*#0212* **Scizor**
-*#0213* **Shuckle**
-*#0214* **Heracross**
-*#0215* **Sneasel**
-*#0216* **Teddiursa**
-*#0217* **Ursaring**
-*#0218* **Slugma**
-*#0219* **Magcargo**
-*#0220* **Swinub**
-*#0221* **Piloswine**
-*#0222* **Corsola**
-*#0223* **Remoraid**
-*#0224* **Octillery**
-*#0225* **Delibird**
-*#0226* **Mantine**
-*#0227* **Skarmory**
-*#0228* **Houndour**
-*#0229* **Houndoom**
-*#0230* **Kingdra**
-*#0231* **Phanpy**
-*#0232* **Donphan**
-*#0233* **Porygon2**
-*#0234* **Stantler**
-*#0235* **Smeargle**
-*#0236* **Tyrogue**
-*#0237* **Hitmontop**
-*#0238* **Smoochum**
-*#0239* **Elekid**
-*#0240* **Magby**
-*#0241* **Miltank**
-*#0242* **Blissey**
-*#0243* **Raikou**
-*#0244* **Entei**
-*#0245* **Suicune**
-*#0246* **Larvitar**
-*#0247* **Pupitar**
-*#0248* **Tyranitar**
-*#0249* **Lugia**
-*#0250* **Ho-Oh**
-*#0251* **Celebi**
+**Chikorita**|*#0152*
+**Bayleef**|*#0153*
+**Meganium**|*#0154*
+**Cyndaquil**|*#0155*
+**Quilava**|*#0156*
+**Typhlosion**|*#0157*
+**Totodile**|*#0158*
+**Croconaw**|*#0159*
+**Feraligatr**|*#0160*
+**Sentret**|*#0161*
+**Furret**|*#0162*
+**Hoothoot**|*#0163*
+**Noctowl**|*#0164*
+**Ledyba**|*#0165*
+**Ledian**|*#0166*
+**Spinarak**|*#0167*
+**Ariados**|*#0168*
+**Crobat**|*#0169*
+**Chinchou**|*#0170*
+**Lanturn**|*#0171*
+**Pichu**|*#0172*
+**Cleffa**|*#0173*
+**Igglybuff**|*#0174*
+**Togepi**|*#0175*
+**Togetic**|*#0176*
+**Natu**|*#0177*
+**Xatu**|*#0178*
+**Mareep**|*#0179*
+**Flaaffy**|*#0180*
+**Ampharos**|*#0181*
+**Bellossom**|*#0182*
+**Marill**|*#0183*
+**Azumarill**|*#0184*
+**Sudowoodo**|*#0185*
+**Politoed**|*#0186*
+**Hoppip**|*#0187*
+**Skiploom**|*#0188*
+**Jumpluff**|*#0189*
+**Aipom**|*#0190*
+**Sunkern**|*#0191*
+**Sunflora**|*#0192*
+**Yanma**|*#0193*
+**Wooper**|*#0194*
+**Quagsire**|*#0195*
+**Espeon**|*#0196*
+**Umbreon**|*#0197*
+**Murkrow**|*#0198*
+**Slowking**|*#0199*
+**Misdreavus**|*#0200*
+**Unown**|*#0201*
+**Wobbuffet**|*#0202*
+**Girafarig**|*#0203*
+**Pineco**|*#0204*
+**Forretress**|*#0205*
+**Dunsparce**|*#0206*
+**Gligar**|*#0207*
+**Steelix**|*#0208*
+**Snubbull**|*#0209*
+**Granbull**|*#0210*
+**Qwilfish**|*#0211*
+**Scizor**|*#0212*
+**Shuckle**|*#0213*
+**Heracross**|*#0214*
+**Sneasel**|*#0215*
+**Teddiursa**|*#0216*
+**Ursaring**|*#0217*
+**Slugma**|*#0218*
+**Magcargo**|*#0219*
+**Swinub**|*#0220*
+**Piloswine**|*#0221*
+**Corsola**|*#0222*
+**Remoraid**|*#0223*
+**Octillery**|*#0224*
+**Delibird**|*#0225*
+**Mantine**|*#0226*
+**Skarmory**|*#0227*
+**Houndour**|*#0228*
+**Houndoom**|*#0229*
+**Kingdra**|*#0230*
+**Phanpy**|*#0231*
+**Donphan**|*#0232*
+**Porygon2**|*#0233*
+**Stantler**|*#0234*
+**Smeargle**|*#0235*
+**Tyrogue**|*#0236*
+**Hitmontop**|*#0237*
+**Smoochum**|*#0238*
+**Elekid**|*#0239*
+**Magby**|*#0240*
+**Miltank**|*#0241*
+**Blissey**|*#0242*
+**Raikou**|*#0243*
+**Entei**|*#0244*
+**Suicune**|*#0245*
+**Larvitar**|*#0246*
+**Pupitar**|*#0247*
+**Tyranitar**|*#0248*
+**Lugia**|*#0249*
+**Ho-Oh**|*#0250*
+**Celebi**|*#0251*

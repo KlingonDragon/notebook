@@ -2,100 +2,100 @@
 ## Gen VIII
 Image|Set
 :-:|:-:
-*#0810* **Grookey**
-*#0811* **Thwackey**
-*#0812* **Rillaboom**
-*#0813* **Scorbunny**
-*#0814* **Raboot**
-*#0815* **Cinderace**
-*#0816* **Sobble**
-*#0817* **Drizzile**
-*#0818* **Inteleon**
-*#0819* **Skwovet**
-*#0820* **Greedent**
-*#0821* **Rookidee**
-*#0822* **Corvisquire**
-*#0823* **Corviknight**
-*#0824* **Blipbug**
-*#0825* **Dottler**
-*#0826* **Orbeetle**
-*#0827* **Nickit**
-*#0828* **Thievul**
-*#0829* **Gossifleur**
-*#0830* **Eldegoss**
-*#0831* **Wooloo**
-*#0832* **Dubwool**
-*#0833* **Chewtle**
-*#0834* **Drednaw**
-*#0835* **Yamper**
-*#0836* **Boltund**
-*#0837* **Rolycoly**
-*#0838* **Carkol**
-*#0839* **Coalossal**
-*#0840* **Applin**
-*#0841* **Flapple**
-*#0842* **Appletun**
-*#0843* **Silicobra**
-*#0844* **Sandaconda**
-*#0845* **Cramorant**
-*#0846* **Arrokuda**
-*#0847* **Barraskewda**
-*#0848* **Toxel**
-*#0849* **Toxtricity**
-*#0850* **Sizzlipede**
-*#0851* **Centiskorch**
-*#0852* **Clobbopus**
-*#0853* **Grapploct**
-*#0854* **Sinistea**
-*#0855* **Polteageist**
-*#0856* **Hatenna**
-*#0857* **Hattrem**
-*#0858* **Hatterene**
-*#0859* **Impidimp**
-*#0860* **Morgrem**
-*#0861* **Grimmsnarl**
-*#0862* **Obstagoon**
-*#0863* **Perrserker**
-*#0864* **Cursola**
-*#0865* **Sirfetch’d**
-*#0866* **Mr. Rime**
-*#0867* **Runerigus**
-*#0868* **Milcery**
-*#0869* **Alcremie**
-*#0870* **Falinks**
-*#0871* **Pincurchin**
-*#0872* **Snom**
-*#0873* **Frosmoth**
-*#0874* **Stonjourner**
-*#0875* **Eiscue**
-*#0876* **Indeedee**
-*#0877* **Morpeko**
-*#0878* **Cufant**
-*#0879* **Copperajah**
-*#0880* **Dracozolt**
-*#0881* **Arctozolt**
-*#0882* **Dracovish**
-*#0883* **Arctovish**
-*#0884* **Duraludon**
-*#0885* **Dreepy**
-*#0886* **Drakloak**
-*#0887* **Dragapult**
-*#0888* **Zacian**
-*#0889* **Zamazenta**
-*#0890* **Eternatus**
-*#0891* **Kubfu**
-*#0892* **Urshifu**
-*#0893* **Zarude**
-*#0894* **Regieleki**
-*#0895* **Regidrago**
-*#0896* **Glastrier**
-*#0897* **Spectrier**
-*#0898* **Calyrex**
-*#0899* **Wyrdeer**
-*#0900* **Kleavor**
-*#0901* **Ursaluna**
-*#0902* **Basculegion**
-*#0903* **Sneasler**
-*#0904* **Overqwil**
-*#0905* **Enamorus**
-*#0905* **Enamorus**
+**Grookey**|*#0810*
+**Thwackey**|*#0811*
+**Rillaboom**|*#0812*
+**Scorbunny**|*#0813*
+**Raboot**|*#0814*
+**Cinderace**|*#0815*
+**Sobble**|*#0816*
+**Drizzile**|*#0817*
+**Inteleon**|*#0818*
+**Skwovet**|*#0819*
+**Greedent**|*#0820*
+**Rookidee**|*#0821*
+**Corvisquire**|*#0822*
+**Corviknight**|*#0823*
+**Blipbug**|*#0824*
+**Dottler**|*#0825*
+**Orbeetle**|*#0826*
+**Nickit**|*#0827*
+**Thievul**|*#0828*
+**Gossifleur**|*#0829*
+**Eldegoss**|*#0830*
+**Wooloo**|*#0831*
+**Dubwool**|*#0832*
+**Chewtle**|*#0833*
+**Drednaw**|*#0834*
+**Yamper**|*#0835*
+**Boltund**|*#0836*
+**Rolycoly**|*#0837*
+**Carkol**|*#0838*
+**Coalossal**|*#0839*
+**Applin**|*#0840*
+**Flapple**|*#0841*
+**Appletun**|*#0842*
+**Silicobra**|*#0843*
+**Sandaconda**|*#0844*
+**Cramorant**|*#0845*
+**Arrokuda**|*#0846*
+**Barraskewda**|*#0847*
+**Toxel**|*#0848*
+**Toxtricity**|*#0849*
+**Sizzlipede**|*#0850*
+**Centiskorch**|*#0851*
+**Clobbopus**|*#0852*
+**Grapploct**|*#0853*
+**Sinistea**|*#0854*
+**Polteageist**|*#0855*
+**Hatenna**|*#0856*
+**Hattrem**|*#0857*
+**Hatterene**|*#0858*
+**Impidimp**|*#0859*
+**Morgrem**|*#0860*
+**Grimmsnarl**|*#0861*
+**Obstagoon**|*#0862*
+**Perrserker**|*#0863*
+**Cursola**|*#0864*
+**Sirfetch’d**|*#0865*
+**Mr. Rime**|*#0866*
+**Runerigus**|*#0867*
+**Milcery**|*#0868*
+**Alcremie**|*#0869*
+**Falinks**|*#0870*
+**Pincurchin**|*#0871*
+**Snom**|*#0872*
+**Frosmoth**|*#0873*
+**Stonjourner**|*#0874*
+**Eiscue**|*#0875*
+**Indeedee**|*#0876*
+**Morpeko**|*#0877*
+**Cufant**|*#0878*
+**Copperajah**|*#0879*
+**Dracozolt**|*#0880*
+**Arctozolt**|*#0881*
+**Dracovish**|*#0882*
+**Arctovish**|*#0883*
+**Duraludon**|*#0884*
+**Dreepy**|*#0885*
+**Drakloak**|*#0886*
+**Dragapult**|*#0887*
+**Zacian**|*#0888*
+**Zamazenta**|*#0889*
+**Eternatus**|*#0890*
+**Kubfu**|*#0891*
+**Urshifu**|*#0892*
+**Zarude**|*#0893*
+**Regieleki**|*#0894*
+**Regidrago**|*#0895*
+**Glastrier**|*#0896*
+**Spectrier**|*#0897*
+**Calyrex**|*#0898*
+**Wyrdeer**|*#0899*
+**Kleavor**|*#0900*
+**Ursaluna**|*#0901*
+**Basculegion**|*#0902*
+**Sneasler**|*#0903*
+**Overqwil**|*#0904*
+**Enamorus**|*#0905*
+**Enamorus**|*#0905*

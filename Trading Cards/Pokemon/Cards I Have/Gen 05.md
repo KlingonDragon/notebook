@@ -2,159 +2,159 @@
 ## Gen V
 Image|Set
 :-:|:-:
-*#0494* **Victini**
-*#0495* **Snivy**
-*#0496* **Servine**
-*#0497* **Serperior**
-*#0498* **Tepig**
-*#0499* **Pignite**
-*#0500* **Emboar**
-*#0501* **Oshawott**
-*#0502* **Dewott**
-*#0503* **Samurott**
-*#0504* **Patrat**
-*#0505* **Watchog**
-*#0506* **Lillipup**
-*#0507* **Herdier**
-*#0508* **Stoutland**
-*#0509* **Purrloin**
-*#0510* **Liepard**
-*#0511* **Pansage**
-*#0512* **Simisage**
-*#0513* **Pansear**
-*#0514* **Simisear**
-*#0515* **Panpour**
-*#0516* **Simipour**
-*#0517* **Munna**
-*#0518* **Musharna**
-*#0519* **Pidove**
-*#0520* **Tranquill**
-*#0521* **Unfezant**
-*#0522* **Blitzle**
-*#0523* **Zebstrika**
-*#0524* **Roggenrola**
-*#0525* **Boldore**
-*#0526* **Gigalith**
-*#0527* **Woobat**
-*#0528* **Swoobat**
-*#0529* **Drilbur**
-*#0530* **Excadrill**
-*#0531* **Audino**
-*#0532* **Timburr**
-*#0533* **Gurdurr**
-*#0534* **Conkeldurr**
-*#0535* **Tympole**
-*#0536* **Palpitoad**
-*#0537* **Seismitoad**
-*#0538* **Throh**
-*#0539* **Sawk**
-*#0540* **Sewaddle**
-*#0541* **Swadloon**
-*#0542* **Leavanny**
-*#0543* **Venipede**
-*#0544* **Whirlipede**
-*#0545* **Scolipede**
-*#0546* **Cottonee**
-*#0547* **Whimsicott**
-*#0548* **Petilil**
-*#0549* **Lilligant**
-*#0550* **Basculin**
-*#0551* **Sandile**
-*#0552* **Krokorok**
-*#0553* **Krookodile**
-*#0554* **Darumaka**
-*#0555* **Darmanitan**
-*#0556* **Maractus**
-*#0557* **Dwebble**
-*#0558* **Crustle**
-*#0559* **Scraggy**
-*#0560* **Scrafty**
-*#0561* **Sigilyph**
-*#0562* **Yamask**
-*#0563* **Cofagrigus**
-*#0564* **Tirtouga**
-*#0565* **Carracosta**
-*#0566* **Archen**
-*#0567* **Archeops**
-*#0568* **Trubbish**
-*#0569* **Garbodor**
-*#0570* **Zorua**
-*#0571* **Zoroark**
-*#0572* **Minccino**
-*#0573* **Cinccino**
-*#0574* **Gothita**
-*#0575* **Gothorita**
-*#0576* **Gothitelle**
-*#0577* **Solosis**
-*#0578* **Duosion**
-*#0579* **Reuniclus**
-*#0580* **Ducklett**
-*#0581* **Swanna**
-*#0582* **Vanillite**
-*#0583* **Vanillish**
-*#0584* **Vanilluxe**
-*#0585* **Deerling**
-*#0586* **Sawsbuck**
-*#0587* **Emolga**
-*#0588* **Karrablast**
-*#0589* **Escavalier**
-*#0590* **Foongus**
-*#0591* **Amoonguss**
-*#0592* **Frillish**
-*#0593* **Jellicent**
-*#0594* **Alomomola**
-*#0595* **Joltik**
-*#0596* **Galvantula**
-*#0597* **Ferroseed**
-*#0598* **Ferrothorn**
-*#0599* **Klink**
-*#0600* **Klang**
-*#0601* **Klinklang**
-*#0602* **Tynamo**
-*#0603* **Eelektrik**
-*#0604* **Eelektross**
-*#0605* **Elgyem**
-*#0606* **Beheeyem**
-*#0607* **Litwick**
-*#0608* **Lampent**
-*#0609* **Chandelure**
-*#0610* **Axew**
-*#0611* **Fraxure**
-*#0612* **Haxorus**
-*#0613* **Cubchoo**
-*#0614* **Beartic**
-*#0615* **Cryogonal**
-*#0616* **Shelmet**
-*#0617* **Accelgor**
-*#0618* **Stunfisk**
-*#0619* **Mienfoo**
-*#0620* **Mienshao**
-*#0621* **Druddigon**
-*#0622* **Golett**
-*#0623* **Golurk**
-*#0624* **Pawniard**
-*#0625* **Bisharp**
-*#0626* **Bouffalant**
-*#0627* **Rufflet**
-*#0628* **Braviary**
-*#0629* **Vullaby**
-*#0630* **Mandibuzz**
-*#0631* **Heatmor**
-*#0632* **Durant**
-*#0633* **Deino**
-*#0634* **Zweilous**
-*#0635* **Hydreigon**
-*#0636* **Larvesta**
-*#0637* **Volcarona**
-*#0638* **Cobalion**
-*#0639* **Terrakion**
-*#0640* **Virizion**
-*#0641* **Tornadus**
-*#0642* **Thundurus**
-*#0643* **Reshiram**
-*#0644* **Zekrom**
-*#0645* **Landorus**
-*#0646* **Kyurem**
-*#0647* **Keldeo**
-*#0648* **Meloetta**
-*#0649* **Genesect**
+**Victini**|*#0494*
+**Snivy**|*#0495*
+**Servine**|*#0496*
+**Serperior**|*#0497*
+**Tepig**|*#0498*
+**Pignite**|*#0499*
+**Emboar**|*#0500*
+**Oshawott**|*#0501*
+**Dewott**|*#0502*
+**Samurott**|*#0503*
+**Patrat**|*#0504*
+**Watchog**|*#0505*
+**Lillipup**|*#0506*
+**Herdier**|*#0507*
+**Stoutland**|*#0508*
+**Purrloin**|*#0509*
+**Liepard**|*#0510*
+**Pansage**|*#0511*
+**Simisage**|*#0512*
+**Pansear**|*#0513*
+**Simisear**|*#0514*
+**Panpour**|*#0515*
+**Simipour**|*#0516*
+**Munna**|*#0517*
+**Musharna**|*#0518*
+**Pidove**|*#0519*
+**Tranquill**|*#0520*
+**Unfezant**|*#0521*
+**Blitzle**|*#0522*
+**Zebstrika**|*#0523*
+**Roggenrola**|*#0524*
+**Boldore**|*#0525*
+**Gigalith**|*#0526*
+**Woobat**|*#0527*
+**Swoobat**|*#0528*
+**Drilbur**|*#0529*
+**Excadrill**|*#0530*
+**Audino**|*#0531*
+**Timburr**|*#0532*
+**Gurdurr**|*#0533*
+**Conkeldurr**|*#0534*
+**Tympole**|*#0535*
+**Palpitoad**|*#0536*
+**Seismitoad**|*#0537*
+**Throh**|*#0538*
+**Sawk**|*#0539*
+**Sewaddle**|*#0540*
+**Swadloon**|*#0541*
+**Leavanny**|*#0542*
+**Venipede**|*#0543*
+**Whirlipede**|*#0544*
+**Scolipede**|*#0545*
+**Cottonee**|*#0546*
+**Whimsicott**|*#0547*
+**Petilil**|*#0548*
+**Lilligant**|*#0549*
+**Basculin**|*#0550*
+**Sandile**|*#0551*
+**Krokorok**|*#0552*
+**Krookodile**|*#0553*
+**Darumaka**|*#0554*
+**Darmanitan**|*#0555*
+**Maractus**|*#0556*
+**Dwebble**|*#0557*
+**Crustle**|*#0558*
+**Scraggy**|*#0559*
+**Scrafty**|*#0560*
+**Sigilyph**|*#0561*
+**Yamask**|*#0562*
+**Cofagrigus**|*#0563*
+**Tirtouga**|*#0564*
+**Carracosta**|*#0565*
+**Archen**|*#0566*
+**Archeops**|*#0567*
+**Trubbish**|*#0568*
+**Garbodor**|*#0569*
+**Zorua**|*#0570*
+**Zoroark**|*#0571*
+**Minccino**|*#0572*
+**Cinccino**|*#0573*
+**Gothita**|*#0574*
+**Gothorita**|*#0575*
+**Gothitelle**|*#0576*
+**Solosis**|*#0577*
+**Duosion**|*#0578*
+**Reuniclus**|*#0579*
+**Ducklett**|*#0580*
+**Swanna**|*#0581*
+**Vanillite**|*#0582*
+**Vanillish**|*#0583*
+**Vanilluxe**|*#0584*
+**Deerling**|*#0585*
+**Sawsbuck**|*#0586*
+**Emolga**|*#0587*
+**Karrablast**|*#0588*
+**Escavalier**|*#0589*
+**Foongus**|*#0590*
+**Amoonguss**|*#0591*
+**Frillish**|*#0592*
+**Jellicent**|*#0593*
+**Alomomola**|*#0594*
+**Joltik**|*#0595*
+**Galvantula**|*#0596*
+**Ferroseed**|*#0597*
+**Ferrothorn**|*#0598*
+**Klink**|*#0599*
+**Klang**|*#0600*
+**Klinklang**|*#0601*
+**Tynamo**|*#0602*
+**Eelektrik**|*#0603*
+**Eelektross**|*#0604*
+**Elgyem**|*#0605*
+**Beheeyem**|*#0606*
+**Litwick**|*#0607*
+**Lampent**|*#0608*
+**Chandelure**|*#0609*
+**Axew**|*#0610*
+**Fraxure**|*#0611*
+**Haxorus**|*#0612*
+**Cubchoo**|*#0613*
+**Beartic**|*#0614*
+**Cryogonal**|*#0615*
+**Shelmet**|*#0616*
+**Accelgor**|*#0617*
+**Stunfisk**|*#0618*
+**Mienfoo**|*#0619*
+**Mienshao**|*#0620*
+**Druddigon**|*#0621*
+**Golett**|*#0622*
+**Golurk**|*#0623*
+**Pawniard**|*#0624*
+**Bisharp**|*#0625*
+**Bouffalant**|*#0626*
+**Rufflet**|*#0627*
+**Braviary**|*#0628*
+**Vullaby**|*#0629*
+**Mandibuzz**|*#0630*
+**Heatmor**|*#0631*
+**Durant**|*#0632*
+**Deino**|*#0633*
+**Zweilous**|*#0634*
+**Hydreigon**|*#0635*
+**Larvesta**|*#0636*
+**Volcarona**|*#0637*
+**Cobalion**|*#0638*
+**Terrakion**|*#0639*
+**Virizion**|*#0640*
+**Tornadus**|*#0641*
+**Thundurus**|*#0642*
+**Reshiram**|*#0643*
+**Zekrom**|*#0644*
+**Landorus**|*#0645*
+**Kyurem**|*#0646*
+**Keldeo**|*#0647*
+**Meloetta**|*#0648*
+**Genesect**|*#0649*

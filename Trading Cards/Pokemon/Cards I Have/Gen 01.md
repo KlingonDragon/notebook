@@ -2,154 +2,154 @@
 ## Gen I
 Image|Set
 :-:|:-:
-*#0001* **Bulbasaur**
-*#0002* **Ivysaur**
-*#0003* **Venusaur**
-*#0004* **Charmander**
-*#0005* **Charmeleon**
-*#0006* **Charizard**
-*#0007* **Squirtle**
-*#0008* **Wartortle**
-*#0009* **Blastoise**
-*#0010* **Caterpie**
-*#0011* **Metapod**
-*#0012* **Butterfree**
-*#0013* **Weedle**
-*#0014* **Kakuna**
-*#0015* **Beedrill**
-*#0016* **Pidgey**
-*#0017* **Pidgeotto**
-*#0018* **Pidgeot**
-*#0019* **Rattata**
-*#0020* **Raticate**
-*#0021* **Spearow**
-*#0022* **Fearow**
-*#0023* **Ekans**
-*#0024* **Arbok**
-*#0025* **Pikachu**
-*#0026* **Raichu**
-*#0027* **Sandshrew**
-*#0028* **Sandslash**
-*#0029* **Nidoran♀**
-*#0030* **Nidorina**
-*#0031* **Nidoqueen**
-*#0032* **Nidoran♂**
-*#0033* **Nidorino**
-*#0034* **Nidoking**
-*#0035* **Clefairy**
-*#0036* **Clefable**
-*#0037* **Vulpix**
-*#0038* **Ninetales**
-*#0039* **Jigglypuff**
-*#0040* **Wigglytuff**
-*#0041* **Zubat**
-*#0042* **Golbat**
-*#0043* **Oddish**
-*#0044* **Gloom**
-*#0045* **Vileplume**
-*#0046* **Paras**
-*#0047* **Parasect**
-*#0048* **Venonat**
-*#0049* **Venomoth**
-*#0050* **Diglett**
-*#0051* **Dugtrio**
-*#0052* **Meowth**
-*#0053* **Persian**
-*#0054* **Psyduck**
-*#0055* **Golduck**
-*#0056* **Mankey**
-*#0057* **Primeape**
-*#0058* **Growlithe**
-*#0059* **Arcanine**
-*#0060* **Poliwag**
-*#0061* **Poliwhirl**
-*#0062* **Poliwrath**
-*#0063* **Abra**
-*#0064* **Kadabra**
-*#0065* **Alakazam**
-*#0066* **Machop**
-*#0067* **Machoke**
-*#0068* **Machamp**
-*#0069* **Bellsprout**
-*#0070* **Weepinbell**
-*#0071* **Victreebel**
-*#0072* **Tentacool**
-*#0073* **Tentacruel**
-*#0074* **Geodude**
-*#0075* **Graveler**
-*#0076* **Golem**
-*#0077* **Ponyta**
-*#0078* **Rapidash**
-*#0079* **Slowpoke**
-*#0080* **Slowbro**
-*#0081* **Magnemite**
-*#0082* **Magneton**
-*#0083* **Farfetch’d**
-*#0084* **Doduo**
-*#0085* **Dodrio**
-*#0086* **Seel**
-*#0087* **Dewgong**
-*#0088* **Grimer**
-*#0089* **Muk**
-*#0090* **Shellder**
-*#0091* **Cloyster**
-*#0092* **Gastly**
-*#0093* **Haunter**
-*#0094* **Gengar**
-*#0095* **Onix**
-*#0096* **Drowzee**
-*#0097* **Hypno**
-*#0098* **Krabby**
-*#0099* **Kingler**
-*#0100* **Voltorb**
-*#0101* **Electrode**
-*#0102* **Exeggcute**
-*#0103* **Exeggutor**
-*#0104* **Cubone**
-*#0105* **Marowak**
-*#0106* **Hitmonlee**
-*#0107* **Hitmonchan**
-*#0108* **Lickitung**
-*#0109* **Koffing**
-*#0110* **Weezing**
-*#0111* **Rhyhorn**
-*#0112* **Rhydon**
-*#0113* **Chansey**
-*#0114* **Tangela**
-*#0115* **Kangaskhan**
-*#0116* **Horsea**
-*#0117* **Seadra**
-*#0118* **Goldeen**
-*#0119* **Seaking**
-*#0120* **Staryu**
-*#0121* **Starmie**
-*#0122* **Mr. Mime**
-*#0123* **Scyther**
-*#0124* **Jynx**
-*#0125* **Electabuzz**
-*#0126* **Magmar**
-*#0127* **Pinsir**
-*#0128* **Tauros**
-*#0129* **Magikarp**
-*#0130* **Gyarados**
-*#0131* **Lapras**
-*#0132* **Ditto**
-*#0133* **Eevee**
-*#0134* **Vaporeon**
-*#0135* **Jolteon**
-*#0136* **Flareon**
-*#0137* **Porygon**
-*#0138* **Omanyte**
-*#0139* **Omastar**
-*#0140* **Kabuto**
-*#0141* **Kabutops**
-*#0142* **Aerodactyl**
-*#0143* **Snorlax**
-*#0144* **Articuno**
-*#0145* **Zapdos**
-*#0146* **Moltres**
-*#0147* **Dratini**
-*#0148* **Dragonair**
-*#0149* **Dragonite**
-*#0150* **Mewtwo**
-*#0151* **Mew**
+**Bulbasaur**|*#0001*
+**Ivysaur**|*#0002*
+**Venusaur**|*#0003*
+**Charmander**|*#0004*
+**Charmeleon**|*#0005*
+**Charizard**|*#0006*
+**Squirtle**|*#0007*
+**Wartortle**|*#0008*
+**Blastoise**|*#0009*
+**Caterpie**|*#0010*
+**Metapod**|*#0011*
+**Butterfree**|*#0012*
+**Weedle**|*#0013*
+**Kakuna**|*#0014*
+**Beedrill**|*#0015*
+**Pidgey**|*#0016*
+**Pidgeotto**|*#0017*
+**Pidgeot**|*#0018*
+**Rattata**|*#0019*
+**Raticate**|*#0020*
+**Spearow**|*#0021*
+**Fearow**|*#0022*
+**Ekans**|*#0023*
+**Arbok**|*#0024*
+**Pikachu**|*#0025*
+**Raichu**|*#0026*
+**Sandshrew**|*#0027*
+**Sandslash**|*#0028*
+**Nidoran♀**|*#0029*
+**Nidorina**|*#0030*
+**Nidoqueen**|*#0031*
+**Nidoran♂**|*#0032*
+**Nidorino**|*#0033*
+**Nidoking**|*#0034*
+**Clefairy**|*#0035*
+**Clefable**|*#0036*
+**Vulpix**|*#0037*
+**Ninetales**|*#0038*
+**Jigglypuff**|*#0039*
+**Wigglytuff**|*#0040*
+**Zubat**|*#0041*
+**Golbat**|*#0042*
+**Oddish**|*#0043*
+**Gloom**|*#0044*
+**Vileplume**|*#0045*
+**Paras**|*#0046*
+**Parasect**|*#0047*
+**Venonat**|*#0048*
+**Venomoth**|*#0049*
+**Diglett**|*#0050*
+**Dugtrio**|*#0051*
+**Meowth**|*#0052*
+**Persian**|*#0053*
+**Psyduck**|*#0054*
+**Golduck**|*#0055*
+**Mankey**|*#0056*
+**Primeape**|*#0057*
+**Growlithe**|*#0058*
+**Arcanine**|*#0059*
+**Poliwag**|*#0060*
+**Poliwhirl**|*#0061*
+**Poliwrath**|*#0062*
+**Abra**|*#0063*
+**Kadabra**|*#0064*
+**Alakazam**|*#0065*
+**Machop**|*#0066*
+**Machoke**|*#0067*
+**Machamp**|*#0068*
+**Bellsprout**|*#0069*
+**Weepinbell**|*#0070*
+**Victreebel**|*#0071*
+**Tentacool**|*#0072*
+**Tentacruel**|*#0073*
+**Geodude**|*#0074*
+**Graveler**|*#0075*
+**Golem**|*#0076*
+**Ponyta**|*#0077*
+**Rapidash**|*#0078*
+**Slowpoke**|*#0079*
+**Slowbro**|*#0080*
+**Magnemite**|*#0081*
+**Magneton**|*#0082*
+**Farfetch’d**|*#0083*
+**Doduo**|*#0084*
+**Dodrio**|*#0085*
+**Seel**|*#0086*
+**Dewgong**|*#0087*
+**Grimer**|*#0088*
+**Muk**|*#0089*
+**Shellder**|*#0090*
+**Cloyster**|*#0091*
+**Gastly**|*#0092*
+**Haunter**|*#0093*
+**Gengar**|*#0094*
+**Onix**|*#0095*
+**Drowzee**|*#0096*
+**Hypno**|*#0097*
+**Krabby**|*#0098*
+**Kingler**|*#0099*
+**Voltorb**|*#0100*
+**Electrode**|*#0101*
+**Exeggcute**|*#0102*
+**Exeggutor**|*#0103*
+**Cubone**|*#0104*
+**Marowak**|*#0105*
+**Hitmonlee**|*#0106*
+**Hitmonchan**|*#0107*
+**Lickitung**|*#0108*
+**Koffing**|*#0109*
+**Weezing**|*#0110*
+**Rhyhorn**|*#0111*
+**Rhydon**|*#0112*
+**Chansey**|*#0113*
+**Tangela**|*#0114*
+**Kangaskhan**|*#0115*
+**Horsea**|*#0116*
+**Seadra**|*#0117*
+**Goldeen**|*#0118*
+**Seaking**|*#0119*
+**Staryu**|*#0120*
+**Starmie**|*#0121*
+**Mr. Mime**|*#0122*
+**Scyther**|*#0123*
+**Jynx**|*#0124*
+**Electabuzz**|*#0125*
+**Magmar**|*#0126*
+**Pinsir**|*#0127*
+**Tauros**|*#0128*
+**Magikarp**|*#0129*
+**Gyarados**|*#0130*
+**Lapras**|*#0131*
+**Ditto**|*#0132*
+**Eevee**|*#0133*
+**Vaporeon**|*#0134*
+**Jolteon**|*#0135*
+**Flareon**|*#0136*
+**Porygon**|*#0137*
+**Omanyte**|*#0138*
+**Omastar**|*#0139*
+**Kabuto**|*#0140*
+**Kabutops**|*#0141*
+**Aerodactyl**|*#0142*
+**Snorlax**|*#0143*
+**Articuno**|*#0144*
+**Zapdos**|*#0145*
+**Moltres**|*#0146*
+**Dratini**|*#0147*
+**Dragonair**|*#0148*
+**Dragonite**|*#0149*
+**Mewtwo**|*#0150*
+**Mew**|*#0151*
