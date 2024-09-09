@@ -25,25 +25,34 @@ Slowbro-EX|For my MSlowbro-EX
 Vaporeon V|For my Vaporieon VMAX
 Absol-EX|For my MAbsol-EX
 Latios-EX|For my MLatios-EX
+Sylveon V|For my Sylveon VMAX
 
 ## Specific Cards
 
-Image|Card Name|Set|Number|Why I want it
-:-:|:-:|:-:|:-:|:--
-&nbsp;|Arcanine BREAK||Promo|I have the jumbo
-![Dragonite-EX](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/XY3/XY3_EN_74.png)|Dragonite-EX|![XY-Furious Fists](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/xy3-expansion-symbol.png)|74/111|I have the jumbo
-![Mew ex](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SV4PT5/SV4PT5_EN_216.png)|Mew ex|![Paldean Fates](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sv4pt5-expansion-symbol.png)|216/91| I like Mew
-![Scizor-EX](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/XY9/XY9_EN_76.png)|Scizor-EX|![XY-BREAKpoint](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/xy9-expansion-symbol.png)|76/122|I have the jumbo
-![MManectric-EX](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/XY4/XY4_EN_24.png)|MManectric-EX|![XY-Phantom Forces](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/xy4-expansion-symbol.png)|24/119|Mine is Korean
-&nbsp;|MCamerupt-EX||Promo|I have the jumbo
-![Dusclops](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SV6PT5/SV6PT5_EN_69.png)|Dusclops|![Shrouded Fable](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sv6pt5-expansion-symbol.png)|69/64|To go with Duskull
-![Mismagius](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SV02/SV02_EN_212.png)|Mismagius|![Paldea Evolved](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sv02-expansion-symbol.png)|212/193|It's lovely
-![Dusknoir](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SV6PT5/SV6PT5_EN_70.png)|Dusknoir|![Shrouded Fable](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sv6pt5-expansion-symbol.png)|70/64|To go with Duskull
-![Giratina V](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SWSH11/SWSH11_EN_186.png)|Giratina V|![Lost Origin](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/swsh11-expansion-symbol.png)|186/196|It looks cool
-![Giratina VSTAR](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SWSH12PT5GG/SWSH12PT5GG_EN_GG69.png)|Giratina VSTAR|![Crown Zenith Galarian Gallery](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/swsh12pt5gg-expansion-symbol.png) GG69|It looks cool
-![Arceus & Dialga & Palkia-GX](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SM12/SM12_EN_221.png)|Arceus & Dialga & Palkia-GX|![Cosmic Eclipse](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sm12-expansion-symbol.png)|221/236|Cool art
-![Snivy](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/BWP/BWP_EN_BW01.png)|Snivy|![BW-Promo](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/black-star-promo.png)|BW01 Promo|I have the 25th anniversary jumbo
-![Oshawott](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/BWP/BWP_EN_BW03.png)|Oshawott|![BW-Promo](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/black-star-promo.png)|BW03 Promo|I have the 25th anniversary jumbo
-&nbsp;|Zoroark and Legendary Pokémon||Promo|I can't find my old one
-![Zekrom](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/BW1/BW1_EN_114.png)|Zekrom|![Black & White](https://www.pokemon.com/static-assets/content-assets/cms-en-uk/img/tcg/expansion-symbols/bw1-expansion-symbol.png)|114/114|Pairs with my Reshiram¹
-![Gholdengo ex](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SV04/SV04_EN_252.png)|Gholdengo ex|![Paradox Rift](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sv04-expansion-symbol.png)|252/182|Less cool but goes with Gimmighoul
+Image|Set|Why I want it
+:-:|:-:|:--
+![Squirtle](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SV3PT5/SV3PT5_EN_170.png)|![151](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sv3pt5-expansion-symbol.png) 170/165|To go with Wartortle
+Arcanine BREAK|Promo|I have the jumbo
+![Gastly](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SV05/SV05_EN_177.png)|![Temporal Forces](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sv05-expansion-symbol.png) 177/162
+![Chansey](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SV06/SV06_EN_187.png)|![Twilight Masquerade](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sv06-expansion-symbol.png) 187/167
+![Eevee](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SV06/SV06_EN_188.png)|![Twilight Masquerade](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sv06-expansion-symbol.png) 188/167
+![Dragonite-EX](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/XY3/XY3_EN_74.png)|![XY-Furious Fists](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/xy3-expansion-symbol.png) 74/111|I have the jumbo
+![Mew ex](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SV4PT5/SV4PT5_EN_216.png)|![Paldean Fates](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sv4pt5-expansion-symbol.png) 216/91
+![Scizor-EX](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/XY9/XY9_EN_76.png)|![XY-BREAKpoint](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/xy9-expansion-symbol.png) 76/122|I have the jumbo
+![MManectric-EX](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/XY4/XY4_EN_24.png)|![XY-Phantom Forces](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/xy4-expansion-symbol.png) 24/119|Mine is Korean
+![Ralts](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SV01/SV01_EN_211.png)|![Scarlet & Violet](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sv01-expansion-symbol.png) 211/198|To go with Kirlia
+MCamerupt-EX|Promo|I have the jumbo
+![Dusclops](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SV6PT5/SV6PT5_EN_69.png)|![Shrouded Fable](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sv6pt5-expansion-symbol.png) 69/64|To go with Duskull
+![Mismagius](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SV02/SV02_EN_212.png)|![Paldea Evolved](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sv02-expansion-symbol.png) 212/193
+![Dusknoir](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SV6PT5/SV6PT5_EN_70.png)|![Shrouded Fable](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sv6pt5-expansion-symbol.png) 70/64|To go with Duskull
+![Leafeon VSTAR](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SWSH12PT5GG/SWSH12PT5GG_EN_GG35.png)|![Crown Zenith Galarian Gallery](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/swsh12pt5gg-expansion-symbol.png) GG35
+![Giratina V](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SWSH11/SWSH11_EN_186.png)|![Lost Origin](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/swsh11-expansion-symbol.png) 186/196
+![Giratina VSTAR](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SWSH12PT5GG/SWSH12PT5GG_EN_GG69.png)|![Crown Zenith Galarian Gallery](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/swsh12pt5gg-expansion-symbol.png) GG69
+![Arceus & Dialga & Palkia-GX](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SM12/SM12_EN_221.png)|![Cosmic Eclipse](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sm12-expansion-symbol.png) 221/236
+![Snivy](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/BWP/BWP_EN_BW01.png)|![BW-Promo](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/black-star-promo.png) BW01 Promo|I have the 25th anniversary jumbo
+![Oshawott](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/BWP/BWP_EN_BW03.png)|![BW-Promo](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/black-star-promo.png) BW03 Promo|I have the 25th anniversary jumbo
+![Zorua](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SV6PT5/SV6PT5_EN_75.png)|![Shrouded Fable](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sv6pt5-expansion-symbol.png) 75/64
+Zoroark and Legendary Pokémon|Jumbo Promo|I can't find my old one
+![Zekrom](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/BW1/BW1_EN_114.png)|![Black & White](https://www.pokemon.com/static-assets/content-assets/cms-en-uk/img/tcg/expansion-symbols/bw1-expansion-symbol.png) 114/114|Pairs with my Reshiram
+![Bloodmoon Ursaluna ex](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SV06/SV06_EN_216.png)|![Twilight Masquerade](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sv06-expansion-symbol.png) 216/167
+![Gholdengo ex](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SV04/SV04_EN_252.png)|![Paradox Rift](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sv04-expansion-symbol.png) 252/182|Less cool but goes with Gimmighoul
