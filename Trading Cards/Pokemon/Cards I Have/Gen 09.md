@@ -258,6 +258,7 @@ Cetitan|M23|005/015
 ![Dudunsparce](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SV05/SV05_EN_129.png)|![Temporal Forces](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sv05-expansion-symbol.png) 129/162
 **Kingambit**|*#0983*
 ![Kingambit](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SV01/SV01_EN_220.png)|![Scarlet & Violet](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sv01-expansion-symbol.png) 220/198
+![Kingambit](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SVP/SVP_EN_130.png)|![Scarlet & Violet Promo](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/svp-expansion-symbol.png) 130
 **Great Tusk**|*#0984*
 ![Great Tusk](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SV05/SV05_EN_96.png)|![Temporal Forces](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sv05-expansion-symbol.png) 96/162
 ![Great Tusk](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SV05/SV05_EN_97.png)|![Temporal Forces](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sv05-expansion-symbol.png) 97/162
@@ -293,6 +294,7 @@ Cetitan|M23|005/015
 ![Iron Jugulis](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SV05/SV05_EN_139.png)|![Temporal Forces](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sv05-expansion-symbol.png) 139/162
 **Iron Moth**|*#0994*
 ![Iron Moth](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SV04/SV04_EN_28.png)|![Paradox Rift](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sv04-expansion-symbol.png) 28/182
+![Iron Moth](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SV6PT5/SV6PT5_EN_9.png)|![Shrouded Fable](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sv6pt5-expansion-symbol.png) 9/64
 **Iron Thorns**|*#0995*
 ![Iron Thorns](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SV05/SV05_EN_62.png)|![Temporal Forces](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sv05-expansion-symbol.png) 62/162
 ![Iron Thorns ex](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SV06/SV06_EN_77.png)|![Twilight Masquerade](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sv06-expansion-symbol.png) 77/167
@@ -327,7 +329,7 @@ Cetitan|M23|005/015
 ![Chi-Yu](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SV06/SV06_EN_39.png)|![Twilight Masquerade](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sv06-expansion-symbol.png) 39/167
 ![Chi-Yu ex](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SV02/SV02_EN_234.png)|![Paldea Evolved](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sv02-expansion-symbol.png) 234/193
 ![Chi-Yu ex](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SV02/SV02_EN_259.png)|![Paldea Evolved](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sv02-expansion-symbol.png) 259/193
-1**Roaring Moon**|*#1005*
+**Roaring Moon**|*#1005*
 ![Roaring Moon](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SV05/SV05_EN_109.png)|![Temporal Forces](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sv05-expansion-symbol.png) 109/162
 ![Roaring Moon ex](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SV04/SV04_EN_262.png)|![Paradox Rift](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sv04-expansion-symbol.png) 262/182
 **Iron Valiant**|*#1006*
@@ -369,9 +371,13 @@ Cetitan|M23|005/015
 **Okidogi**|*#1014*
 ![Okidogi](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SV06/SV06_EN_111.png)|![Twilight Masquerade](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sv06-expansion-symbol.png) 111/167
 ![Okidogi](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SV6PT5/SV6PT5_EN_74.png)|![Shrouded Fable](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sv6pt5-expansion-symbol.png) 74/64
+![Okidogi ex](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SV6PT5/SV6PT5_EN_36.png)|![Shrouded Fable](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sv6pt5-expansion-symbol.png) 36/64
+![Okidogi ex](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SV6PT5/SV6PT5_EN_82.png)|![Shrouded Fable](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sv6pt5-expansion-symbol.png) 82/64
+![Okidogi ex](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SV6PT5/SV6PT5_EN_90.png)|![Shrouded Fable](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sv6pt5-expansion-symbol.png) 90/64
 **Munkidori**|*#1015*
 ![Munkidori](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SV06/SV06_EN_95.png)|![Twilight Masquerade](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sv06-expansion-symbol.png) 95/167
 ![Munkidori](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SV6PT5/SV6PT5_EN_72.png)|![Shrouded Fable](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sv6pt5-expansion-symbol.png) 72/64
+![Munkidori ex](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SV6PT5/SV6PT5_EN_83.png)|![Shrouded Fable](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sv6pt5-expansion-symbol.png) 83/64
 **Fezandipiti**|*#1016*
 ![Fezandipiti](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SV06/SV06_EN_96.png)|![Twilight Masquerade](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sv06-expansion-symbol.png) 96/167
 **Ogerpon**|*#1017*

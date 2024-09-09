@@ -423,6 +423,7 @@ Image|Set
 **Lumineon**|*#0457*
 ![Lumineon](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SM11/SM11_EN_40.png)|![Unified Minds](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sm11-expansion-symbol.png) 40/236
 ![Lumineon](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SWSH11/SWSH11_EN_41.png)|![Lost Origin](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/swsh11-expansion-symbol.png) 41/196
+![Lumineon V](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SWSH12PT5GG/SWSH12PT5GG_EN_GG39.png)|![Crown Zenith Galarian Gallery](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/swsh12pt5gg-expansion-symbol.png) GG39/GG70
 **Mantyke**|*#0458*
 ![Mantyke LV. 6](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/DP1/DP1_EN_55.png)|![Diamond & Pearl](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/dp1-exp-symbol.png) 55/130
 **Snover**|*#0459*
@@ -537,6 +538,7 @@ Image|Set
 ![Dusknoir](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SWSH4/SWSH4_EN_71.png)|![Vivid Voltage](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/swsh4-expansion-symbol.png) 71/185
 ![Dusknoir](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SWSH9/SWSH9_EN_62.png)|![Brilliant Stars](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/swsh9-expansion-symbol.png) 62/172
 ![Dusknoir](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SWSH9/SWSH9_EN_TG06.png)|![Brilliant Stars Trainer Gallery](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/swsh9-expansion-symbol.png) TG06/TG30
+![Dusknoir](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SV6PT5/SV6PT5_EN_20.png)|![Shrouded Fable](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sv6pt5-expansion-symbol.png) 20/64
 **Froslass**|*#0478*
 ![Froslass](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/G1/G1_EN_RC8.png)|![Generations](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/g1-expansion-symbol.png) RC8/RC32
 ![Froslass](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SWSH6/SWSH6_EN_36.png)|![Chilling Reign](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/swsh6-expansion-symbol.png) 36/198
@@ -578,6 +580,7 @@ Dialga|DP49
 ![Palkia](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/CEL/CEL_EN_4.png)|![Celebrations](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/25th-expansion-symbol.png) 4/25
 ![Origin Forme Palkia V](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SWSHP/SWSHP_EN_SWSH253.png)|![Sword & Shield Promo](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/swshp-expansion-symbol.png) SWSH253
 ![Origin Forme Palkia VSTAR](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SWSHP/SWSHP_EN_SWSH254.png)|![Sword & Shield Promo](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/swshp-expansion-symbol.png) SWSH254
+![Origin Forme Palkia VSTAR](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SWSH10/SWSH10_EN_192.png)|![Astral Radiance](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/swsh10-expansion-symbol.png) 192/189
 **Heatran**|*#0485*
 ![Heatran LV. 47](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/DP6/DP6_EN_6.png)|![Diamond & Pearl—Legends Awakened](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/dp6-exp-symbol.png) 6/146
 ![Radiant Heatran](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SWSH10/SWSH10_EN_27.png)|![Astral Radiance](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/swsh10-expansion-symbol.png) 27/189
@@ -593,9 +596,11 @@ Dialga|DP49
 Giratina LV. X|DP38
 ![Giratina](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/XYP/XYP_EN_XY184.png)|![XY—Promo](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/black-star-promo.png) XY184
 ![Giratina V](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SWSH11/SWSH11_EN_185.png)|![Lost Origin](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/swsh11-expansion-symbol.png) 185/196
+![Giratina VSTAR](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SWSH11/SWSH11_EN_201.png)|![Lost Origin](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/swsh11-expansion-symbol.png) 201/196
 **Cresselia**|*#0488*
 ![Cresselia LV. 43](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/DP5/DP5_EN_2.png)|![Diamond & Pearl—Majestic Dawn](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/dp5-exp-symbol.png) 2/100
 ![Cresselia](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SM11/SM11_EN_87.png)|![Unified Minds](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sm11-expansion-symbol.png) 87/236
+![Cresselia](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SV6PT5/SV6PT5_EN_21.png)|![Shrouded Fable](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sv6pt5-expansion-symbol.png) 21/64
 **Phione**|*#0489*
 ![Phione](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SM12/SM12_EN_57.png)|![Cosmic Eclipse](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sm12-expansion-symbol.png) 57/236
 ![Phione](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SV06/SV06_EN_55.png)|![Twilight Masquerade](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sv06-expansion-symbol.png) 55/167
