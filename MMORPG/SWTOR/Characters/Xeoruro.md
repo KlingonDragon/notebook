@@ -6,4 +6,4 @@ Being from a sturdy race, he spent plenty of time doing brutal hard labour as an
 
 Class|Combat Style|Alignment
 :-:|:-:|:-:
-Inquisitor|Sorceror|???
+Inquisitor|Sorceror|Dark
