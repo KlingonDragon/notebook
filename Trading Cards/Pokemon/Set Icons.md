@@ -1,5 +1,7 @@
 # Pokemon Set Icons
 ## Scarlet & Violet
+![Stellar Crown](https://www.pokemon.com/static-assets/content-assets/cms-en-uk/img/tcg/expansion-symbols/sv07-expansion-symbol.png)
+![Shrouded Fable](https://www.pokemon.com/static-assets/content-assets/cms-en-uk/img/tcg/expansion-symbols/sv6pt5-expansion-symbol.png)
 ![Twilight Masquerade](https://www.pokemon.com/static-assets/content-assets/cms-en-uk/img/tcg/expansion-symbols/sv06-expansion-symbol.png)
 ![Temporal Forces](https://www.pokemon.com/static-assets/content-assets/cms-en-uk/img/tcg/expansion-symbols/sv05-expansion-symbol.png)
 ![Paldean Fates](https://www.pokemon.com/static-assets/content-assets/cms-en-uk/img/tcg/expansion-symbols/sv4pt5-expansion-symbol.png)
