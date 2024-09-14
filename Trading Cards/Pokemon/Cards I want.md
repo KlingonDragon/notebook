@@ -15,7 +15,6 @@ Cards where the specific set/artwork doesn't matter
     - Arctozolt
 - Gen IX
     - Hydrapple
-    - Terapagos
 
 ### Other reasons
 Card|Why I want it
