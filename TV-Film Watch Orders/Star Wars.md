@@ -14,6 +14,7 @@ Short; good for new viewers or an afternoon marathon.
 ## Full¹ Chronological
 Super long; good for watching alone over several months.
 
+0) The Acolyte
 0) Episode I: The Phantom Menace
 0) Episode II: Attack of the Clones
 0) Clone Wars
