@@ -430,8 +430,8 @@ Image|Set
 **Lumineon**|*#0457*
 ![Lumineon](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SM11/SM11_EN_40.png)|![Unified Minds](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sm11-expansion-symbol.png)<br/>40/236
 ![Lumineon](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SWSH11/SWSH11_EN_41.png)|![Lost Origin](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/swsh11-expansion-symbol.png)<br/>41/196
-![Lumineon V](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SWSH12PT5GG/SWSH12PT5GG_EN_GG39.png)|![Crown Zenith Galarian Gallery](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/swsh12pt5gg-expansion-symbol.png)<br/>GG39/GG70
 ![Lumineon](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SV07/SV07_EN_36.png)|![Stellar Crown](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sv07-expansion-symbol.png)<br/>36/175
+![Lumineon V](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SWSH12PT5GG/SWSH12PT5GG_EN_GG39.png)|![Crown Zenith Galarian Gallery](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/swsh12pt5gg-expansion-symbol.png)<br/>GG39/GG70
 **Mantyke**|*#0458*
 ![Mantyke LV. 6](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/DP1/DP1_EN_55.png)|![Diamond & Pearl](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/dp1-exp-symbol.png)<br/>55/130
 **Snover**|*#0459*
@@ -592,6 +592,7 @@ Dialga|DP49
 ![Palkia](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/CEL/CEL_EN_4.png)|![Celebrations](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/25th-expansion-symbol.png)<br/>4/25
 ![Origin Forme Palkia V](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SWSHP/SWSHP_EN_SWSH253.png)|![Sword & Shield Promo](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/swshp-expansion-symbol.png)<br/>SWSH253
 ![Origin Forme Palkia VSTAR](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SWSHP/SWSHP_EN_SWSH254.png)|![Sword & Shield Promo](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/swshp-expansion-symbol.png)<br/>SWSH254
+![Origin Forme Palkia V](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SWSH10/SWSH10_EN_167.png)|![Astral Radiance](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/swsh10-expansion-symbol.png)<br/>165/189
 ![Origin Forme Palkia VSTAR](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SWSH10/SWSH10_EN_192.png)|![Astral Radiance](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/swsh10-expansion-symbol.png)<br/>192/189
 **Heatran**|*#0485*
 ![Heatran LV. 47](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/DP6/DP6_EN_6.png)|![Diamond & Pearl—Legends Awakened](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/dp6-exp-symbol.png)<br/>6/146
