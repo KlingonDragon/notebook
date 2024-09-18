@@ -52,5 +52,4 @@ MCamerupt-EX|Promo|I have the jumbo
 ![Zorua](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SV6PT5/SV6PT5_EN_75.png)|![Shrouded Fable](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sv6pt5-expansion-symbol.png)<br/>75/64
 Zoroark and Legendary Pokémon|Jumbo Promo|I can't find my old one
 ![Zekrom](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/BW1/BW1_EN_114.png)|![Black & White](https://www.pokemon.com/static-assets/content-assets/cms-en-uk/img/tcg/expansion-symbols/bw1-expansion-symbol.png)<br/>114/114|To go with Reshiram
-![Bloodmoon Ursaluna ex](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SV06/SV06_EN_216.png)|![Twilight Masquerade](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sv06-expansion-symbol.png)<br/>216/167
 ![Gholdengo ex](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SV04/SV04_EN_252.png)|![Paradox Rift](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sv04-expansion-symbol.png)<br/>252/182|To go with Gimmighoul
