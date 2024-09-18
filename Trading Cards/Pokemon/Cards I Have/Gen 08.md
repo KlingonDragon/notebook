@@ -235,6 +235,7 @@ Image|Set
 ![Sinistea](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SV03/SV03_EN_97.png)|![Obsidian Flames](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sv03-expansion-symbol.png)<br/>97/227
 **Polteageist**|*#0855*
 ![Polteageist](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SWSHP/SWSHP_EN_SWSH081.png)|![Sword & Shield Promo](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/swshp-expansion-symbol.png)<br/>SWSH081
+![Polteageist](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SWSH1/SWSH1_EN_90.png)|![Sword & Shield](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/swsh1-expansion-symbol.png)<br/>90/202
 ![Polteageist](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SWSH3/SWSH3_EN_83.png)|![Darkness Ablaze](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/swsh3-expansion-symbol.png)<br/>83/189
 **Hatenna**|*#0856*
 ![Hatenna](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SWSH2/SWSH2_EN_83.png)|![Rebel Clash](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/swsh2-expansion-symbol.png)<br/>83/192

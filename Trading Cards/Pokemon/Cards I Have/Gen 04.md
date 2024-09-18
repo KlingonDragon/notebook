@@ -238,6 +238,7 @@ Image|Set
 ![Drifloon](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SM5/SM5_EN_51.png)|![Ultra Prism](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sm5-expansion-symbol.png)<br/>51/138
 ![Drifloon](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SM11/SM11_EN_80.png)|![Unified Minds](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sm11-expansion-symbol.png)<br/>80/236
 ![Drifloon](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SWSH10/SWSH10_EN_63.png)|![Astral Radiance](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/swsh10-expansion-symbol.png)<br/>63/189
+![Drifloon](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SV01/SV01_EN_89.png)|![Scarlet & Violet](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sv01-expansion-symbol.png)<br/>89/198
 ![Drifloon](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SV07/SV07_EN_60.png)|![Stellar Crown](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sv07-expansion-symbol.png)<br/>60/175
 **Drifblim**|*#0426*
 ![Drifblim LV. 33](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/PL3/PL3_EN_57.png)|![Platinum—Supreme Victors](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/pl3-exp-symbol.png)<br/>57/153

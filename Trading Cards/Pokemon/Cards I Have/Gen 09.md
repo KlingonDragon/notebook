@@ -239,10 +239,12 @@ Image|Set
 ![Glimmora](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SV02/SV02_EN_126.png)|![Paldea Evolved](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sv02-expansion-symbol.png)<br/>126/193
 ![Glimmora](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SV06/SV06_EN_109.png)|![Twilight Masquerade](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sv06-expansion-symbol.png)<br/>109/167
 **Greavard**|*#0971*
+![Greavard](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SV01/SV01_EN_104.png)|![Scarlet & Violet](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sv01-expansion-symbol.png)<br/>104/198
 ![Greavard](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SV03/SV03_EN_99.png)|![Obsidian Flames](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sv03-expansion-symbol.png)<br/>99/227
 ![Greavard](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SV4PT5/SV4PT5_EN_42.png)|![Paldean Fates](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sv4pt5-expansion-symbol.png)<br/>42/91
 ![Greavard](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SV07/SV07_EN_70.png)|![Stellar Crown](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sv07-expansion-symbol.png)<br/>70/175
 **Houndstone**|*#0972*
+![Houndstone](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SV01/SV01_EN_106.png)|![Scarlet & Violet](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sv01-expansion-symbol.png)<br/>106/198
 ![Houndstone](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SV03/SV03_EN_101.png)|![Obsidian Flames](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sv03-expansion-symbol.png)<br/>101/227
 ![Houndstone](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SV4PT5/SV4PT5_EN_43.png)|![Paldean Fates](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sv4pt5-expansion-symbol.png)<br/>43/91
 **Flamigo**|*#0973*
