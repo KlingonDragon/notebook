@@ -16,6 +16,7 @@ Image|Set
 ![Thwackey](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SV06/SV06_EN_15.png)|![Twilight Masquerade](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sv06-expansion-symbol.png)<br/>15/167
 **Rillaboom**|*#0812*
 ![Rillaboom](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SWSH45/SWSH45_EN_13.png)|![Shining Fates](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/swsh45-expansion-symbol.png)<br/>13/72
+![Rillaboom](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SWSH6/SWSH6_EN_18.png)|![Chilling Reign](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/swsh6-expansion-symbol.png)<br/>18/198
 ![Rillaboom](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SV06/SV06_EN_16.png)|![Twilight Masquerade](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sv06-expansion-symbol.png)<br/>16/167
 ![Rillaboom V](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SWSH2/SWSH2_EN_17.png)|![Rebel Clash](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/swsh2-expansion-symbol.png)<br/>17/192
 ![Rillaboom VMAX](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SWSH2/SWSH2_EN_18.png)|![Rebel Clash](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/swsh2-expansion-symbol.png)<br/>18/192
@@ -375,6 +376,7 @@ Image|Set
 ![Dracozolt V](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SWSH7/SWSH7_EN_178.png)|![Evolving Skies](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/swsh7-expansion-symbol.png)<br/>178/203
 ![Dracozolt VMAX](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SWSH7/SWSH7_EN_210.png)|![Evolving Skies](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/swsh7-expansion-symbol.png)<br/>210/203
 **Arctozolt**|*#0881*
+![Arctozolt](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SWSH3/SWSH3_EN_66.png)|![Darkness Ablaze](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/swsh3-expansion-symbol.png)<br/>66/189
 **Dracovish**|*#0882*
 ![Dracovish V](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SWSH9/SWSH9_EN_114.png)|![Brilliant Stars](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/swsh9-expansion-symbol.png)<br/>114/172
 **Arctovish**|*#0883*
