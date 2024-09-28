@@ -4,5 +4,4 @@ Neuron deck code: `81bhv0q` / [Open db.yugioh-card.com](http://www.db.yugioh-car
 
 ## Cards I Need
 - Banishing Trap Hole
-- Deep Dark trap Hole
 - Trap Hole of Spikes

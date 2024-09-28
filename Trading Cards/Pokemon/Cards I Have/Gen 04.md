@@ -551,6 +551,7 @@ Image|Set
 ![Dusknoir](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SWSH9/SWSH9_EN_62.png)|![Brilliant Stars](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/swsh9-expansion-symbol.png)<br/>62/172
 ![Dusknoir](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SWSH9/SWSH9_EN_TG06.png)|![Brilliant Stars Trainer Gallery](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/swsh9-expansion-symbol.png)<br/>TG06/TG30
 ![Dusknoir](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SV6PT5/SV6PT5_EN_20.png)|![Shrouded Fable](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sv6pt5-expansion-symbol.png)<br/>20/64
+![Dusknoir](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SV6PT5/SV6PT5_EN_70.png)|![Shrouded Fable](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sv6pt5-expansion-symbol.png)<br/>70/64
 **Froslass**|*#0478*
 ![Froslass](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/G1/G1_EN_RC8.png)|![Generations](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/g1-expansion-symbol.png)<br/>RC8/RC32
 ![Froslass](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SWSH6/SWSH6_EN_36.png)|![Chilling Reign](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/swsh6-expansion-symbol.png)<br/>36/198

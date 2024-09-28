@@ -1,5 +1,6 @@
 # Pokemon Set Icons
 ## Scarlet & Violet
+![Surging Sparks](https://www.pokemon.com/static-assets/content-assets/cms-en-uk/img/tcg/expansion-symbols/sv08-expansion-symbol.png)
 ![Stellar Crown](https://www.pokemon.com/static-assets/content-assets/cms-en-uk/img/tcg/expansion-symbols/sv07-expansion-symbol.png)
 ![Shrouded Fable](https://www.pokemon.com/static-assets/content-assets/cms-en-uk/img/tcg/expansion-symbols/sv6pt5-expansion-symbol.png)
 ![Twilight Masquerade](https://www.pokemon.com/static-assets/content-assets/cms-en-uk/img/tcg/expansion-symbols/sv06-expansion-symbol.png)
