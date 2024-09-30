@@ -268,6 +268,7 @@ Cetitan|M23<br/>005/015
 **Tatsugiri**|*#0978*
 ![Tatsugiri](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SV04/SV04_EN_141.png)|![Paradox Rift](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sv04-expansion-symbol.png)<br/>141/182
 ![Tatsugiri](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SV06/SV06_EN_131.png)|![Twilight Masquerade](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sv06-expansion-symbol.png)<br/>131/167
+![Tatsugiri](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SV06/SV06_EN_186.png)|![Twilight Masquerade](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sv06-expansion-symbol.png)<br/>186/167
 **Annihilape**|*#0979*
 ![Annihilape](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SV4PT5/SV4PT5_EN_47.png)|![Paldean Fates](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sv4pt5-expansion-symbol.png)<br/>47/91
 **Clodsire**|*#0980*
