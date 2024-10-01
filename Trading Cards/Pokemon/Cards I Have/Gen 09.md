@@ -416,6 +416,7 @@ Cetitan|M23<br/>005/015
 **Archaludon**|*#1018*
 ![Archaludon](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SV07/SV07_EN_107.png)|![Stellar Crown](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sv07-expansion-symbol.png)<br/>107/175
 **Hydrapple**|*#1019*
+![Hydrapple ex](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SV07/SV07_EN_156.png)|![Stellar Crown](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sv07-expansion-symbol.png)<br/>156/175
 **Gouging Fire**|*#1020*
 ![Gouging Fire ex](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SV05/SV05_EN_188.png)|![Temporal Forces](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sv05-expansion-symbol.png)<br/>188/162
 ![Gouging Fire ex](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SV05/SV05_EN_204.png)|![Temporal Forces](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sv05-expansion-symbol.png)<br/>204/162

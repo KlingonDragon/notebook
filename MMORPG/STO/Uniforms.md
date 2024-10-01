@@ -3,17 +3,17 @@
 
 ### Player Uniform Slots
 
-Federation|Klingon|Romulan
-:-:|:-:|:-:
-Duty¹||
-Dress||
-Off-Duty||
-Holiday||
-Covert||
-Mirror||
-Temporal²||
-Klingon Alliance³||
-Romulan Diplomacy³||
+Federation|Klingon|Romulan|Dominion
+:-:|:-:|:-:|:-:
+Duty¹|||Jem'Hadar
+Dress|||Diplomatic
+Off-Duty|||Off-Duty
+Holiday|||Alliance
+Covert|||
+Mirror|||
+Temporal²|||
+Klingon Alliance³|||
+Romulan Diplomacy³|||
 
 ¹ Note: Often the same as the bridge officers. Sometimes a single black element is white to differntiate captain from crew (e.g. the third colour of the racing uniform jacket).
 
