@@ -15,6 +15,7 @@ Image|Set
 ![Floragato](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SV02/SV02_EN_197.png)|![Paldea Evolved](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sv02-expansion-symbol.png)<br/>197/193
 **Meowscarada**|*#0908*
 ![Meowscarada ex](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SVP/SVP_EN_78.png)|![Scarlet & Violet Promo](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/svp-expansion-symbol.png)<br/>78
+![Meowscarada ex](https://assets.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SV02/SV02_EN_256.png)|![Paldea Evolved](https://www.pokemon.com/static-assets/content-assets/cms-en-uk/img/tcg/expansion-symbols/_40x40/sv02-expansion-symbol.png)<br/>256/193
 ![Meowscarada ex](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SV02/SV02_EN_271.png)|![Paldea Evolved](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sv02-expansion-symbol.png)<br/>271/193
 **Fuecoco**|*#0909*
 ![Fuecoco](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SVP/SVP_EN_2.png)|![Scarlet & Violet Promo](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/svp-expansion-symbol.png)<br/>2
@@ -73,13 +74,15 @@ Image|Set
 ![Pawmi](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SV07/SV07_EN_56.png)|![Stellar Crown](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sv07-expansion-symbol.png)<br/>56/175
 **Pawmo**|*#0922*
 ![Pawmo](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SV01/SV01_EN_75.png)|![Scarlet & Violet](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sv01-expansion-symbol.png)<br/>75/198
+![Pawmo](https://assets.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SV02/SV02_EN_75.png)|![Paldea Evolved](https://www.pokemon.com/static-assets/content-assets/cms-en-uk/img/tcg/expansion-symbols/_40x40/sv02-expansion-symbol.png)<br/>75/193
 **Pawmot**|*#0923*
 ![Pawmot](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SV01/SV01_EN_76.png)|![Scarlet & Violet](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sv01-expansion-symbol.png)<br/>76/198
 ![Pawmot](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SV02/SV02_EN_76.png)|![Paldea Evolved](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sv02-expansion-symbol.png)<br/>76/193
 ![Pawmot ex](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SV03/SV03_EN_73.png)|![Obsidian Flames](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sv03-expansion-symbol.png)<br/>73/227
 **Tandemaus**|*#0924*
-![Tandemaus](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SV02/SV02_EN_166.png)|![Paldea Evolved](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sv02-expansion-symbol.png)<br/>166/193
 ![Tandemaus](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SV01/SV01_EN_160.png)|![Scarlet & Violet](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sv01-expansion-symbol.png)<br/>160/198
+![Tandemaus](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SV02/SV02_EN_166.png)|![Paldea Evolved](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sv02-expansion-symbol.png)<br/>166/193
+![Tandemaus](https://assets.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SV02/SV02_EN_167.png)|![Paldea Evolved](https://www.pokemon.com/static-assets/content-assets/cms-en-uk/img/tcg/expansion-symbols/_40x40/sv02-expansion-symbol.png)<br/>167/193
 ![Tandemaus](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SV04/SV04_EN_153.png)|![Paradox Rift](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sv04-expansion-symbol.png)<br/>153/182
 ![Tandemaus](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SV4PT5/SV4PT5_EN_73.png)|![Paldean Fates](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sv4pt5-expansion-symbol.png)<br/>73/91
 **Maushold**|*#0925*
