@@ -258,6 +258,7 @@ Image|Set
 **Mismagius**|*#0429*
 ![Mismagius](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/HGSS3/HGSS3_EN_19.png)|![HS—Undaunted](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/hgss3-expansion-symbol.png)<br/>19/91
 ![Mismagius](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SM4/SM4_EN_40.png)|![Crimson Invasion](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sm4-expansion-symbol.png)<br/>40/111
+![Mismagius](https://assets.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SWSH10/SWSH10_EN_59.png)|![Astral Radiance](https://www.pokemon.com/static-assets/content-assets/cms-en-uk/img/tcg/expansion-symbols/_40x40/swsh10-expansion-symbol.png)<br/>59/189
 ![Mismagius](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SWSH12/SWSH12_EN_64.png)|![Silver Tempest](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/swsh12-expansion-symbol.png)<br/>64/195
 ![Mismagius](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SV02/SV02_EN_88.png)|![Paldea Evolved](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sv02-expansion-symbol.png)<br/>88/193
 **Honchkrow**|*#0430*
@@ -634,6 +635,7 @@ Giratina LV. X|DP38
 **Darkrai**|*#0491*
 ![Darkrai](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/XYP/XYP_EN_XY194.png)|![XY—Promo](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/black-star-promo.png)<br/>XY194
 ![Darkrai](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SM3/SM3_EN_87.png)|![Burning Shadows](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sm3-expansion-symbol.png)<br/>87/147
+![Darkrai](https://assets.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SWSH3/SWSH3_EN_105.png)|![Darkness Ablaze](https://www.pokemon.com/static-assets/content-assets/cms-en-uk/img/tcg/expansion-symbols/_40x40/swsh3-expansion-symbol.png)<br/>105/189
 ![Darkrai](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SWSH8/SWSH8_EN_167.png)|![Fusion Strike](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/swsh8-expansion-symbol.png)<br/>167/264
 ![Darkrai](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SWSH11/SWSH11_EN_120.png)|![Lost Origin](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/swsh11-expansion-symbol.png)<br/>120/196
 ![Darkrai](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SV03/SV03_EN_136.png)|![Obsidian Flames](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sv03-expansion-symbol.png)<br/>136/227

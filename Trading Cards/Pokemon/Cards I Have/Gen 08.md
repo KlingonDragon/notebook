@@ -248,6 +248,7 @@ Image|Set
 ![Hattrem](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SWSH35/SWSH35_EN_19.png)|![Champion’s Path](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/swsh35-expansion-symbol.png)<br/>19/73
 ![Hattrem](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SWSH6/SWSH6_EN_72.png)|![Chilling Reign](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/swsh6-expansion-symbol.png)<br/>72/198
 **Hatterene**|*#0858*
+![Hatterene](https://assets.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SWSH6/SWSH6_EN_73.png)|![Chilling Reign](https://www.pokemon.com/static-assets/content-assets/cms-en-uk/img/tcg/expansion-symbols/_40x40/swsh6-expansion-symbol.png)<br/>73/198
 ![Hatterene V](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SWSH12PT5/SWSH12PT5_EN_65.png)|![Crown Zenith](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/swsh12pt5-expansion-symbol.png)<br/>65/159
 **Impidimp**|*#0859*
 ![Impidimp](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SWSH2/SWSH2_EN_123.png)|![Rebel Clash](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/swsh2-expansion-symbol.png)<br/>123/192
