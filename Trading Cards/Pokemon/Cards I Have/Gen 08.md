@@ -336,6 +336,7 @@ Image|Set
 ![Eiscue](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SWSH7/SWSH7_EN_47.png)|![Evolving Skies](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/swsh7-expansion-symbol.png)<br/>47/203
 ![Eiscue](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SWSH9/SWSH9_EN_44.png)|![Brilliant Stars](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/swsh9-expansion-symbol.png)<br/>44/172
 ![Eiscue](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SV02/SV02_EN_48.png)|![Paldea Evolved](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sv02-expansion-symbol.png)<br/>48/193
+![Eiscue](https://assets.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SV02/SV02_EN_205.png)|![Paldea Evolved](https://www.pokemon.com/static-assets/content-assets/cms-en-uk/img/tcg/expansion-symbols/_40x40/sv02-expansion-symbol.png)<br/>205/193
 ![Eiscue ex](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SV03/SV03_EN_222.png)|![Obsidian Flames](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sv03-expansion-symbol.png)<br/>222/227
 **Indeedee**|*#0876*
 ![Indeedee](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SWSH2/SWSH2_EN_88.png)|![Rebel Clash](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/swsh2-expansion-symbol.png)<br/>88/192

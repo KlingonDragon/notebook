@@ -620,6 +620,7 @@ Giratina LV. X|DP38
 ![Cresselia](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/XY8/XY8_EN_70.png)|![XY–BREAKthrough](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/xy8-expansion-symbol.png)<br/>70/162
 ![Cresselia](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SM11/SM11_EN_87.png)|![Unified Minds](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sm11-expansion-symbol.png)<br/>87/236
 ![Cresselia](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SV6PT5/SV6PT5_EN_21.png)|![Shrouded Fable](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sv6pt5-expansion-symbol.png)<br/>21/64
+![Cresselia](https://assets.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SV6PT5/SV6PT5_EN_71.png)|![Shrouded Fable](https://www.pokemon.com/static-assets/content-assets/cms-en-uk/img/tcg/expansion-symbols/_40x40/sv6pt5-expansion-symbol.png)<br/>71/64
 **Phione**|*#0489*
 ![Phione](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SM12/SM12_EN_57.png)|![Cosmic Eclipse](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sm12-expansion-symbol.png)<br/>57/236
 ![Phione](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SV06/SV06_EN_55.png)|![Twilight Masquerade](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sv06-expansion-symbol.png)<br/>55/167

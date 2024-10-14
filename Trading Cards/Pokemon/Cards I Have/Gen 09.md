@@ -416,6 +416,7 @@ Cetitan|M23<br/>005/015
 ![Hearthflame Mask Ogerpon ex](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SV06/SV06_EN_40.png)|![Twilight Masquerade](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sv06-expansion-symbol.png)<br/>40/167
 ![Wellspring Mask Ogerpon ex](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SV06/SV06_EN_64.png)|![Twilight Masquerade](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sv06-expansion-symbol.png)<br/>64/167
 ![Cornerstone Mask Ogerpon ex](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SV06/SV06_EN_112.png)|![Twilight Masquerade](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sv06-expansion-symbol.png)<br/>112/167
+![Hearthflame Mask Ogerpon ex](https://assets.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SV06/SV06_EN_192.png)|![Twilight Masquerade](https://www.pokemon.com/static-assets/content-assets/cms-en-uk/img/tcg/expansion-symbols/_40x40/sv06-expansion-symbol.png)<br/>192/167
 **Archaludon**|*#1018*
 ![Archaludon](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SV07/SV07_EN_107.png)|![Stellar Crown](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sv07-expansion-symbol.png)<br/>107/175
 **Hydrapple**|*#1019*

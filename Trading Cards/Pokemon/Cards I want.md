@@ -22,6 +22,7 @@ Absol-EX|For my MAbsol-EX
 Latios-EX|For my MLatios-EX
 Groudon-EX|If I get Primal Groudon-EX
 Leafeon V|If I get Leafeon VSTAR
+Hisuian Samurott V|For my Hisuian Samurott VSTAR
 
 ## Specific Cards
 
