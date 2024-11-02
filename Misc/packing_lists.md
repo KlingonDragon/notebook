@@ -12,6 +12,7 @@
 - [ ] Braces $(\times 1)$
 - [ ] Tie $(\times 1)$
 - [ ] Pocket Square $(\times 1)$
+- [ ] Pocket Watch $(\times 1)$
 ### Other
 - [ ] Passport
 - [ ] EHIC
@@ -40,6 +41,8 @@
 - [ ] Shower Gel
 - [ ] Deodorant
 - [ ] Hairbrush
+- [ ] Toothbrush
+- [ ] Toothpaste
 ### Technology
 - [ ] Laptop
 - [ ] USB-C Laptop Chargers $(\times 2)$
