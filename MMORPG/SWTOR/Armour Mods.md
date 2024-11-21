@@ -9,3 +9,4 @@
 **Trooper (Commando)**|Resistive x1|Resistive x7|Lethal B x8|Immunity x6
 **Smuggler (Ruffian)**|Resistive x2|Resistive x7|Lethal B x9|Barrage x3, Immunity x1, Savant x3
 **Inquisitor (Sorcerer)**|Resistive x1|Resistive x8|Lethal B x9|Barrage x7
+**Jedi Marauder**|Resistive x2|Resistive x7|Lethal B x9|Immunity x7

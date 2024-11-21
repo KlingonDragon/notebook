@@ -50,6 +50,7 @@ Image|Set
 **Quaquaval**|*#0914*
 ![Quaquaval](https://assets.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SV08/SV08_EN_52.png)|![Surging Sparks](https://www.pokemon.com/static-assets/content-assets/cms-en-uk/img/tcg/expansion-symbols/_40x40/sv08-expansion-symbol.png)<br/>52/191
 ![Quaquaval ex](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SVP/SVP_EN_84.png)|![Scarlet & Violet Promo](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/svp-expansion-symbol.png)<br/>84
+![Quaquaval ex](https://assets.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SV02/SV02_EN_260.png)|![Paldea Evolved](https://www.pokemon.com/static-assets/content-assets/cms-en-uk/img/tcg/expansion-symbols/_40x40/sv02-expansion-symbol.png)<br/>260/193
 ![Quaquaval ex](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SV02/SV02_EN_235.png)|![Paldea Evolved](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sv02-expansion-symbol.png)<br/>235/193
 **Lechonk**|*#0915*
 ![Lechonk](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SV01/SV01_EN_154.png)|![Scarlet & Violet](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sv01-expansion-symbol.png)<br/>154/198
@@ -372,6 +373,7 @@ Cetitan|M23<br/>005/015
 **Gholdengo**|*#1000*
 ![Gholdengo](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SV4PT5/SV4PT5_EN_67.png)|![Paldean Fates](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sv4pt5-expansion-symbol.png)<br/>67/91
 ![Gholdengo](https://assets.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SV08/SV08_EN_131.png)|![Surging Sparks](https://www.pokemon.com/static-assets/content-assets/cms-en-uk/img/tcg/expansion-symbols/_40x40/sv08-expansion-symbol.png)<br/>131/191
+![Gholdengo ex](https://assets.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SV04/SV04_EN_252.png)|![Paradox Rift](https://www.pokemon.com/static-assets/content-assets/cms-en-uk/img/tcg/expansion-symbols/_40x40/sv04-expansion-symbol.png)<br/>252/182
 **Wo-Chien**|*#1001*
 ![Wo-Chien](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SV04/SV04_EN_18.png)|![Paradox Rift](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sv04-expansion-symbol.png)<br/>18/182
 ![Wo-Chien](https://assets.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SV08/SV08_EN_15.png)|![Surging Sparks](https://www.pokemon.com/static-assets/content-assets/cms-en-uk/img/tcg/expansion-symbols/_40x40/sv08-expansion-symbol.png)<br/>15/191

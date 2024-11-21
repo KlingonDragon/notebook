@@ -9,8 +9,6 @@ Cards where the specific set/artwork doesn't matter
 - Gen IV
     - Chingling
     - Rampardos
-- Gen VI
-    - Aurorus
 
 ### Other reasons
 Card|Why I want it
@@ -22,7 +20,6 @@ Absol-EX|For my MAbsol-EX
 Latios-EX|For my MLatios-EX
 Groudon-EX|If I get Primal Groudon-EX
 Leafeon V|If I get Leafeon VSTAR
-Hisuian Samurott V|For my Hisuian Samurott VSTAR
 
 ## Specific Cards
 
@@ -31,7 +28,6 @@ Image|Set|Why I want it
 ![Squirtle](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SV3PT5/SV3PT5_EN_170.png)|![151](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sv3pt5-expansion-symbol.png)<br/>170/165|To go with Wartortle
 ![Raichu](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SV02/SV02_EN_211.png)|![Paldea Evolved](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sv02-expansion-symbol.png)<br/>211/193
 ![Arcanine BREAK](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/XYP/XYP_EN_XY180.png)|![XY—Promo](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/black-star-promo.png)<br/>XY180|Jumbo
-![Gastly](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SV05/SV05_EN_177.png)|![Temporal Forces](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sv05-expansion-symbol.png)<br/>177/162
 ![Chansey](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SV06/SV06_EN_187.png)|![Twilight Masquerade](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sv06-expansion-symbol.png)<br/>187/167
 ![Eevee](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SV06/SV06_EN_188.png)|![Twilight Masquerade](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sv06-expansion-symbol.png)<br/>188/167
 ![Vaporeon VMAX](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SWSHP/SWSHP_EN_SWSH182.png)|![Sword & Shield Promo](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/swshp-expansion-symbol.png)<br/>SWSH182|Jumbo
@@ -48,7 +44,6 @@ Totodile|Neo Genesis<br/>81/111|Jumbo
 ![Ralts](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SV01/SV01_EN_211.png)|![Scarlet & Violet](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sv01-expansion-symbol.png)<br/>211/198|To go with Kirlia
 MCamerupt-EX|Promo|Jumbo
 ![Flygon-EX](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/XYP/XYP_EN_XY61.png)|![XY—Promo](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/black-star-promo.png)<br/>XY61|Jumbo
-![Castform Sunny Form](https://assets.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SV08/SV08_EN_195.png)|![Surging Sparks](https://www.pokemon.com/static-assets/content-assets/cms-en-uk/img/tcg/expansion-symbols/_40x40/sv08-expansion-symbol.png)<br/>195/191
 ![Primal Groudon-EX](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/XY5/XY5_EN_151.png)|![XY—Primal Clash](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/xy5-expansion-symbol.png)<br/>151/160|To go with Primal Kyogre
 ![Mismagius](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SV02/SV02_EN_212.png)|![Paldea Evolved](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sv02-expansion-symbol.png)<br/>212/193
 ![Leafeon VSTAR](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SWSHP/SWSHP_EN_SWSH195.png)|![Sword & Shield Promo](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/swshp-expansion-symbol.png)<br/>SWSH195|Jumbo
@@ -64,7 +59,6 @@ Zoroark and Legendary Pokémon|Jumbo Promo|I can't find my old one
 ![Chespin](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/XYP/XYP_EN_XY01.png)|![XY—Promo](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/black-star-promo.png)<br/>XY01|Jumbo
 ![Fennekin](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/XYP/XYP_EN_XY02.png)|![XY—Promo](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/black-star-promo.png)<br/>XY02|Jumbo
 ![Froakie](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/XYP/XYP_EN_XY03.png)|![XY—Promo](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/black-star-promo.png)<br/>XY03|Jumbo
-![Vivillon](https://assets.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SV08/SV08_EN_193.png)|![Surging Sparks](https://www.pokemon.com/static-assets/content-assets/cms-en-uk/img/tcg/expansion-symbols/_40x40/sv08-expansion-symbol.png)<br/>193/191
 ![Rowlet](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SMP/SMP_EN_SM01.png)|![Sun & Moon Promo](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/smp-expansion-symbol.png)<br/>SM01|Jumbo
 ![Litten](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SMP/SMP_EN_SM02.png)|![Sun & Moon Promo](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/smp-expansion-symbol.png)<br/>SM02|Jumbo
 ![Popplio](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SMP/SMP_EN_SM03.png)|![Sun & Moon Promo](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/smp-expansion-symbol.png)<br/>SM03|Jumbo
@@ -73,6 +67,4 @@ Zoroark and Legendary Pokémon|Jumbo Promo|I can't find my old one
 ![Sobble](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SWSHP/SWSHP_EN_SWSH003.png)|![Sword & Shield Promo](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/swshp-expansion-symbol.png)<br/>SWSH003|Jumbo
 ![Crocalor](https://assets.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SV02/SV02_EN_202.png)|![Paldea Evolved](https://www.pokemon.com/static-assets/content-assets/cms-en-uk/img/tcg/expansion-symbols/_40x40/sv02-expansion-symbol.png)<br/>202/193|To go with Fuecoco
 ![Skeledirge ex](https://assets.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SV02/SV02_EN_258.png)|![Paldea Evolved](https://www.pokemon.com/static-assets/content-assets/cms-en-uk/img/tcg/expansion-symbols/_40x40/sv02-expansion-symbol.png)<br/>258/193|To go with Fuecoco
-![Quaquaval ex](https://assets.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SV02/SV02_EN_260.png)|![Paldea Evolved](https://www.pokemon.com/static-assets/content-assets/cms-en-uk/img/tcg/expansion-symbols/_40x40/sv02-expansion-symbol.png)<br/>260/193|To go with Quaxly and Quaxwell
 ![Greavard](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SV01/SV01_EN_214.png)|![Scarlet & Violet](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sv01-expansion-symbol.png)<br/>214/198
-![Gholdengo ex](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SV04/SV04_EN_252.png)|![Paradox Rift](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sv04-expansion-symbol.png)<br/>252/182|To go with Gimmighoul
