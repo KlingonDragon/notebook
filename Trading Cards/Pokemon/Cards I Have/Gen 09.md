@@ -209,6 +209,7 @@ Image|Set
 ![Flittle](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SV07/SV07_EN_68.png)|![Stellar Crown](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sv07-expansion-symbol.png)<br/>68/175
 ![Flittle](https://assets.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SV08/SV08_EN_94.png)|![Surging Sparks](https://www.pokemon.com/static-assets/content-assets/cms-en-uk/img/tcg/expansion-symbols/_40x40/sv08-expansion-symbol.png)<br/>94/191
 **Espathra**|*#0956*
+![Espathra](https://assets.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SV04/SV04_EN_81.png)|![Paradox Rift](https://www.pokemon.com/static-assets/content-assets/cms-en-uk/img/tcg/expansion-symbols/_40x40/sv04-expansion-symbol.png)<br/>81/182
 ![Espathra](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SV07/SV07_EN_69.png)|![Stellar Crown](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sv07-expansion-symbol.png)<br/>69/175
 ![Espathra](https://assets.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SV08/SV08_EN_95.png)|![Surging Sparks](https://www.pokemon.com/static-assets/content-assets/cms-en-uk/img/tcg/expansion-symbols/_40x40/sv08-expansion-symbol.png)<br/>95/191
 ![Espathra ex](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SV4PT5/SV4PT5_EN_214.png)|![Paldean Fates](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sv4pt5-expansion-symbol.png)<br/>214/91
