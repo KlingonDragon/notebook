@@ -203,6 +203,7 @@ Image|Set
 ![Rabsca](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SV05/SV05_EN_24.png)|![Temporal Forces](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sv05-expansion-symbol.png)<br/>24/162
 ![Rabsca](https://assets.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SV08/SV08_EN_14.png)|![Surging Sparks](https://www.pokemon.com/static-assets/content-assets/cms-en-uk/img/tcg/expansion-symbols/_40x40/sv08-expansion-symbol.png)<br/>14/191
 **Flittle**|*#0955*
+![Flittle](https://assets.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SV01/SV01_EN_102.png)|![Scarlet & Violet](https://www.pokemon.com/static-assets/content-assets/cms-en-uk/img/tcg/expansion-symbols/_40x40/sv01-expansion-symbol.png)<br/>102/198
 ![Flittle](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SV04/SV04_EN_79.png)|![Paradox Rift](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sv04-expansion-symbol.png)<br/>79/182
 ![Flittle](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SV04/SV04_EN_80.png)|![Paradox Rift](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sv04-expansion-symbol.png)<br/>80/182
 ![Flittle](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SV4PT5/SV4PT5_EN_41.png)|![Paldean Fates](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sv4pt5-expansion-symbol.png)<br/>41/91
@@ -299,6 +300,7 @@ Cetitan|M23<br/>005/015
 ![Dondozo](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SV01/SV01_EN_207.png)|![Scarlet & Violet](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sv01-expansion-symbol.png)<br/>207/198
 ![Dondozo](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SV04/SV04_EN_55.png)|![Paradox Rift](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sv04-expansion-symbol.png)<br/>55/182
 **Tatsugiri**|*#0978*
+![Tatsugiri](https://assets.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SV01/SV01_EN_62.png)|![Scarlet & Violet](https://www.pokemon.com/static-assets/content-assets/cms-en-uk/img/tcg/expansion-symbols/_40x40/sv01-expansion-symbol.png)<br/>62/198
 ![Tatsugiri](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SV04/SV04_EN_141.png)|![Paradox Rift](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sv04-expansion-symbol.png)<br/>141/182
 ![Tatsugiri](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SV06/SV06_EN_131.png)|![Twilight Masquerade](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sv06-expansion-symbol.png)<br/>131/167
 ![Tatsugiri](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SV06/SV06_EN_186.png)|![Twilight Masquerade](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sv06-expansion-symbol.png)<br/>186/167
