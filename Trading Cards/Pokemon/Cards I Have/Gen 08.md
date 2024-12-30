@@ -40,6 +40,7 @@ Image|Set
 ![Cinderace VMAX](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SWSH2/SWSH2_EN_36.png)|![Rebel Clash](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/swsh2-expansion-symbol.png)<br/>36/192
 ![Cinderace VMAX](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SWSH45/SWSH45_EN_19.png)|![Shining Fates](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/swsh45-expansion-symbol.png)<br/>19/72
 ![Cinderace VMAX](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SWSH8/SWSH8_EN_45.png)|![Fusion Strike](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/swsh8-expansion-symbol.png)<br/>45/264
+![Cinderace ex](https://assets.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SVP/SVP_EN_163.png)|![Scarlet & Violet Promo](https://www.pokemon.com/static-assets/content-assets/cms-en-uk/img/tcg/expansion-symbols/_40x40/svp-expansion-symbol.png)<br/>163
 ![Cinderace ex](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SV07/SV07_EN_28.png)|![Stellar Crown](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sv07-expansion-symbol.png)<br/>28/175
 ![Cinderace ex](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SV07/SV07_EN_157.png)|![Stellar Crown](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sv07-expansion-symbol.png) 157/175
 **Sobble**|*#0816*
@@ -87,6 +88,7 @@ Image|Set
 ![Dottler](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SWSH1/SWSH1_EN_18.png)|![Sword & Shield](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/swsh1-expansion-symbol.png)<br/>18/202
 ![Dottler](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SWSH5/SWSH5_EN_64.png)|![Battle Styles](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/swsh5-expansion-symbol.png)<br/>64/163
 ![Dottler](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SWSH11/SWSH11_EN_19.png)|![Lost Origin](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/swsh11-expansion-symbol.png)<br/>19/196
+![Dottler](https://assets.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SV04/SV04_EN_11.png)|![Paradox Rift](https://www.pokemon.com/static-assets/content-assets/cms-en-uk/img/tcg/expansion-symbols/_40x40/sv04-expansion-symbol.png)<br/>11/182
 **Orbeetle**|*#0826*
 ![Orbeetle](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SWSH11/SWSH11_EN_20.png)|![Lost Origin](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/swsh11-expansion-symbol.png)<br/>20/196
 ![Orbeetle V](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SWSH4/SWSH4_EN_20.png)|![Vivid Voltage](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/swsh4-expansion-symbol.png)<br/>20/185
@@ -102,6 +104,7 @@ Image|Set
 **Thievul**|*#0828*
 ![​Thievul](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SWSH1/SWSH1_EN_126.png)|![Sword & Shield](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/swsh1-expansion-symbol.png)<br/>126/202
 ![​Thievul](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SWSH45/SWSH45_EN_48.png)|![Shining Fates](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/swsh45-expansion-symbol.png)<br/>48/72
+![Thievul](https://assets.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SV04/SV04_EN_120.png)|![Paradox Rift](https://www.pokemon.com/static-assets/content-assets/cms-en-uk/img/tcg/expansion-symbols/_40x40/sv04-expansion-symbol.png)<br/>120/182
 **Gossifleur**|*#0829*
 ![Gossifleur](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SWSH1/SWSH1_EN_20.png)|![Sword & Shield](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/swsh1-expansion-symbol.png)<br/>20/202
 ![Gossifleur](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SWSH45/SWSH45_EN_14.png)|![Shining Fates](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/swsh45-expansion-symbol.png)<br/>14/72
@@ -344,6 +347,7 @@ Image|Set
 ![Eiscue](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SWSH9/SWSH9_EN_44.png)|![Brilliant Stars](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/swsh9-expansion-symbol.png)<br/>44/172
 ![Eiscue](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SV02/SV02_EN_48.png)|![Paldea Evolved](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sv02-expansion-symbol.png)<br/>48/193
 ![Eiscue](https://assets.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SV02/SV02_EN_205.png)|![Paldea Evolved](https://www.pokemon.com/static-assets/content-assets/cms-en-uk/img/tcg/expansion-symbols/_40x40/sv02-expansion-symbol.png)<br/>205/193
+![Eiscue ex](https://assets.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SV03/SV03_EN_42.png)|![Obsidian Flames](https://www.pokemon.com/static-assets/content-assets/cms-en-uk/img/tcg/expansion-symbols/_40x40/sv03-expansion-symbol.png)<br/>42/227
 ![Eiscue ex](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SV03/SV03_EN_222.png)|![Obsidian Flames](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sv03-expansion-symbol.png)<br/>222/227
 **Indeedee**|*#0876*
 ![Indeedee](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SWSH2/SWSH2_EN_88.png)|![Rebel Clash](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/swsh2-expansion-symbol.png)<br/>88/192

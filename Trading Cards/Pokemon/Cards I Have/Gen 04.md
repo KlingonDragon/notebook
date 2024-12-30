@@ -199,6 +199,7 @@ Image|Set
 ![Buizel](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SWSH45/SWSH45_EN_22.png)|![Shining Fates](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/swsh45-expansion-symbol.png)<br/>22/72
 ![Buizel](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SWSH9/SWSH9_EN_38.png)|![Brilliant Stars](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/swsh9-expansion-symbol.png)<br/>38/172
 ![Buizel](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SV01/SV01_EN_46.png)|![Scarlet & Violet](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sv01-expansion-symbol.png)<br/>46/198
+![Buizel](https://assets.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SV03/SV03_EN_48.png)|![Obsidian Flames](https://www.pokemon.com/static-assets/content-assets/cms-en-uk/img/tcg/expansion-symbols/_40x40/sv03-expansion-symbol.png)<br/>48/227
 **Floatzel**|*#0419*
 ![Floatzel LV. 27](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/PL3/PL3_EN_58.png)|![Platinum—Supreme Victors](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/pl3-exp-symbol.png)<br/>58/153
 ![Floatzel](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/BW6/BW6_EN_33.png)|![Black & White—Dragons Exalted](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/bw6-expansion-symbol.png)<br/>33/124
@@ -316,6 +317,7 @@ Image|Set
 ![Bronzong](https://assets.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SV08/SV08_EN_127.png)|![Surging Sparks](https://www.pokemon.com/static-assets/content-assets/cms-en-uk/img/tcg/expansion-symbols/_40x40/sv08-expansion-symbol.png)<br/>127/191
 **Bonsly**|*#0438*
 ![Bonsly LV. 6](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/DP1/DP1_EN_71.png)|![Diamond & Pearl](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/dp1-exp-symbol.png)<br/>71/130
+![Bonsly](https://assets.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SV03/SV03_EN_110.png)|![Obsidian Flames](https://www.pokemon.com/static-assets/content-assets/cms-en-uk/img/tcg/expansion-symbols/_40x40/sv03-expansion-symbol.png)<br/>110/227
 **Mime Jr.**|*#0439*
 ![Mime Jr. LV. 5](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/DP1/DP1_EN_90.png)|![Diamond & Pearl](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/dp1-exp-symbol.png)<br/>90/130
 ![Mime Jr.](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/COL1/COL1_EN_47.png)|![Call of Legends](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/col1-expansion-symbol.png)<br/>47/95
@@ -468,6 +470,7 @@ Image|Set
 ![Magnezone](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SMA/SMA_EN_SV29.png)|![Yellow A Alternate](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sma-expansion-symbol.png)<br/>SV29/SV94
 ![Magnezone](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SM5/SM5_EN_83.png)|![Ultra Prism](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sm5-expansion-symbol.png)<br/>83/138
 ![Magnezone](https://assets.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SV08/SV08_EN_60.png)|![Surging Sparks](https://www.pokemon.com/static-assets/content-assets/cms-en-uk/img/tcg/expansion-symbols/_40x40/sv08-expansion-symbol.png)<br/>60/191
+![Magnezone](https://assets.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SV03/SV03_EN_65.png)|![Obsidian Flames](https://www.pokemon.com/static-assets/content-assets/cms-en-uk/img/tcg/expansion-symbols/_40x40/sv03-expansion-symbol.png)<br/>65/227
 ![Magnezone V](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SWSH11/SWSH11_EN_56.png)|![Lost Origin](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/swsh11-expansion-symbol.png)<br/>56/196
 ![Magnezone ex](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SV01/SV01_EN_226.png)|![Scarlet & Violet](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sv01-expansion-symbol.png)<br/>226/198
 **Lickilicky**|*#0463*
