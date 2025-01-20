@@ -1,5 +1,5 @@
 # Offline
-The use of the word "Offline" at work bothers me. To me, "Offline" means "not on/using the internet" but people use it to mean "outside this meeting but using a messaging app or an email both of which use the internet in some way but I'm lazy so I'm going to use a word that has the opposite meaning and hope you understand me because if we all use the wrong word eventually it will become accepted despite making no logical sense".
+The use of the word "Offline" at work bothers me. To me, "Offline" means "not on/using the internet" but people use it to mean "outside this meeting", usually using an online messaging app or an email. Using a word that has the opposite meaning and hoping everyone understands eventually leading to everyone using the wrong word until, eventually, it will become accepted despite making no logical sense".
 
 
 ## "Offline" in dictionaries

@@ -1,4 +1,4 @@
-# My Furure
+# My Future
 (AKA: "Where do you want to be in 5 years?")
 
 

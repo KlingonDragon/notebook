@@ -48,7 +48,7 @@
 - **Thursday 14 September 1752**
 - Thursday 1 January 1753
 - Thursday 3 September 1753
-> [Calendar (New Style) Act 1750](https://www.legislation.gov.uk/apgb/Geo2/24/23/section/1.): ...and that the natural day next immediately following the said second day of September shall be called, reckoned, and accounted to be the fourteenth day of September, omitting for that time only the eleven intermediate nominal days of the common calendar; and that the several natural days which shall follow and succeed next after the said fourteenth day of September shall be respectively called, reckoned, and numbered forwards in numerical order from the said fourteenth day of September, according to the order and succession of days now used in the present calendar...)
+> [Calendar (New Style) Act 1750](https://www.legislation.gov.uk/apgb/Geo2/24/23/section/1.): ...and that the natural day next immediately following the said second day of September shall be called, reckoned, and accounted to be the fourteenth day of September, omitting for that time only the eleven intermediate nominal days of the common calendar; and that the several natural days which shall follow and succeed next after the said fourteenth day of September shall be respectively called, reckoned, and numbered forwards in numerical order from the said fourteenth day of September, according to the order and succession of days now used in the present calendar...
 
 # Which of the following countries does NOT have any territorial claims in Antarctica?
 - Argentina
@@ -68,11 +68,12 @@
 - Vaadwaur
 - **Kaminoan**
 
-# In what language was Karl Marx' Manifesto of the Communist Party origionally published?
+# In what language was Karl Marx' "Manifesto of the Communist Party" origionally published?
 - English
 - French
 - **German**
 - Russian
+> Manifest der Kommunistischen Partei
 
 # What is the common name of the Ursus arctos?
 - Polar Bear
@@ -92,7 +93,7 @@
 - **Paris**
 - Vulcan
 
-# In the classic British sitcom "Only Fools and Horses" what colour is the trotters' three wheeled van?
+# In the classic British sitcom "Only Fools and Horses", what colour was the trotters' three wheeled van?
 - Blue
 - Red
 - White
@@ -171,7 +172,7 @@
 - **Grey whale (Eschrichtius robustus)**
 - Sperm whale (Physeter macrocephalus)
 
-# In The Hitchhiker's Guide to the Galaxy, what is the Answer to the Ultimate Question of Life, The Universe, and Everything?
+# In The Hitchhiker's Guide to the Galaxy, what is the "Answer to the Ultimate Question of Life, The Universe, and Everything"?
 - Love
 - **42**
 - Mostly Harmless
@@ -191,10 +192,10 @@
 - **Food and Drug Administration**
 
 # What is the hexadecimal code for the colour yellow?
-- **#FFFF00**
-- #YELLOW
-- #0000FF
-- #27FFFF
+- **`#FFFF00`**
+- `#YELLOW`
+- `#0000FF`
+- `#27FFFF`
 
 # Which modern clothing company produced and sold Nazi uniforms to the wartime German government?
 - Adidas
@@ -214,7 +215,7 @@
 - Scotland and France
 - England and The Netherlands
 
-# In physics, if v=ds/dt and a=dv/dt, what does s represent?
+# In physics, if `v=ds/dt` and `a=dv/dt`, what does s represent?
 - **Displacement**
 - Energy
 - Mass

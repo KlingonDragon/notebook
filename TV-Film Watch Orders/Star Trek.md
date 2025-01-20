@@ -41,11 +41,12 @@ Most¹ of Star Trek, in order².
 - Star Trek IV: The Voyage Home
 - Star Trek V: The Final Frontier
 - Star Trek VI: The Undiscovered Country
+- Star Trek: Section 31
 - Star Trek: The Next Generation | S1-6
 - Star Trek: Deep Space Nine | S1
 - Star Trek: The Next Generation | S7
 - Star Trek: Deep Space Nine | S2
-- Star Trek Generations
+- Star Trek Generations³
 - Star Trek: Deep Space Nine | S3
 - Star Trek: Voyager | S1-2
 - Star Trek: Deep Space Nine | S4
@@ -61,7 +62,7 @@ Most¹ of Star Trek, in order².
 - Star Trek: Lower Decks
 - Star Trek: Prodigy
 - Star Trek: Short Treks | S2E6: "Children of Mars"
-- Star Trek (2009)³
+- Star Trek (2009)⁴
 - Star Trek Into Darkness
 - Star Trek Beyond
 - Star Trek: Picard
@@ -74,4 +75,6 @@ Most¹ of Star Trek, in order².
 
 ² Note: I have simplified the overlaps between TNG, DS9, VOY, and the TNG Films to whole seasons.
 
-³ Note: I have inserted the Kelvin Timeline Films here as this is the point in the Prime Timeline that the Prime timeline events of the first film take place.
+³ Note: While this filme has scenes set in another time, the bulk of it occurs at this point
+
+⁴ Note: I have inserted the Kelvin Timeline Films here as this is the point in the Prime Timeline that the Prime timeline events of the first film take place.
