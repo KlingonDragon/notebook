@@ -5,10 +5,10 @@
 
 Federation|Klingon|Romulan|Dominion
 :-:|:-:|:-:|:-:
-Duty¹|||Jem'Hadar
-Dress|||Diplomatic
-Off-Duty|||Off-Duty
-Holiday|||Alliance
+Duty¹|Duty⁴||Jem'Hadar
+Dress|Uniform⁴||Diplomatic
+Off-Duty|Diplomatic||Off-Duty
+Holiday|Off-Duty||Alliance
 Covert|||
 Mirror|||
 Temporal²|||
@@ -21,7 +21,9 @@ Romulan Diplomacy³|||
 
 ³ Note: Create when story progresses to alliance
 
-### Uniform Details
+⁴ Note: Unlike Starfleet, my KDF characters tend to have a personal outfit for normal activities and a more standard uniform for interacting with senior officers.
+
+### Bridge Officer Uniform Details
 #### Federation
 &nbsp;|Racing|Counselor|Sierra
 :-:|:-:|:-:|:-:
