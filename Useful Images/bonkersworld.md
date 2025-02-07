@@ -6,7 +6,7 @@ Image|URL|Useful For
 ![](https://bonkersworld.net/img/2011-09-18_code_reviews.png)|`https://bonkersworld.net/img/2011-09-18_code_reviews.png`|Code reviews
 ![](https://bonkersworld.net/img/2011-11-15_building_software.png)|`https://bonkersworld.net/img/2011-11-15_building_software.png`|How software evolves
 ![](https://bonkersworld.net/img/2011-12-14_priorities.png)|`https://bonkersworld.net/img/2011-12-14_priorities.png`|Bad time management
-1[](https://bonkersworld.net/img/2011-12-16_means_of_communication.png)|`https://bonkersworld.net/img/2011-12-16_means_of_communication.png`|Don't overcomplicate communication
+![](https://bonkersworld.net/img/2011-12-16_means_of_communication.png)|`https://bonkersworld.net/img/2011-12-16_means_of_communication.png`|Don't overcomplicate communication
 ![](https://bonkersworld.net/img/2012-01-30_agreement.png)|`https://bonkersworld.net/img/2012-01-30_agreement.png`|Read Ts&Cs
 ![](https://bonkersworld.net/img/2012-11-26_mobile_relationship.png)`https://bonkersworld.net/img/2012-11-26_mobile_relationship.png`|Phones=Bad
 ![](https://bonkersworld.net/img/2013-03-12_one_last_time.png)|`https://bonkersworld.net/img/2013-03-12_one_last_time.png`|Code takes time; don't get distracted
