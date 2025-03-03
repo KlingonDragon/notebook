@@ -17,6 +17,7 @@
 - [ ] Passport
 - [ ] EHIC
 - [ ] Phone
+- [ ] Headphones
 - [ ] Wallet
     - [ ] Debit Card
     - [ ] Oyster Card
@@ -30,8 +31,8 @@
 - [ ] Pants $(\times n)$
 - [ ] Socks $(\times n\text{\tiny{pairs}})$
 - [ ] Shirts $(\times n)$
-- [ ] Waistcoats $(\max 2)$
-- [ ] Braces $(\max 2)$
+- [ ] Waistcoats $(\times\min(\lfloor{n\over 3}\rfloor, 2))$
+- [ ] Braces $(\max 2\text{\tiny{pairs}})$
 - [ ] Ties $(\times\lfloor{1.5n}\rfloor)$
 - [ ] Pocket Squares $(\times\lfloor{1.5n}\rfloor)$
 - [ ] PJs $(\times\lceil{n\over 5}\rceil)$
@@ -45,9 +46,9 @@
 - [ ] Toothpaste
 ### Technology
 - [ ] Laptop
-- [ ] USB-C Laptop Chargers $(\times 2)$
-    - [ ] UK Plugs
-    - [ ] EU Plugs
+- [ ] USB-C Laptop Charger
+    - [ ] UK Plug
+    - [ ] EU Plug
 - [ ] EU/UK Adaptors $(\min 2)$
 ### Other
 - [ ] Empty carrier bag (laundry)
