@@ -12,11 +12,13 @@ Image|URL|Useful For
 ![](https://turnoff.us/image/en/inside-the-linux-kernel.png)|`https://turnoff.us/image/en/inside-the-linux-kernel.png`|Simplified view of how a linux OS works
 ![](https://turnoff.us/image/en/tdd-vs-ftt.png)|`https://turnoff.us/image/en/tdd-vs-ftt.png`|How we should do it.
 ![](https://turnoff.us/image/en/deployment-pipeline.png)|`https://turnoff.us/image/en/deployment-pipeline.png`|How we do it.
+![](https://turnoff.us/image/en/commit-messages.png)|`https://turnoff.us/image/en/commit-messages.png`|Bad commit messages
 
 ## Just for fun
 Image|URL
 :-:|:-:
 ![](https://turnoff.us/image/en/love-ecmascript6.png)|`https://turnoff.us/image/en/love-ecmascript6.png`
 ![](https://turnoff.us/image/en/jhamlet.png)|`https://turnoff.us/image/en/jhamlet.png`
+![](https://turnoff.us/image/en/hamlet-programmer.png)|`https://turnoff.us/image/en/hamlet-programmer.png`
 ![](https://turnoff.us/image/en/shebang.png)|`https://turnoff.us/image/en/shebang.png`
 ![](https://turnoff.us/image/en/chat-gpt-code-smell.jpeg)|`https://turnoff.us/image/en/chat-gpt-code-smell.jpeg`
