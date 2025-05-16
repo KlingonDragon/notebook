@@ -28,6 +28,7 @@ Image|URL|Useful For
 ![](https://www.monkeyuser.com/2022/anticipate/238-anticipate.png)|`https://www.monkeyuser.com/2022/anticipate/238-anticipate.png`|Don't hide errors
 ![](https://www.monkeyuser.com/2022/estimate/243-estimate.png)|`https://www.monkeyuser.com/2022/estimate/243-estimate.png`
 ![](https://www.monkeyuser.com/2022/complexity/247-complexity.png)|`https://www.monkeyuser.com/2022/complexity/247-complexity.png`|Simple is good
+![](https://www.monkeyuser.com/2023/would-you-rather/257-would-you-rather.png)|`https://www.monkeyuser.com/2023/would-you-rather/257-would-you-rather.png`|Better points system
 
 ## What I Do (Sorry)
 Image|URL
@@ -36,3 +37,4 @@ Image|URL
 ![](https://www.monkeyuser.com/2018/blame/100-blame.png)|`https://www.monkeyuser.com/2018/blame/100-blame.png`
 ![](https://www.monkeyuser.com/2018/priorities/109-priorities.png)|`https://www.monkeyuser.com/2018/priorities/109-priorities.png`
 ![](https://www.monkeyuser.com/2019/meeting/118-meeting.png)|`https://www.monkeyuser.com/2019/meeting/118-meeting.png`
+![](https://www.monkeyuser.com/2022/small-delights/245-small-delights.png)|`https://www.monkeyuser.com/2022/small-delights/245-small-delights.png`
