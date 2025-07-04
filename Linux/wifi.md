@@ -17,6 +17,10 @@ nmcli device wifi list
 ```sh
 nmcli device wifi connect [SSID] password [PASSWORD]
 ```
+or
+```sh
+nmcli device wifi connect [SSID] --ask
+```
 
 # Reconnect to WiFi
 ```sh
