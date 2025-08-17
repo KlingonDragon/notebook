@@ -12,6 +12,7 @@
 - [ ] Braces $(\times 1)$
 - [ ] Tie $(\times 1)$
 - [ ] Pocket Square $(\times 1)$
+- [ ] Cufflinks $(\times 1\text{\tiny{pair}})$
 - [ ] Pocket Watch $(\times 1)$
 ### Other
 - [ ] Passport
@@ -35,6 +36,7 @@
 - [ ] Braces $(\max 2\text{\tiny{pairs}})$
 - [ ] Ties $(\times\lfloor{1.5n}\rfloor)$
 - [ ] Pocket Squares $(\times\lfloor{1.5n}\rfloor)$
+- [ ] Cufflinks $(\times n\text{\tiny{pairs}})$
 - [ ] PJs $(\times\lceil{n\over 5}\rceil)$
 ### Toiletries
 - [ ] Shampoo
@@ -46,10 +48,9 @@
 - [ ] Toothpaste
 ### Technology
 - [ ] Laptop
-- [ ] USB-C Laptop Charger
+- [ ] USB-C Laptop/Phone Charger
     - [ ] UK Plug
     - [ ] EU Plug
-- [ ] EU/UK Adaptors $(\min 2)$
 ### Other
 - [ ] Empty carrier bag (laundry)
 - [ ] Hankerchiefs $(\times\lceil{n\over 3}\rceil)$
