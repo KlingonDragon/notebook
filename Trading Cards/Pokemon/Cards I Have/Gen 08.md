@@ -249,6 +249,7 @@ Image|Set
 ![Polteageist](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SWSHP/SWSHP_EN_SWSH081.png)|![Sword & Shield Promo](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/swshp-expansion-symbol.png)<br/>SWSH081
 ![Polteageist](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SWSH1/SWSH1_EN_90.png)|![Sword & Shield](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/swsh1-expansion-symbol.png)<br/>90/202
 ![Polteageist](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SWSH3/SWSH3_EN_83.png)|![Darkness Ablaze](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/swsh3-expansion-symbol.png)<br/>83/189
+![Polteageist](https://assets.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SV03/SV03_EN_98.png)|![Obsidian Flames](https://www.pokemon.com/static-assets/content-assets/cms-en-uk/img/tcg/expansion-symbols/_40x40/sv03-expansion-symbol.png)<br/>98/227
 **Hatenna**|*#0856*
 ![Hatenna](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SWSH2/SWSH2_EN_83.png)|![Rebel Clash](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/swsh2-expansion-symbol.png)<br/>83/192
 ![Hatenna](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SWSH35/SWSH35_EN_18.png)|![Champion’s Path](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/swsh35-expansion-symbol.png)<br/>18/73
@@ -256,6 +257,7 @@ Image|Set
 **Hattrem**|*#0857*
 ![Hattrem](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SWSH2/SWSH2_EN_84.png)|![Rebel Clash](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/swsh2-expansion-symbol.png)<br/>84/192
 ![Hattrem](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SWSH35/SWSH35_EN_19.png)|![Champion’s Path](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/swsh35-expansion-symbol.png)<br/>19/73
+![Hatenna](https://assets.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SWSH35/SWSH35_EN_18.png)|M24<br/>5/15
 ![Hattrem](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SWSH6/SWSH6_EN_72.png)|![Chilling Reign](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/swsh6-expansion-symbol.png)<br/>72/198
 **Hatterene**|*#0858*
 ![Hatterene](https://assets.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SWSH6/SWSH6_EN_73.png)|![Chilling Reign](https://www.pokemon.com/static-assets/content-assets/cms-en-uk/img/tcg/expansion-symbols/_40x40/swsh6-expansion-symbol.png)<br/>73/198
