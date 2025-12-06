@@ -56,9 +56,18 @@ Image|Set
 ![Pikipek](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SM8/SM8_EN_163.png)|![Lost Thunder](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/sm8-expansion-symbol.png)<br/>163/214
 ![Pikipek](https://www.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SWSH4/SWSH4_EN_143.png)|![Vivid Voltage](https://www.pokemon.com/static-assets/content-assets/cms/img/tcg/expansion-symbols/_40x40/swsh4-expansion-symbol.png)<br/>143/185
 **Trumbeak**|*#0732*
+![Trumbeak](https://assets.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SM1/SM1_EN_107.png)|![Sun & Moon](https://www.pokemon.com/static-assets/content-assets/cms-en-uk/img/tcg/expansion-symbols/_40x40/sm1-expansion-symbol.png)<br/>107/149
+![Trumbeak](https://assets.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SM8/SM8_EN_165.png)|![Lost Thunder](https://www.pokemon.com/static-assets/content-assets/cms-en-uk/img/tcg/expansion-symbols/_40x40/sm8-expansion-symbol.png)<br/>165/214
+![Trumbeak](https://assets.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SWSH4/SWSH4_EN_144.png)|![Vivid Voltage](https://www.pokemon.com/static-assets/content-assets/cms-en-uk/img/tcg/expansion-symbols/_40x40/swsh4-expansion-symbol.png)<br/>144/185
 **Toucannon**|*#0733*
+![Toucannon](https://assets.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SM1/SM1_EN_108.png)|![Sun & Moon](https://www.pokemon.com/static-assets/content-assets/cms-en-uk/img/tcg/expansion-symbols/_40x40/sm1-expansion-symbol.png)<br/>108/149
+![Toucannon](https://assets.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SWSH4/SWSH4_EN_145.png)|![Vivid Voltage](https://www.pokemon.com/static-assets/content-assets/cms-en-uk/img/tcg/expansion-symbols/_40x40/swsh4-expansion-symbol.png)<br/>145/185
 **Yungoos**|*#0734*
+![Yungoos](https://assets.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SM1/SM1_EN_109.png)|![Sun & Moon](https://www.pokemon.com/static-assets/content-assets/cms-en-uk/img/tcg/expansion-symbols/_40x40/sm1-expansion-symbol.png)<br/>109/149
+![Yungoos](https://assets.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SM11/SM11_EN_180.png)|![Unified Minds](https://www.pokemon.com/static-assets/content-assets/cms-en-uk/img/tcg/expansion-symbols/_40x40/sm11-expansion-symbol.png)<br/>180/236
+![Yungoos](https://assets.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SWSH12PT5/SWSH12PT5_EN_117.png)|![Crown Zenith](https://www.pokemon.com/static-assets/content-assets/cms-en-uk/img/tcg/expansion-symbols/_40x40/swsh12pt5-expansion-symbol.png)<br/>117/159
 **Gumshoos**|*#0735*
+![Gumshoos](https://assets.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SM11/SM11_EN_181.png)|![Unified Minds](https://www.pokemon.com/static-assets/content-assets/cms-en-uk/img/tcg/expansion-symbols/_40x40/sm11-expansion-symbol.png)<br/>181/236
 **Grubbin**|*#0736*
 **Charjabug**|*#0737*
 **Vikavolt**|*#0738*
