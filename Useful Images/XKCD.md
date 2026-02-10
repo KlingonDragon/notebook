@@ -20,3 +20,4 @@ ID|Image|URL
 :-:|:-:|:-:
 1078|![](https://imgs.xkcd.com/comics/knights.png)|`https://imgs.xkcd.com/comics/knights.png`
 1152|![](https://imgs.xkcd.com/comics/communion.png)|`https://imgs.xkcd.com/comics/communion.png`
+3204|![](https://imgs.xkcd.com/comics/dinosaurs_and_non_dinosaurs.png)|`https://imgs.xkcd.com/comics/dinosaurs_and_non_dinosaurs.png`
