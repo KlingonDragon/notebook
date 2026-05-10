@@ -27,6 +27,7 @@ Super long; good for watching alone over several months.
 0) Episode III: Revenge of the Sith
 0) Tales of the Jedi² | S1E6
 0) The Bad Batch
+0) Maul - Shadow Lord
 0) Tales of the Empire
 0) Solo: A Star Wars Story
 0) Obi-Wan Kenobi
