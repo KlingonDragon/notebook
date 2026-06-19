@@ -23,14 +23,14 @@ Essentially, we removed actions and upgrade cards from the game.
 We play a simple two phase version of the game manoeuvre and attack.
 
 ### Manoeuvre
-- Everyone selects a manoeuvre then teams take turns to move in faction order.
+- Everyone selects a manoeuvre then teams take turns to move in ascending order of captain skill.
 - We play with "Power Strain":
     - Red manoeuvres give the ship an "Auxiliary Power Token".
     - Green manoeuvres remove an "Auxiliary Power Token" from the ship.
     - Ships with an "Auxiliary Power Token" may not perform red manoeuvres.
 
 ### Attack
-- Ships take turns to to attack in faction order.
+- Ships take turns to to attack in descending order of captain skill.
 - Ships may attack any ship within range and with any part of the base within the firing arc.
 - We play with "Range Combat Bonus" dice:
     - Attacks at range 1 give the attacker an additional attack die.
@@ -38,6 +38,13 @@ We play a simple two phase version of the game manoeuvre and attack.
 - Damage and evasion rolls apply as normal.
 - Every uncancelled hit gives the target ship a damage card.
 - Once a ship has as many (or more) cards as the sum of hull and shield stats, it is destroyed and removed from the game.
+
+### OP Tournament Resources
+We play with modified versions OP resources. The resources are available to all players but each player/team may only use one per game round. Two teams may use the same resource in the same round. A team may use different resources in different games. The resources have effects as described on their cards.
+- Counter Attack Die
+- Elite Attack Die
+- Evasive Action Template
+- Skilled Helmsman
 
 ## Additional Notes
 Many things follow the rules as given in the full "Rules of Play":
@@ -48,6 +55,4 @@ Many things follow the rules as given in the full "Rules of Play":
 ## Plans for potential additional tweaks
 - Work out a nice way to use hull and shields rather than combining them as a summed 'health' stat.
 - Work out a role for "Critical" hits.
-- Add the "OP resource" "Manoeuvre Templates".
 - Add basic ship actions
-- Add captains and use their skill levels for move and attack orders.
